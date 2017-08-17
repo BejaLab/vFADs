@@ -1,0 +1,1151 @@
+Strain	accession	gene	original_header	seq_type	tax	vsearch_hash	len
+MIT9107	AF001490	petB	Prochlorococcus sp. MIT9107 cytochrome b6 (petB) and b6/f complex subunit IV (petD) genes, partial cds	petB_Pro_HLII|HLIIB	MIC	ec11479e5033b50dcfe071f9615689b6	442
+NATL2A	AF001489	petB	Prochlorococcus sp. NATL2A cytochrome b6 (petB) and b6/f complex subunit IV (petD) genes, partial cds	petB_Pro_LLI|LLIA	MIC	28a70d8cb6fe220667d8d6add52f3f47	470
+EnvTARA094	KU377990	petB	Uncultured Prochlorococcus sp. clone EnvTARA094 cytochrome b6 (petB) gene, complete cds	petB_Pro_LLIV|LLIVA	MIC	bc5a1dea2d01b6d94b2328ffe4c37bdb	657
+EnvTARA009	KU377989	petB	Uncultured Synechococcus sp. clone EnvTARA009 cytochrome b6 (petB) gene, complete cds	petB_Syn_CRD1|CRD1C	MIC	dd292db73c1da568d90b67f08eb9c671	657
+NS01	KU377988	petB	Cyanobium sp. NS01 cytochrome b6 (petB) gene, complete cds	petB_Syn_5_2|5.2A	MIC	3ce768d2e0037a55c923a5d23f166246	672
+BIOS-E4-1	KU377987	petB	Synechococcus sp. BIOS-E4-1 cytochrome b6 (petB) gene, complete cds	petB_Syn_CRD1|CRD1C	MIC	7d7adf5307bfa30ef577e5d5abc24106	657
+BIOS-U3-1	KU377986	petB	Synechococcus sp. BIOS-U3-1 cytochrome b6 (petB) gene, complete cds	petB_Syn_CRD1|CRD1B	MIC	2bb0e0f040a350821d738303078a2ea3	657
+BMK-MC-1	KU377985	petB	Synechococcus sp. BMK-MC-1 cytochrome b6 (petB) gene, complete cds	petB_Syn_V|VA	MIC	068af7ceb393e59798680baf3f6d74c2	657
+BOUM118	KU377984	petB	Synechococcus sp. BOUM118 cytochrome b6 (petB) gene, complete cds	petB_Syn_III|IIIA	MIC	8b64b66e3c9274c3652ac028d0e37a77	657
+MINOS11	KU377983	petB	Synechococcus sp. Minos11 cytochrome b6 (petB) gene, complete cds	petB_Syn_5_3|5.3A	MIC	69c5a9eea15af33de8e1539ece18f49e	657
+NOUM97013	KU377982	petB	Synechococcus sp. NOUM97013 cytochrome b6 (petB) gene, complete cds	petB_Syn_VII|VIIA	MIC	9dd69d62ec87bfc4707f5fcf2b61a0db	657
+EnvTARA001	KU377981	petB	Uncultured Prochlorococcus sp. clone EnvTARA001 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLIV|LLIVA	MIC	084aa1055134b0007c181235f7f14a47	557
+EnvTARA002	KU377980	petB	Uncultured Prochlorococcus sp. clone EnvTARA002 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLIV|LLIVA	MIC	b896a20b40d896d7672503fbadd6af4a	557
+EnvTARA003	KU377979	petB	Uncultured Prochlorococcus sp. clone EnvTARA003 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLIV|LLIVA	MIC	175449828c87d415d41c1d1c749a976c	566
+EnvTARA004	KU377978	petB	Uncultured Prochlorococcus sp. clone EnvTARA004 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLIV|LLIVA	MIC	b821292f7d6a27395cba29acf00ecb8f	566
+EnvTARA005	KU377977	petB	Uncultured Prochlorococcus sp. clone EnvTARA005 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLII_III|LLII-IIIA	MIC	e3fecbe576198cb6c657d257b10939b4	558
+EnvTARA007	KU377976	petB	Uncultured Prochlorococcus sp. clone EnvTARA007 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLII_III|LLII-IIIA	MIC	d325456fe7ef399a6747d285fdb56d80	600
+EnvTARA016	KU377975	petB	Uncultured Prochlorococcus sp. clone EnvTARA016 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIC	MIC	d7e7907dc1e65b7087e2e19e5305b3f5	557
+EnvTARA017	KU377974	petB	Uncultured Prochlorococcus sp. clone EnvTARA017 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLI-Others	MIC	90066599faf35cdebbd39d80b274afe8	557
+EnvTARA018	KU377973	petB	Uncultured Prochlorococcus sp. clone EnvTARA018 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIC	MIC	9f3ddd49d2cd27ca9ffd308ce00360b5	557
+EnvTARA019	KU377972	petB	Uncultured Prochlorococcus sp. clone EnvTARA019 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLI-Others	MIC	b238eb6b0c76ecb7b0fcd09da280fde5	557
+EnvTARA020	KU377971	petB	Uncultured Prochlorococcus sp. clone EnvTARA020 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIC	MIC	f31b1ac0fef5c96d73fef9bc470d4ffe	557
+EnvTARA021	KU377970	petB	Uncultured Prochlorococcus sp. clone EnvTARA021 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIC	MIC	0430ef12ed5f1bdb75d9cfa199bcc848	557
+EnvTARA022	KU377969	petB	Uncultured Prochlorococcus sp. clone EnvTARA022 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIC	MIC	ccd6cbf75563a118fec2e0dddc881ffe	557
+EnvTARA023	KU377968	petB	Uncultured Prochlorococcus sp. clone EnvTARA023 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIC	MIC	d39581f1bc41e442b6077a51169e0f99	557
+EnvTARA025	KU377967	petB	Uncultured Prochlorococcus sp. clone EnvTARA025 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIC	MIC	663d2a97374a83f1ecba25f8efbf5c3d	557
+EnvTARA026	KU377966	petB	Uncultured Prochlorococcus sp. clone EnvTARA026 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLI-Others	MIC	8927852d2dcdee1042bd9da6423732de	557
+EnvTARA027	KU377965	petB	Uncultured Prochlorococcus sp. clone EnvTARA027 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIA	MIC	478ac9b37646d15fd0522c6b57554abc	557
+EnvTARA029	KU377964	petB	Uncultured Prochlorococcus sp. clone EnvTARA029 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLIB	MIC	cb6017aefc5eaa8e650e482c953c878d	572
+EnvTARA030	KU377963	petB	Uncultured Prochlorococcus sp. clone EnvTARA030 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLIB	MIC	25300d252924bd9302b70c70be41a645	571
+EnvTARA031	KU377962	petB	Uncultured Prochlorococcus sp. clone EnvTARA031 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLID	MIC	2b232b3bfa51ee981d8df48805fe52f5	592
+EnvTARA032	KU377961	petB	Uncultured Prochlorococcus sp. clone EnvTARA032 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLIV|HLIVA	MIC	eb3852ce0c39b1bbdfe9efc296fe8e2d	595
+EnvTARA033	KU377960	petB	Uncultured Prochlorococcus sp. clone EnvTARA033 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLIC	MIC	5586f92de516f60213a9513187e53451	581
+EnvTARA034	KU377959	petB	Uncultured Prochlorococcus sp. clone EnvTARA034 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLIC	MIC	1f4a1f1f8182ca8e239f91af8a51e84a	561
+EnvTARA051	KU377958	petB	Uncultured Prochlorococcus sp. clone EnvTARA051 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLIC	MIC	48d54910d568fe9d3e0425da20e1c38c	590
+EnvTARA052	KU377957	petB	Uncultured Prochlorococcus sp. clone EnvTARA052 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLIC	MIC	8aaa9922e05a52b074befd57255e6f48	573
+EnvTARA053	KU377956	petB	Uncultured Prochlorococcus sp. clone EnvTARA053 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLID	MIC	7c6e79b0da5a77ecd9682264407f0aae	570
+EnvTARA055	KU377955	petB	Uncultured Prochlorococcus sp. clone EnvTARA055 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLIC	MIC	9b7bac2eafa5f9d3264d49385ee7c575	567
+EnvTARA056	KU377954	petB	Uncultured Prochlorococcus sp. clone EnvTARA056 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLID	MIC	d25a710e75f0488d71dc5da83d5da097	571
+EnvTARA057	KU377953	petB	Uncultured Prochlorococcus sp. clone EnvTARA057 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLIC	MIC	c45da15aa0e52c02b70a5b7db5a32293	561
+EnvTARA058	KU377952	petB	Uncultured Prochlorococcus sp. clone EnvTARA058 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLIC	MIC	93b3239777164ade26157e49d73b406d	566
+EnvTARA059	KU377951	petB	Uncultured Prochlorococcus sp. clone EnvTARA059 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIB	MIC	7ee1a0f94cebbdf2fbbe8a95ccead54b	559
+EnvTARA060	KU377950	petB	Uncultured Prochlorococcus sp. clone EnvTARA060 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIB	MIC	011fd0dbe54d2d82be5f661eb13e3741	557
+EnvTARA061	KU377949	petB	Uncultured Prochlorococcus sp. clone EnvTARA061 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIB	MIC	90f4fa432af0c144e9824ed68ffad1c9	568
+EnvTARA062	KU377948	petB	Uncultured Prochlorococcus sp. clone EnvTARA062 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLID	MIC	d3eba401360ebf5fc9432e47ef7da913	560
+EnvTARA063	KU377947	petB	Uncultured Prochlorococcus sp. clone EnvTARA063 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIA	MIC	c8ab4ce6fe54c3ecd7c8c207c8aa48b1	567
+EnvTARA064	KU377946	petB	Uncultured Prochlorococcus sp. clone EnvTARA064 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLIC	MIC	f4de43e5e093dabe82dcea53bd52eeec	560
+EnvTARA065	KU377945	petB	Uncultured Prochlorococcus sp. clone EnvTARA065 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIB	MIC	1682918d7d37d63e52bc6e74f8fae0cc	557
+EnvTARA068	KU377944	petB	Uncultured Prochlorococcus sp. clone EnvTARA068 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLIV|HLIVA	MIC	8f7676a34e31893f1dba5f9ad2aad2fc	567
+EnvTARA069	KU377943	petB	Uncultured Prochlorococcus sp. clone EnvTARA069 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLIV|HLIVA	MIC	b5079530e054dc596d96522972950b97	561
+EnvTARA070	KU377942	petB	Uncultured Prochlorococcus sp. clone EnvTARA070 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLIV|HLIVA	MIC	4e970cd403ecbc41d91a53f2de3a1be2	561
+EnvTARA073	KU377941	petB	Uncultured Prochlorococcus sp. clone EnvTARA073 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLIV|HLIVA	MIC	593720217adc2b4fe671c68a77740b33	587
+EnvTARA077	KU377940	petB	Uncultured Prochlorococcus sp. clone EnvTARA077 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLIV|HLIVA	MIC	5141df1c30db857bc0ae1d936caa9b19	586
+EnvTARA078	KU377939	petB	Uncultured Prochlorococcus sp. clone EnvTARA078 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLIV|HLIVA	MIC	f32789bf47ba4da599d49d84d064b4d8	577
+EnvTARA079	KU377938	petB	Uncultured Prochlorococcus sp. clone EnvTARA079 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLIV|HLIVA	MIC	5a71e55f6262517f7dd07aa6f758c2c9	570
+EnvTARA080	KU377937	petB	Uncultured Prochlorococcus sp. clone EnvTARA080 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLIV|HLIVA	MIC	620bc52fea3bf185a1523160c03f57c9	589
+EnvTARA081	KU377936	petB	Uncultured Prochlorococcus sp. clone EnvTARA081 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLID	MIC	29b845a7558a1450008832a07fb0a1ff	572
+EnvTARA082	KU377935	petB	Uncultured Prochlorococcus sp. clone EnvTARA082 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLID	MIC	2abc28fa0de370b3a55caec4636d7675	552
+EnvTARA083	KU377934	petB	Uncultured Prochlorococcus sp. clone EnvTARA083 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLIII|HLIIIA	MIC	80a77ce9665cfd667878b5e9a25e7e1c	592
+EnvTARA084	KU377933	petB	Uncultured Prochlorococcus sp. clone EnvTARA084 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLIII|HLIIIA	MIC	9bd0f7cf8ccb8dc2abb5faf2b85b671a	587
+EnvTARA085	KU377932	petB	Uncultured Prochlorococcus sp. clone EnvTARA085 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLIC	MIC	cd7e969d6e89a27ec3b9f59ed33e4f33	581
+EnvTARA086	KU377931	petB	Uncultured Prochlorococcus sp. clone EnvTARA086 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIC	MIC	0be64678c08cc31936311521e34dca9c	573
+EnvTARA087	KU377930	petB	Uncultured Prochlorococcus sp. clone EnvTARA087 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIC	MIC	2eff982a3ea11177af7e7c5b7e431f7f	573
+EnvTARA088	KU377929	petB	Uncultured Prochlorococcus sp. clone EnvTARA088 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIC	MIC	af10d71b07f323d19fddb1cdd7762747	578
+EnvTARA089	KU377928	petB	Uncultured Prochlorococcus sp. clone EnvTARA089 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLIV|LLIVA	MIC	0e3a0465de823e47c2729a4cfa76f947	581
+EnvTARA090	KU377927	petB	Uncultured Prochlorococcus sp. clone EnvTARA090 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLIC	MIC	30e2537ff5c139e14b7c5de7df25e123	569
+EnvTARA091	KU377926	petB	Uncultured Prochlorococcus sp. clone EnvTARA091 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLID	MIC	6430345947dd9f9153371a92c86e669a	632
+EnvTARA092	KU377925	petB	Uncultured Prochlorococcus sp. clone EnvTARA092 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLID	MIC	d732152fae3c1479aad78e6cef2ad2af	583
+EnvTARA093	KU377924	petB	Uncultured Prochlorococcus sp. clone EnvTARA093 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLID	MIC	7ea4eed5f809b9836ea5475e17a8781b	629
+EnvTARA096	KU377923	petB	Uncultured Prochlorococcus sp. clone EnvTARA096 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLIC	MIC	2ec29dc2037320adc294b5d9a968e985	580
+EnvTARA097	KU377922	petB	Uncultured Prochlorococcus sp. clone EnvTARA097 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLID	MIC	cfb5c3fe26d83527c6ff92f921e9592e	575
+EnvTARA098	KU377921	petB	Uncultured Prochlorococcus sp. clone EnvTARA098 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIC	MIC	411fae4092e67b27a58113b7e8b7ed25	573
+EnvTARA099	KU377920	petB	Uncultured Prochlorococcus sp. clone EnvTARA099 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIB	MIC	257efa3bcce5cc9319e3559f6424f7fd	560
+EnvTARA100	KU377919	petB	Uncultured Prochlorococcus sp. clone EnvTARA100 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLID	MIC	e4089e0335bab7b7c30c3d7209af1541	559
+EnvTARA101	KU377918	petB	Uncultured Prochlorococcus sp. clone EnvTARA101 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLIC	MIC	dd350192d2d2176f41e9437d1b5d7fe8	573
+EnvTARA102	KU377917	petB	Uncultured Prochlorococcus sp. clone EnvTARA102 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIB	MIC	f2e3d9e80fc53c83e15d70d1acfe7a6e	574
+EnvTARA103	KU377916	petB	Uncultured Prochlorococcus sp. clone EnvTARA103 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIA	MIC	8b10832938e33ae72b2bcabba7c8ccb6	557
+EnvTARA104	KU377915	petB	Uncultured Prochlorococcus sp. clone EnvTARA104 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLIA	MIC	df4d4f3f34f9f4388b9a8bde7152d359	575
+EnvTARA105	KU377914	petB	Uncultured Prochlorococcus sp. clone EnvTARA105 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLIC	MIC	17438263844407886cdf04d474a8bed0	569
+EnvTARA106	KU377913	petB	Uncultured Prochlorococcus sp. clone EnvTARA106 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIID	MIC	4ae5e6cec9154cbc36d2a4f184a7450a	580
+EnvTARA107	KU377912	petB	Uncultured Prochlorococcus sp. clone EnvTARA107 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIA	MIC	84f34d0cd6f19f20a9016139745910aa	564
+EnvTARA108	KU377911	petB	Uncultured Prochlorococcus sp. clone EnvTARA108 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIA	MIC	d72880a10d33e282dc815e080f92585a	564
+EnvTARA109	KU377910	petB	Uncultured Prochlorococcus sp. clone EnvTARA109 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLID	MIC	6e8bf91e862e39df6f7822a35539e3f6	606
+EnvTARA110	KU377909	petB	Uncultured Prochlorococcus sp. clone EnvTARA110 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLIC	MIC	cdd74a8a8f897f6b7a08d36cf6ac6f5b	573
+EnvTARA111	KU377908	petB	Uncultured Prochlorococcus sp. clone EnvTARA111 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLID	MIC	9aca5fb4d11ca364c2ab496529b470be	605
+EnvTARA112	KU377907	petB	Uncultured Prochlorococcus sp. clone EnvTARA112 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLID	MIC	ea3ec63670435f797e2989e440edb116	565
+EnvTARA113	KU377906	petB	Uncultured Prochlorococcus sp. clone EnvTARA113 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIA	MIC	7c1f665a777d2eb6f177ffd02739673b	615
+EnvTARA115	KU377905	petB	Uncultured Prochlorococcus sp. clone EnvTARA115 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIA	MIC	e722b3b7e4f0e31cf0cebbb9cbfc716b	573
+EnvTARA116	KU377904	petB	Uncultured Prochlorococcus sp. clone EnvTARA116 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIA	MIC	10c8dcdd013df4db417ba97da9b4405a	597
+EnvTARA117	KU377903	petB	Uncultured Prochlorococcus sp. clone EnvTARA117 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIB	MIC	06626ff0e0ab40c67b07b9376874b43b	613
+EnvTARA118	KU377902	petB	Uncultured Prochlorococcus sp. clone EnvTARA118 cytochrome b6 (petB) gene, partial cds	petB_Pro_LLI|LLIC	MIC	520b644be5399dd0e6089ad91167a35b	601
+EnvTARA119	KU377901	petB	Uncultured Prochlorococcus sp. clone EnvTARA119 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIID	MIC	df3660a949094591b417d473e0101297	557
+EnvTARA120	KU377900	petB	Uncultured Prochlorococcus sp. clone EnvTARA120 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIA	MIC	29d11c10e3942926f04dd421393a6103	568
+EnvTARA121	KU377899	petB	Uncultured Prochlorococcus sp. clone EnvTARA121 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIA	MIC	2aae00ba464e8161ba6495cb65aa00a8	560
+EnvTARA122	KU377898	petB	Uncultured Prochlorococcus sp. clone EnvTARA122 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIB	MIC	323dfb870f08b3c30a738673ce5efc27	564
+EnvTARA123	KU377897	petB	Uncultured Prochlorococcus sp. clone EnvTARA123 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIID	MIC	1af4699852495954a97692bcb18ca2d0	599
+EnvTARA124	KU377896	petB	Uncultured Prochlorococcus sp. clone EnvTARA124 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIA	MIC	133334e34af568ed5291aecc851b0e7a	557
+EnvTARA125	KU377895	petB	Uncultured Prochlorococcus sp. clone EnvTARA125 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIID	MIC	11c8c5e5385ec715d995067a2fb0fa52	599
+EnvTARA126	KU377894	petB	Uncultured Prochlorococcus sp. clone EnvTARA126 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIID	MIC	bbcaf911acf5f1265760159761fed496	563
+EnvTARA127	KU377893	petB	Uncultured Prochlorococcus sp. clone EnvTARA127 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIA	MIC	f595b63d336ba5906fda5e934f271bdf	569
+EnvTARA128	KU377892	petB	Uncultured Prochlorococcus sp. clone EnvTARA128 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIA	MIC	f708ed6480de3a10b784577917a33473	565
+EnvTARA129	KU377891	petB	Uncultured Prochlorococcus sp. clone EnvTARA129 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIB	MIC	813dce1e0a1a86ec3a5cb96d4727da89	562
+EnvTARA130	KU377890	petB	Uncultured Prochlorococcus sp. clone EnvTARA130 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIC	MIC	7898771467adc0f2492bcbf5729515c0	566
+EnvTARA131	KU377889	petB	Uncultured Prochlorococcus sp. clone EnvTARA131 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIA	MIC	1c84d6f27df2fc3bcb5e76d86aff8dba	599
+EnvTARA132	KU377888	petB	Uncultured Prochlorococcus sp. clone EnvTARA132 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIA	MIC	01b697287b8fb152033956b28d03b2ea	561
+EnvTARA133	KU377887	petB	Uncultured Prochlorococcus sp. clone EnvTARA133 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIA	MIC	c08d26919526749a869e16cd43070565	566
+EnvTARA134	KU377886	petB	Uncultured Prochlorococcus sp. clone EnvTARA134 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLID	MIC	6b106804b5d2dbd01a8fb2841b6846f6	582
+EnvTARA135	KU377885	petB	Uncultured Prochlorococcus sp. clone EnvTARA135 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLID	MIC	9724c1077b5bee125468857401b71dad	570
+EnvTARA136	KU377884	petB	Uncultured Prochlorococcus sp. clone EnvTARA136 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLID	MIC	c929c79922ec06b4815d35d2ae59a502	565
+EnvTARA138	KU377883	petB	Uncultured Prochlorococcus sp. clone EnvTARA138 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIA	MIC	653b2b9a98e1192a9634f8e41afac1db	567
+EnvTARA139	KU377882	petB	Uncultured Prochlorococcus sp. clone EnvTARA139 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIA	MIC	feed89cc4ba9f79cc77240d5e86532c1	572
+EnvTARA140	KU377881	petB	Uncultured Prochlorococcus sp. clone EnvTARA140 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIA	MIC	d5a5b1a4b3f064cfb2ad3224231d060d	558
+EnvTARA141	KU377880	petB	Uncultured Prochlorococcus sp. clone EnvTARA141 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIA	MIC	6bd4a909a28feaa8aba1ed5c0a1bd055	580
+EnvTARA142	KU377879	petB	Uncultured Prochlorococcus sp. clone EnvTARA142 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIA	MIC	3e316f35d5539cd3d779c0210920f818	587
+EnvTARA143	KU377878	petB	Uncultured Prochlorococcus sp. clone EnvTARA143 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIA	MIC	bf6c7939914eac2ce130aaeebb8f92e6	584
+EnvTARA144	KU377877	petB	Uncultured Prochlorococcus sp. clone EnvTARA144 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIA	MIC	ec8720cf8461358957b5b6477500059b	559
+EnvTARA145	KU377876	petB	Uncultured Prochlorococcus sp. clone EnvTARA145 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIA	MIC	f51b44e32be5db4b0da6bbcf351d60f9	557
+EnvTARA146	KU377875	petB	Uncultured Prochlorococcus sp. clone EnvTARA146 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIID	MIC	4b9f48856a1933f4b09e0778c6bd9bd5	559
+EnvTARA147	KU377874	petB	Uncultured Prochlorococcus sp. clone EnvTARA147 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLII|HLIIA	MIC	d83f006ca54d50f266022cf3f5bcf31a	559
+EnvTARA149	KU377873	petB	Uncultured Prochlorococcus sp. clone EnvTARA149 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIB	MIC	2e6de179f0217daeb24ce6c435f5c4df	583
+EnvTARA150	KU377872	petB	Uncultured Prochlorococcus sp. clone EnvTARA150 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIB	MIC	d8a354b641d259e3e3cd2369d0fb2fdd	580
+EnvTARA151	KU377871	petB	Uncultured Prochlorococcus sp. clone EnvTARA151 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIC	MIC	76623c4ed70eabdb02e1b935c55fc1b7	568
+EnvTARA152	KU377870	petB	Uncultured Prochlorococcus sp. clone EnvTARA152 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIB	MIC	feba5bc11467b9fdb2bb31dced8f142c	566
+EnvTARA153	KU377869	petB	Uncultured Prochlorococcus sp. clone EnvTARA153 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIB	MIC	b54448b099d5d36f8429b7ca24b9f344	593
+EnvTARA154	KU377868	petB	Uncultured Prochlorococcus sp. clone EnvTARA154 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIB	MIC	52df5b449c327367207815bbff4ea8ce	565
+EnvTARA155	KU377867	petB	Uncultured Prochlorococcus sp. clone EnvTARA155 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIA	MIC	feca848013b836ff0f37caea6c9f4dea	557
+EnvTARA156	KU377866	petB	Uncultured Prochlorococcus sp. clone EnvTARA156 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIA	MIC	b1dcf5a0e5aa6d376bd2a6e05052b746	558
+EnvTARA157	KU377865	petB	Uncultured Prochlorococcus sp. clone EnvTARA157 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIA	MIC	8a5c6a5f255749521eee128bfa9c5792	557
+EnvTARA158	KU377864	petB	Uncultured Prochlorococcus sp. clone EnvTARA158 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIA	MIC	31af544e5788640aa516e62c12b141d0	560
+EnvTARA159	KU377863	petB	Uncultured Prochlorococcus sp. clone EnvTARA159 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIC	MIC	8d83ef6888ee8860c868604a20c360e7	561
+EnvTARA160	KU377862	petB	Uncultured Prochlorococcus sp. clone EnvTARA160 cytochrome b6 (petB) gene, partial cds	petB_Pro_HLI|HLIA	MIC	6a36b580f5711b5e73ada6fafd2695ea	567
+EnvTARA008	KU377861	petB	Uncultured Synechococcus sp. clone EnvTARA008 cytochrome b6 (petB) gene, partial cds	petB_Syn_CRD1|CRD1C	MIC	cc71daf064360e95764b587fe7caf72e	596
+EnvTARA010	KU377860	petB	Uncultured Synechococcus sp. clone EnvTARA010 cytochrome b6 (petB) gene, partial cds	petB_Syn_CRD1|CRD1C	MIC	4e28b494ee4137a1e54b737346248e9d	629
+EnvTARA011	KU377859	petB	Uncultured Synechococcus sp. clone EnvTARA011 cytochrome b6 (petB) gene, partial cds	petB_Syn_CRD1|CRD1C	MIC	550168033432e95f84bb1adf9fbc7d8f	637
+EnvTARA012	KU377858	petB	Uncultured Synechococcus sp. clone EnvTARA012 cytochrome b6 (petB) gene, partial cds	petB_Syn_CRD1|CRD1C	MIC	443c152343598f786c846fd3b3eca4ac	647
+EnvTARA015	KU377857	petB	Uncultured Synechococcus sp. clone EnvTARA015 cytochrome b6 (petB) gene, partial cds	petB_Syn_EnvB|EnvBC	MIC	2c9c01ec2d6961b94b88425c908cdf4d	601
+EnvTARA035	KU377856	petB	Uncultured Synechococcus sp. clone EnvTARA035 cytochrome b6 (petB) gene, partial cds	petB_Syn_CRD1|CRD1C	MIC	063bc0e81735137931d61fd48215f03f	584
+EnvTARA037	KU377855	petB	Uncultured Synechococcus sp. clone EnvTARA037 cytochrome b6 (petB) gene, partial cds	petB_Syn_EnvB|EnvBC	MIC	3ad60411cec8132bc3f1baba976334ee	591
+EnvTARA038	KU377854	petB	Uncultured Synechococcus sp. clone EnvTARA038 cytochrome b6 (petB) gene, partial cds	petB_Syn_EnvB|EnvBC	MIC	f79e57250ee88e1a0dc387da995188eb	578
+EnvTARA039	KU377853	petB	Uncultured Synechococcus sp. clone EnvTARA039 cytochrome b6 (petB) gene, partial cds	petB_Syn_5_3|5.3B	MIC	0a33704f2401f42ebc03adb3dee2ffb8	574
+EnvTARA041	KU377852	petB	Uncultured Synechococcus sp. clone EnvTARA041 cytochrome b6 (petB) gene, partial cds	petB_Syn_5_3|5.3D	MIC	b87c4926005c723b23eb26cb34486def	562
+EnvTARA045	KU377851	petB	Uncultured Synechococcus sp. clone EnvTARA045 cytochrome b6 (petB) gene, partial cds	petB_Syn_5_3|5.3C	MIC	15c38380c2ac4fe0c477f5bfd94281df	568
+EnvTARA047	KU377850	petB	Uncultured Synechococcus sp. clone EnvTARA047 cytochrome b6 (petB) gene, partial cds	petB_Syn_5_3|5.3D	MIC	498db5ead89e54e645031b76395a8a66	557
+EnvTARA048	KU377849	petB	Uncultured Synechococcus sp. clone EnvTARA048 cytochrome b6 (petB) gene, partial cds	petB_Syn_WPC1|WPC1A	MIC	4f5d023890e735ea2c98de6e407b9ff6	562
+EnvTARA049	KU377848	petB	Uncultured Synechococcus sp. clone EnvTARA049 cytochrome b6 (petB) gene, partial cds	petB_Syn_5_3|5.3C	MIC	b7caf53e5fdfb4e473b5fe49498e9878	557
+Biosope-141-D	KU377847	petB	Synechococcus sp. Biosope-141-D cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	31b3958f0adfef528e50c8aca5950f7c	559
+BOUM29-1	KU377846	petB	Synechococcus sp. BOUM29-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	acf496f1fcf876d071610215c5b60648	567
+BOUM29-3	KU377845	petB	Synechococcus sp. BOUM29-3 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	859dc90fb22b544576cefc095c4e523c	567
+BOUM31-10	KU377844	petB	Synechococcus sp. BOUM31-10 cytochrome b6 (petB) gene, partial cds	petB_Syn_IV|IVA	MIC	3cca7340c3114799777c2852bce80bbf	567
+BOUM32-0	KU377843	petB	Synechococcus sp. BOUM32-0 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	62ade35befbd45e47b7e5f647bf3e0a7	567
+BOUM33-22	KU377842	petB	Synechococcus sp. BOUM33-22 cytochrome b6 (petB) gene, partial cds	petB_Syn_XVI|XVIA	MIC	5d42c9433d6e3a46d1355e7c5106b952	567
+BOUM68-1	KU377841	petB	Synechococcus sp. BOUM68-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	d10284040ca04dae4006bfcf9416b4bf	567
+BOUM69-2	KU377840	petB	Synechococcus sp. BOUM69-2 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	1d02251ff2762f5d5500835923e1f0e5	567
+BOUM70-7	KU377839	petB	Synechococcus sp. BOUM70-7 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	f24e00d5023b113c97de8fe28d56b4cc	567
+BOUM72-1	KU377838	petB	Synechococcus sp. BOUM72-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	cbb75b9ee77f7359d326274e62aa50c5	567
+BOUM78-1	KU377837	petB	Synechococcus sp. BOUM78-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	de046b5f50df974a7924b65e90fe15dd	567
+BOUM78-7	KU377836	petB	Synechococcus sp. BOUM78-7 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	bfc2d4ab350528e195fe710fca3e470e	567
+BOUM79-2	KU377835	petB	Synechococcus sp. BOUM79-2 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	6a8124cd4124be552d2d98a6cef4b884	567
+BOUM80-11	KU377834	petB	Synechococcus sp. BOUM80-11 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	c90db88cd9637d426264771c68b0e5c9	567
+BOUM81-1	KU377833	petB	Synechococcus sp. BOUM81-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_VI|VIA	MIC	265b7b376f32048b8af1c7d6fca75b63	567
+BOUM81-5	KU377832	petB	Synechococcus sp. BOUM81-5 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	a6266cdcf35614894181f7b62cf90f44	567
+BOUM83-3	KU377831	petB	Synechococcus sp. BOUM83-3 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	5000a623b5e8d0c24ac7e7b0a89cb629	567
+BOUM84-1	KU377830	petB	Synechococcus sp. BOUM84-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_II|IIB	MIC	a5b85d7e1e5c52ee22b6526151e39832	567
+BOUM84-5	KU377829	petB	Synechococcus sp. BOUM84-5 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	4fbcef531f8b90611b7d99c9fb17ec6b	567
+BOUM84-12	KU377828	petB	Synechococcus sp. BOUM84-12 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	4a6c5211e9584082f0cae749365104d6	567
+BOUM85-0	KU377827	petB	Synechococcus sp. BOUM85-0 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	51193e10001e2f0fd088b2fe5cf4a2cd	567
+BOUM87-4	KU377826	petB	Synechococcus sp. BOUM87-4 cytochrome b6 (petB) gene, partial cds	petB_Syn_VI|VIA	MIC	158f500b95d79e7591bc5bcc5351e14a	567
+BOUM90-3	KU377825	petB	Synechococcus sp. BOUM90-3 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	49d644b24ce68e4d3d0a56fa7fe87012	567
+BOUM91-1	KU377824	petB	Synechococcus sp. BOUM91-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	e3bb75ea0f851abe5b5d36bc53f373c1	567
+BOUM91-3	KU377823	petB	Synechococcus sp. BOUM91-3 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	85d01b920e8ba341baef97b50345e582	567
+BOUM91-4	KU377822	petB	Synechococcus sp. BOUM91-4 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	e052ce3ced929c0809924a80930c7b32	567
+BOUM93-0	KU377821	petB	Synechococcus sp. BOUM93-0 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	8103120bb40f361dc30650c67bd612f2	567
+BOUM102-1	KU377820	petB	Synechococcus sp. BOUM102-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_VI|VIA	MIC	d96e48493cd931646ebf49563b2d0452	567
+BOUM104-4	KU377819	petB	Synechococcus sp. BOUM104-4 cytochrome b6 (petB) gene, partial cds	petB_Syn_VI|VIA	MIC	84ea540daad53b165f084fcfd33c73b5	567
+BOUM104-5	KU377818	petB	Synechococcus sp. BOUM104-5 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	ac19fea874dca16206e6fecdbf09bb53	567
+BOUM107-14	KU377817	petB	Synechococcus sp. BOUM107-14 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	53fa3b2e724a3e8384e8d478cec880b8	567
+BOUM107-16	KU377816	petB	Synechococcus sp. BOUM107-16 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	fed1a7b51d73dfc840846cb73071b147	567
+BOUM109-2	KU377815	petB	Synechococcus sp. BOUM109-2 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	0e7c1ac04661918d22045ae5edfce10b	567
+BOUM112-1	KU377814	petB	Synechococcus sp. BOUM112-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	937ee73d4269d5e07286dc1f4295cdb2	567
+BOUM113-3	KU377813	petB	Synechococcus sp. BOUM113-3 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	1af068ec6091746993b705be8520a6e9	567
+CARBOM-02-Syn-04	KU377812	petB	Synechococcus sp. CARBOM-02-Syn-04 cytochrome b6 (petB) gene, partial cds	petB_Syn_II|IIA	MIC	ce075f55adcb0db870e273d82a348aed	574
+MICROVIR-1CH-2	KU377811	petB	Synechococcus sp. MICROVIR-1CH-2 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	597c1e5648d0698eaabee6b0ad6722fc	567
+MICROVIR-1CH-4-2	KU377810	petB	Synechococcus sp. MICROVIR-1CH-4-2 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	1901300a7426d7cb5ae2826d2dc440b7	567
+MICROVIR-2CR-4-3	KU377809	petB	Synechococcus sp. MICROVIR-2CR-4-3 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	90bba7ad637414891232eae53325c459	579
+MICROVIR-2CR-4-5	KU377808	petB	Synechococcus sp. MICROVIR-2CR-4-5 cytochrome b6 (petB) gene, partial cds	petB_Syn_IV|IVA	MIC	fcc85c2d182e714324edd677f69b0dec	579
+MICROVIR-2K-2	KU377807	petB	Synechococcus sp. MICROVIR-2K-2 cytochrome b6 (petB) gene, partial cds	petB_Syn_IV|IVA	MIC	d5234b03bed3c90c15c7591bcb1fc0f0	579
+MICROVIR-3CH-0	KU377806	petB	Synechococcus sp. MICROVIR-3CH-0 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	6e82bcad0d84bca67590d9a1e6507c4c	579
+MICROVIR-3CR-1	KU377805	petB	Synechococcus sp. MICROVIR-3CR-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	f243c0274d2b90513ea072f368230aa3	579
+MICROVIR-5CR-4-3	KU377804	petB	Synechococcus sp. MICROVIR-5CR-4-3 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	b559a6b4bf960aed74e3941922ee13a0	579
+MICROVIR-6CH-1	KU377803	petB	Synechococcus sp. MICROVIR-6CH-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	216853e6bcdffc65ad0674570b1d0c52	567
+MICROVIR-7CR-3	KU377802	petB	Synechococcus sp. MICROVIR-7CR-3 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	b459ffd4d1999929a41f8b7ecf6f611e	579
+MICROVIR-7CR-4-6	KU377801	petB	Synechococcus sp. MICROVIR-7CR-4-6 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	4658ca4071418e90af47b0e7c242ed46	579
+MICROVIR-8CR-4-1	KU377800	petB	Synechococcus sp. MICROVIR-8CR-4-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	b23284d55f6024de2346d0ca92631bef	579
+MICROVIR-8CR-4-5	KU377799	petB	Synechococcus sp. MICROVIR-8CR-4-5 cytochrome b6 (petB) gene, partial cds	petB_Syn_IV|IVA	MIC	a9976dd3ec0002091fe4acb6c0f15418	579
+MICROVIR-9CH-1	KU377798	petB	Synechococcus sp. MICROVIR-9CH-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	5474f85d68d91cc5ddbe12952879d138	579
+MICROVIR-9K-2	KU377797	petB	Synechococcus sp. MICROVIR-9K-2 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	9bf9584fd0f886d39054d9d635935954	579
+MICROVIR-11CR-4-2	KU377796	petB	Synechococcus sp. MICROVIR-11CR-4-2 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	9908bc6624bf982ff5a230069d1b5000	579
+MICROVIR-12CH-4-1	KU377795	petB	Synechococcus sp. MICROVIR-12CH-4-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	478e8dbafffd18e2bbbd03f3595ce2c1	567
+MICROVIR-12CR-4-3	KU377794	petB	Synechococcus sp. MICROVIR-12CR-4-3 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	70e411a5063f302e97191741b6648eb1	567
+MICROVIR-13CR-4-1	KU377793	petB	Synechococcus sp. MICROVIR-13CR-4-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	ee14f0db78c84136ab1f2e10bb13748c	579
+MICROVIR-14K-4-5	KU377792	petB	Synechococcus sp. MICROVIR-14K-4-5 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	623dfce38732189096d772ae2acb21a3	579
+MICROVIR-15CR-3	KU377791	petB	Synechococcus sp. MICROVIR-15CR-3 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	a2c3c563748ec6134bbc7e38cf40c5bc	567
+MICROVIR-16CR-4-4	KU377790	petB	Synechococcus sp. MICROVIR-16CR-4-4 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	c53f54d2e31aca4694901acded2152d1	567
+MICROVIR-17CH-1	KU377789	petB	Synechococcus sp. MICROVIR-17CH-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	98df0bc95cca129720db88c7274ad7f0	567
+MICROVIR-17K-4-6	KU377788	petB	Synechococcus sp. MICROVIR-17K-4-6 cytochrome b6 (petB) gene, partial cds	petB_Syn_IV|IVA	MIC	af33adf3df1f8dc080f60a75c21a3bdc	567
+MICROVIR-18K-4-1	KU377787	petB	Synechococcus sp. MICROVIR-18K-4-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	7b811559962aec9513d6bee9c0eff055	579
+MICROVIR-19CH-3	KU377786	petB	Synechococcus sp. MICROVIR-19CH-3 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	82fa8dc1b8601bfcd723d729f05275f5	579
+MICROVIR-20CR-2	KU377785	petB	Synechococcus sp. MICROVIR-20CR-2 cytochrome b6 (petB) gene, partial cds	petB_Syn_IV|IVA	MIC	92930d6adac85f45b3c2f68b48ab7e04	567
+A18-25b-55m	KU937830	petB	Synechococcus sp. A18-25b-55m cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	e5b383d3a08117e0e8c8245a68a37286	559
+A18-25-surf	KU937829	petB	Synechococcus sp. A18-25-surf cytochrome b6 (petB) gene, partial cds	petB_Syn_WPC1|WPC1A	MIC	2236c0239578e473909b19657ad42de1	559
+AMT12-A6	KU937828	petB	Synechococcus sp. AMT12-A6 cytochrome b6 (petB) gene, partial cds	petB_Syn_CRD1|CRD1A	MIC	8dda0bd54bfcf7777b1f58293ba819ff	579
+AMT23ST01-5	KU937827	petB	Synechococcus sp. AMT23ST01-5 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	37d0e4518a6c9850a974219ebbe6a5ca	607
+AMT23ST07-3	KU937826	petB	Synechococcus sp. AMT23ST07-3 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	9067decb4a136ea33cc25b809bf0976b	584
+AMT23ST47-1	KU937825	petB	Synechococcus sp. AMT23ST47-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	0438088da177cd8764d13879608e8e09	589
+AMT18070-D86	KU937824	petB	Synechococcus sp. AMT18070-D86 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIB	MIC	5699413d2ad73a25a55eca5f7de2151a	579
+Ellet21	KU937823	petB	Synechococcus sp. Ellet21 cytochrome b6 (petB) gene, partial cds	petB_Syn_IV|IVC	MIC	fde5477baa5d89949131d4c357ea2e93	579
+R1A	KU937822	petB	Synechococcus sp. R1A cytochrome b6 (petB) gene, partial cds	petB_Syn_II|IIB	MIC	d2b3bfd35084a08c75a031a7ec507994	559
+R1B	KU937821	petB	Synechococcus sp. R1B cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	f32b5e5cc64721a114ad283dab715405	579
+R5B	KU937820	petB	Synechococcus sp. R5B cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	8a0836f4a4f558601b9bef5617b7461e	579
+R10B	KU937819	petB	Synechococcus sp. R10B cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	0517548414239d316d3d765775b3319f	559
+R12	KU937818	petB	Synechococcus sp. R12 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	6d8e6c938128322acf8af88ffb05fd88	579
+A18-46.1	KU670816	petB	Synechococcus sp. A18-46.1 cytochrome b6 (petB) gene, complete cds	petB_Syn_III|IIIA	MIC	53898b2b7163da048924e296d8abdfeb	663
+A18-40	KU670815	petB	Synechococcus sp. A18-40 cytochrome b6 (petB) gene, complete cds	petB_Syn_III|IIIA	MIC	9ce8118535dc40461ff46190907a7dc9	663
+A18-25c	KU670814	petB	Synechococcus sp. A18-25c cytochrome b6 (petB) gene, complete cds	petB_Syn_VII|VIIA	MIC	48eff592ef9e1d46dce9e29dde1db976	657
+NV36	KU705460	petB	Uncultured Synechococcus sp. clone NV36 cytochrome b6 (petB) gene, partial cds	petB_Syn_CRD1|CRD1C	MIC	2daa58d86126831691cb4c8a36f93446	579
+NV12	KU705459	petB	Uncultured Synechococcus sp. clone NV12 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	c70999dd27613ae219607767c1f1eb2a	579
+Ellet35	KU705458	petB	Uncultured Synechococcus sp. clone Ellet35 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	c44664facb77af5e20506d66f073199d	559
+Ellet34	KU705457	petB	Uncultured Synechococcus sp. clone Ellet34 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	8fcb077f010413eb8034e4547b1dfe55	579
+Ellet33	KU705456	petB	Uncultured Synechococcus sp. clone Ellet33 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	4e2107facc5f8c87c7e14d423d10fca3	579
+Ellet31	KU705455	petB	Uncultured Synechococcus sp. clone Ellet31 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	15ef789177e8d135b62d016179507df9	559
+Ellet29	KU705454	petB	Uncultured Synechococcus sp. clone Ellet29 cytochrome b6 (petB) gene, partial cds	petB_Syn_IV|IVC	MIC	1081714ac7c860a8e627bca77b605b08	579
+Ellet26	KU705453	petB	Uncultured Synechococcus sp. clone Ellet26 cytochrome b6 (petB) gene, partial cds	petB_Syn_IV|IVC	MIC	c55066e3dd70209d9ff669efd00d19cb	579
+Ellet25	KU705452	petB	Uncultured Synechococcus sp. clone Ellet25 cytochrome b6 (petB) gene, partial cds	petB_Syn_IV|IVC	MIC	cb28b79c6258ed4ed955d725f42f09b1	559
+Ellet24	KU705451	petB	Uncultured Synechococcus sp. clone Ellet24 cytochrome b6 (petB) gene, partial cds	petB_Syn_IV|IVC	MIC	6ff868e4cee7961d9bee088f6abaa7b4	559
+Ellet20	KU705450	petB	Uncultured Synechococcus sp. clone Ellet20 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	f80c56e5e8cbbf47de5d536f52a3998c	559
+Ellet19	KU705449	petB	Uncultured Synechococcus sp. clone Ellet19 cytochrome b6 (petB) gene, partial cds	petB_Syn_IV|IVC	MIC	a1aecee0f71604aa0b0a2eedcf93c141	579
+Ellet18	KU705448	petB	Uncultured Synechococcus sp. clone Ellet18 cytochrome b6 (petB) gene, partial cds	petB_Syn_IV|IVC	MIC	6c0a32485bad42db5b16a62d6a8ac307	579
+BATS23	KU705447	petB	Uncultured Synechococcus sp. clone BATS23 cytochrome b6 (petB) gene, partial cds	petB_Syn_EnvA|EnvAA	MIC	65b6c16aeaaa3fb127163008e358552b	559
+BATS21	KU705446	petB	Uncultured Synechococcus sp. clone BATS21 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIB	MIC	c9c1c96d7838a458212b8edcdf47358a	559
+BATS20	KU705445	petB	Uncultured Synechococcus sp. clone BATS20 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIB	MIC	4eaf0d93106c11633e4c03543826c437	559
+BATS19	KU705444	petB	Uncultured Synechococcus sp. clone BATS19 cytochrome b6 (petB) gene, partial cds	petB_Syn_WPC1|WPC1A	MIC	abbcfd7a07c5771e2264fce4516b60b0	559
+BATS18	KU705443	petB	Uncultured Synechococcus sp. clone BATS18 cytochrome b6 (petB) gene, partial cds	petB_Syn_XX|XXA	MIC	d18ef7d528dc66077d250cba2c35c0ab	559
+BATS17	KU705442	petB	Uncultured Synechococcus sp. clone BATS17 cytochrome b6 (petB) gene, partial cds	petB_Syn_XX|XXA	MIC	760eb9111bc9606cfddac5c8fe8a29e2	559
+BATS16	KU705441	petB	Uncultured Synechococcus sp. clone BATS16 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIB	MIC	59bdecb51ef66f2d4a3495d40fff9793	579
+AMT12-A14	KU705440	petB	Uncultured Synechococcus sp. clone AMT12-A14 cytochrome b6 (petB) gene, partial cds	petB_Syn_II|IIA	MIC	39766a891f5b62d5a5ab584fb11a00fb	579
+S68	KU705439	petB	Synechococcus sp. S68 cytochrome b6 (petB) gene, partial cds	petB_Syn_II|IIB	MIC	207ebeb5071d5bb8cf20ba4f433cc893	579
+S60	KU705438	petB	Synechococcus sp. S60 cytochrome b6 (petB) gene, partial cds	petB_Syn_II|IIA	MIC	c9da710d0bff2f2c85a4edd2f169a01f	579
+S59	KU705437	petB	Synechococcus sp. S59 cytochrome b6 (petB) gene, partial cds	petB_Syn_II|IIA	MIC	231f409963002d4c2be3796cec2a6cd1	579
+S50	KU705436	petB	Synechococcus sp. S50 cytochrome b6 (petB) gene, partial cds	petB_Syn_II|IIA	MIC	61b5c3ce6a7303133a1a2ee043850918	579
+R11	KU705435	petB	Synechococcus sp. R11 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	be9f8c2d72f300f1ed732b847fae871c	579
+R5A	KU705434	petB	Synechococcus sp. R5A cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	de4d75f5b94dcf1d59db9cc783f450fb	579
+R4	KU705433	petB	Synechococcus sp. R4 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	f459f3fd4f69044d8ab786e556310996	579
+R3B	KU705432	petB	Synechococcus sp. R3B cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	08c0b2f76478a1f46b985bcfb8f15fd1	579
+R3A	KU705431	petB	Synechococcus sp. R3A cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	97cd8f98b88440964d2c55ccb32a9262	579
+M1	KU705430	petB	Synechococcus sp. M1(2016) cytochrome b6 (petB) gene, partial cds	petB_Syn_II|IIA	MIC	2845a89db96afd16a10f69d5d37045d5	579
+AMT2013-P209-F4	KU705429	petB	Synechococcus sp. AMT2013-P209-F4 cytochrome b6 (petB) gene, partial cds	petB_Syn_II|IIB	MIC	7b2c430e82efb5d3084dc6257e69a796	570
+AMT2013-P209-F2	KU705428	petB	Synechococcus sp. AMT2013-P209-F2 cytochrome b6 (petB) gene, partial cds	petB_Syn_II|IIB	MIC	153c8b679323c4739b8335f132908b2a	576
+AMT23ST53-2	KU705427	petB	Synechococcus sp. AMT23ST53-2 cytochrome b6 (petB) gene, partial cds	petB_Syn_IV|IVA	MIC	2242b3965ae41db072754d137e03d028	569
+AMT23ST52-1	KU705426	petB	Synechococcus sp. AMT23ST52-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_IV|IVA	MIC	29ff72c1e6c9e233c6f2d5a67c54395f	582
+AMT23ST49-1	KU705425	petB	Synechococcus sp. AMT23ST49-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	6fe26fb3b3254310d7f6dbb6caebf25e	588
+AMT23ST46-1	KU705424	petB	Synechococcus sp. AMT23ST46-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	a305f9f2a2957c03c4be04286bbc70c3	602
+AMT23ST41-3	KU705423	petB	Synechococcus sp. AMT23ST41-3 cytochrome b6 (petB) gene, partial cds	petB_Syn_II|IIA	MIC	164d4d60a4f187b1da0d97a7e0ff794d	588
+AMT23ST41-2	KU705422	petB	Synechococcus sp. AMT23ST41-2 cytochrome b6 (petB) gene, partial cds	petB_Syn_II|IIB	MIC	5bd6636d35c53a920475ecd3c3860ff8	577
+AMT23ST41-1	KU705421	petB	Synechococcus sp. AMT23ST41-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_II|IIA	MIC	9036b7b3eb6827d77179bd31a6311f75	585
+AMT23ST31-5	KU705420	petB	Synechococcus sp. AMT23ST31-5 cytochrome b6 (petB) gene, partial cds	petB_Syn_WPC1|WPC1A	MIC	91ae405cc3885ca2e81d9df3cae7a9bd	591
+AMT23ST31-3	KU705419	petB	Synechococcus sp. AMT23ST31-3 cytochrome b6 (petB) gene, partial cds	petB_Syn_WPC1|WPC1A	MIC	9a172e8946ba8bf539f71a43232c3276	570
+AMT23ST31-2	KU705418	petB	Synechococcus sp. AMT23ST31-2 cytochrome b6 (petB) gene, partial cds	petB_Syn_WPC1|WPC1A	MIC	f70528d28f49cd5c05a7a883b9b9a2f7	576
+AMT23ST27-2	KU705417	petB	Synechococcus sp. AMT23ST27-2 cytochrome b6 (petB) gene, partial cds	petB_Syn_CRD1|CRD1C	MIC	4b304aaf1ad5a67d86975c88bb0fbdb7	581
+AMT23ST27-1	KU705416	petB	Synechococcus sp. AMT23ST27-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_II|IIA	MIC	33bbff1f94398a4329593510b2609c7a	583
+AMT23ST25-1	KU705415	petB	Synechococcus sp. AMT23ST25-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_II|IIA	MIC	ede2a31d9f0d8b82d8695d4622e721e7	600
+AMT23ST15-1	KU705414	petB	Synechococcus sp. AMT23ST15-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	dd9a644d4300a663f31467ebdbfef9c4	597
+AMT23ST14-1	KU705413	petB	Synechococcus sp. AMT23ST14-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_II|IIB	MIC	d1409da047c85595e23f4bf37b513955	597
+AMT23ST11-2	KU705412	petB	Synechococcus sp. AMT23ST11-2 cytochrome b6 (petB) gene, partial cds	petB_Syn_VII|VIIA	MIC	708f1aa9b2bdb829068da57bf372b0f8	585
+AMT23ST09-1	KU705411	petB	Synechococcus sp. AMT23ST09-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	8eebe9481beec3301e987be242e05b71	577
+AMT23ST08-1	KU705410	petB	Synechococcus sp. AMT23ST08-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	6bbca22c32f8b9b53a0a7ab7b50ce927	598
+AMT23ST01-6	KU705409	petB	Synechococcus sp. AMT23ST01-6 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	69fa508f2e72210d14676a9e7830d82f	569
+AMT23P4-3	KU705408	petB	Synechococcus sp. AMT23P4-3 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	77cdc28239966df2520553acdf5596e2	601
+AMT23P3-1	KU705407	petB	Synechococcus sp. AMT23P3-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_II|IIB	MIC	1695821c37cf304effbc700dc7bf2b79	585
+A18-98-78m	KU705406	petB	Synechococcus sp. A1898-78m cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	253704cffbea22e29774aa849e9f0d80	559
+A1814b-surf	KU705405	petB	Synechococcus sp. A1814b-surf cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	e2f21569df5f6c1623ba60e34b5586b8	559
+A1814-154m	KU705404	petB	Synechococcus sp. A1814-154m cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	e350d43d2beb17cd908ce5e743a89982	559
+A18-32b	KU705403	petB	Synechococcus sp. A18-32b cytochrome b6 (petB) gene, partial cds	petB_Syn_WPC1|WPC1A	MIC	75e4bce3aed2b533fbe45a2437b621fc	559
+A18-23-surf	KU705402	petB	Synechococcus sp. A18-23-surf cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	8edff2353f31a105e63dd5dcaa3e256d	559
+A18-22	KU705401	petB	Synechococcus sp. A18-22 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	36dacc36e837502ccfed2cd4df9e403a	559
+A18-19b-surf	KU705400	petB	Synechococcus sp. A18-19b cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	f47cac0b6979845b6b73c0c6d80d616f	559
+A18-16	KU705399	petB	Synechococcus sp. A18-16 cytochrome b6 (petB) gene, partial cds	petB_Syn_III|IIIA	MIC	dd96dc997b214ee6c2cc4a384abe227c	559
+A14C38	KU705398	petB	Synechococcus sp. A14C38 cytochrome b6 (petB) gene, partial cds	petB_Syn_II|IIA	MIC	0d8a34eab922e2b66ebf8e19417ed791	579
+772	KU705397	petB	Synechococcus sp. 772 cytochrome b6 (petB) gene, partial cds	petB_Syn_VI|wo	MIC	aa9fe22ad19f81f86c51cd729afe94f8	559
+MVIR-7-1	KF443073	petB	Synechococcus sp. MVIR-7-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_IV|IVA	MIC	ddff1b89d8fdd28668e3e1ca5d40dd18	567
+MVIR-18-1	KF443072	petB	Synechococcus sp. MVIR-18-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	17da2ce11e3cd077a98240bbb71bc021	521
+MVIR-10-1	KF443068	petB	Synechococcus sp. MVIR-10-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	b94c14c92de811c66309b68f3b743e8d	567
+MVIR-1-1	KF443067	petB	Synechococcus sp. MVIR-1-1 cytochrome b6 (petB) gene, partial cds	petB_Syn_I|IA	MIC	9b1688d53d192c39dc55de3a0edd9d49	567
+A15-44	KF443066	petB	Synechococcus sp. A15-44 cytochrome b6 (petB) gene, partial cds	petB_Syn_II|IIA	MIC	2f5c4c266f308ef45ec9aa0866cd9fdf	530
+AMT18070-D85	JF307769	petB	UNVERIFIED: Uncultured Prochlorococcus sp. clone AMT18070-D85 cytochrome b6-like gene, partial sequence	petB_Pro_LLIV|LLIVA	MIC	1fb7e1b2237dab1a3ab7db52e69f00e1	559
+AMT18025-D49	JF307759	petB	UNVERIFIED: Uncultured Prochlorococcus sp. clone AMT18025-D49 cytochrome b6-like gene, partial sequence	petB_Pro_LLIV|LLIVA	MIC	fbee7bf5bb7ebc0f367634a8cf17b757	559
+AMT18025-D48	JF307758	petB	UNVERIFIED: Uncultured Prochlorococcus sp. clone AMT18025-D48 cytochrome b6-like gene, partial sequence	petB_Pro_LLIV|LLIVA	MIC	4a327e9a2c5670500fbd953b7f87f8f9	559
+AMT18025-D44	JF307754	petB	UNVERIFIED: Uncultured Prochlorococcus sp. clone AMT18025-D44 cytochrome b6-like gene, partial sequence	petB_Pro_LLIV|LLIVA	MIC	5bc026c2e624f70dfac04903bb2a5024	559
+AMT18025-A31	JF307745	petB	UNVERIFIED: Uncultured Prochlorococcus sp. clone AMT18025-A31 cytochrome b6-like gene, partial sequence	petB_Pro_LLIV|LLIVA	MIC	91c5c813c187d861ce30a41725449385	559
+Ellet4b	JF307742	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Ellett-4b cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	770ecfb6f13efa28b7bc0a828b393aac	559
+Ellet4a	JF307741	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Ellett-4a cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	9721863695d9d62c762c136bf1f8d2f8	559
+Ellet3b	JF307740	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Ellett-3b cytochrome b6-like gene, partial sequence	petB_Syn_IV|IVC	MIC	d48d1c8d4f0e357f0421c868353fbc6c	559
+Ellet3a	JF307739	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Ellett-3a cytochrome b6-like gene, partial sequence	petB_Syn_IV|IVC	MIC	ae1fb34d8f201cc4a5d9103535a000fb	558
+Ellet2b	JF307738	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Ellett-2b cytochrome b6-like gene, partial sequence	petB_Syn_IV|IVC	MIC	4311550a59fb8907ebedea5dc55e85a6	559
+Ellet2a	JF307737	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Ellett-2a cytochrome b6-like gene, partial sequence	petB_Syn_IV|IVC	MIC	4e12a8453a5133d51ced050e1b854b67	559
+Ellet1b	JF307736	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Ellett-1b cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	83258c9ac59bf734834524c361ccaf6d	559
+Ellet17	JF307734	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Ellett-17 cytochrome b6-like gene, partial sequence	petB_Syn_IV|IVC	MIC	3b81e47593b7f61ed61191e6c2da2b7d	559
+Ellet16	JF307733	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Ellett-16 cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	d43f1861282343559e40c95bfb4e334f	559
+Ellet15	JF307732	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Ellett-15 cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	86ecf94b75c331fe51d19ff7b2fd8ace	559
+Ellet14	JF307731	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Ellett-14 cytochrome b6-like gene, partial sequence	petB_Syn_IV|IVC	MIC	30324df5b7954e072c7194193a1b6856	559
+Ellet13	JF307730	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Ellett-13 cytochrome b6-like gene, partial sequence	petB_Syn_IV|IVC	MIC	6d6f8d1c1f14d0ca88175e436e73c5f1	559
+Ellet12	JF307729	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Ellett-12 cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	671549efe7e6022216866468e88b93b4	559
+Ellet11	JF307728	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Ellett-11 cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	056eb1771502ec75634f54b45496f5f8	559
+Ellet10	JF307727	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Ellett-10 cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	dfa793fa9107e9fe79c0597ea1f507b9	559
+Ellet09	JF307726	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Ellett-09 cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	f4c04a7c709a63a1d15348b91e4dd224	559
+Ellet08	JF307725	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Ellett-08 cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	cd5984f1799cb8dc2212bdcda6af21c9	559
+Ellet07	JF307724	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Ellett-07 cytochrome b6-like gene, partial sequence	petB_Syn_IV|IVA	MIC	fab43da75a20aad5c904bee1cc21ab18	559
+Ellet06	JF307723	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Ellett-06 cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	ae69f38ee81b3d8a99240cdf75fafa2e	559
+Ellet05	JF307722	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Ellett-05 cytochrome b6-like gene, partial sequence	petB_Syn_IV|IVC	MIC	07e7f8b2565b733e257e953315135703	559
+BATS3b	JF307721	petB	UNVERIFIED: Uncultured Synechococcus sp. clone BATS-3b cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIA	MIC	665f928948377d92f3dd6d354b0ab604	559
+BATS3a	JF307720	petB	UNVERIFIED: Uncultured Synechococcus sp. clone BATS-3a cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIB	MIC	d6f36631304b9aef8976c39d9b9418cf	559
+BATS2b	JF307719	petB	UNVERIFIED: Uncultured Synechococcus sp. clone BATS-2b cytochrome b6-like gene, partial sequence	petB_Syn_XX|XXA	MIC	fba5044d087e3b309c03acad4062bd57	560
+BATS2a	JF307718	petB	UNVERIFIED: Uncultured Synechococcus sp. clone BATS-2a cytochrome b6-like gene, partial sequence	petB_Syn_EnvA|EnvAA	MIC	9d9227f0fb3aa569c4d1ebd4e479ab9d	558
+BATS1b	JF307717	petB	UNVERIFIED: Uncultured Synechococcus sp. clone BATS-1b cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIA	MIC	9299dd159eff0e9add2b573239d12f21	559
+BATS15	JF307715	petB	UNVERIFIED: Uncultured Synechococcus sp. clone BATS-15 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIA	MIC	eed2f1a947418fbb91874c34c66a9a02	559
+BATS14	JF307714	petB	UNVERIFIED: Uncultured Synechococcus sp. clone BATS-14 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIA	MIC	749e9ec8e2a57ce7d3a8fb18bef96f2a	559
+BATS13	JF307713	petB	UNVERIFIED: Uncultured Synechococcus sp. clone BATS-13 cytochrome b6-like gene, partial sequence	petB_Syn_EnvA|EnvAA	MIC	63438f3575166152f50ab4c5f659ab94	559
+BATS12	JF307712	petB	UNVERIFIED: Uncultured Synechococcus sp. clone BATS-12 cytochrome b6-like gene, partial sequence	petB_Syn_EnvA|EnvAA	MIC	9e81ad97f34d1ba0c6de22ea51b04560	559
+BATS11	JF307711	petB	UNVERIFIED: Uncultured Synechococcus sp. clone BATS-11 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIA	MIC	66bdd7761ec47814c6e4c01e4339b8b5	559
+BATS10	JF307710	petB	UNVERIFIED: Uncultured Synechococcus sp. clone BATS-10 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIA	MIC	dba7e280c3e358020ac17daa0b27b7d7	559
+BATS09	JF307709	petB	UNVERIFIED: Uncultured Synechococcus sp. clone BATS-09 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIB	MIC	e73b9d401f48e071b42d9bcc1795c0e0	559
+BATS08	JF307708	petB	UNVERIFIED: Uncultured Synechococcus sp. clone BATS-08 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIA	MIC	e71f3c9021e24dd99b5ee60fa7e59f1d	559
+BATS07	JF307707	petB	UNVERIFIED: Uncultured Synechococcus sp. clone BATS-07 cytochrome b6-like gene, partial sequence	petB_Syn_WPC1|WPC1A	MIC	10baf9c32fc2858266ad8a02d1f6ab8a	559
+BATS06	JF307706	petB	UNVERIFIED: Uncultured Synechococcus sp. clone BATS-06 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIB	MIC	d8743da301277d945551a1244c90c38c	559
+BATS05	JF307705	petB	UNVERIFIED: Uncultured Synechococcus sp. clone BATS-05 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIA	MIC	45a274076c3e17d0d1ac6a98fb1b6d66	559
+BATS04	JF307704	petB	UNVERIFIED: Uncultured Synechococcus sp. clone BATS-04 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIB	MIC	0e4359f62edb04a4fb900741c5599953	559
+Arctic732-8b	JF307703	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Arctic732-8b cytochrome b6-like gene, partial sequence	petB_Syn_IV|IVC	MIC	333a8fc6d36f2d16f3cae16f6273daa4	558
+Arctic732-8a	JF307702	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Arctic732-8a cytochrome b6-like gene, partial sequence	petB_Syn_IV|IVC	MIC	2c99a8b7f2d1463404f3613e88c7f4e1	559
+Arctic732-35b	JF307701	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Arctic732-35b cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	c9cbf8864a7adfa23ca3a049bd53f721	559
+Arctic732-35a	JF307700	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Arctic732-35a cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	786bc9b95727c1af7abc6f8beb19f2b4	559
+Arctic732-2b	JF307699	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Arctic732-2b cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	c1e747ca71d4de669f54f67192675de1	559
+Arctic732-2a	JF307698	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Arctic732-2a cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	895b9e3164a8163c51c830ff76c9ba3e	559
+Arctic732-25b	JF307697	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Arctic732-25b cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	bde712a943cc47d7bbdfe5c9dde7747f	559
+Arctic732-1a	JF307694	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Arctic732-1a cytochrome b6-like gene, partial sequence	petB_Syn_IV|IVA	MIC	85ae445854b8b49106a268504c6a1ce5	559
+AMT18070-A77	JF307693	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A77 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	59097a150627d297939116cc838f3bde	558
+AMT18070-A75	JF307691	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A75 cytochrome b6-like gene, partial sequence	petB_Syn_II|wo	MIC	a5b206b4235d30ded797dbbf8b49f55f	559
+AMT18070-A74	JF307690	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A74 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIB	MIC	b9460fbe5ee0b8a4cd735ef3b9ea8b28	559
+AMT18070-A73	JF307689	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A73 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	c6bebef73f0f55229ea9c0875f1ab9e4	559
+AMT18070-A72	JF307688	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A72 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIB	MIC	16d4984d6c18bb2524135d3bde94548e	559
+AMT18070-A71	JF307687	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A71 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	20cffad8db894f2c4f9a107bd83064ea	559
+AMT18070-A70	JF307686	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A70 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIB	MIC	2c675d05c04d78f07c680421a3bbe5c3	559
+AMT18070-A69	JF307685	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A69 cytochrome b6-like gene, partial sequence	petB_Syn_II|wo	MIC	2153b9b61ccc5c70e2f96db79d43a1d9	559
+AMT18070-A68	JF307684	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A68 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	f789b5c47a6a1724687814d73dfa5049	559
+AMT18070-A67	JF307683	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A67 cytochrome b6-like gene, partial sequence	petB_Syn_XX|XXA	MIC	888e2afef91954d600567fda7ff79065	559
+AMT18070-A66	JF307682	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A66 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIB	MIC	73c95e160949517e019f7078a177b6e9	559
+AMT18070-A65	JF307681	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A65 cytochrome b6-like gene, partial sequence	petB_Syn_II|wo	MIC	9b60b85a4e215b8d47fa96ce1a07dd98	559
+AMT18070-A64	JF307680	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A64 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	14bad3178739f1223bf14cd614b1d7bc	559
+AMT18070-A63	JF307679	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A63 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIB	MIC	8a5d4b2f663f33630e7565121de2b961	559
+AMT18070-A62	JF307678	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A62 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIB	MIC	b54d8e31cd6962b5dcc5c3e3ab1fc50c	559
+AMT18070-A61	JF307677	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A61 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	6529df0d6373e6ec74d6e2437f3b79ef	558
+AMT18070-A60	JF307676	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A60 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	cca94723a95e4ca4b6a2d47e98dd8739	559
+AMT18070-A58	JF307674	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A58 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	39241d13ad7c82036cf590d07c4ae79c	559
+AMT18070-A57	JF307673	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A57 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	f03c8192d274e40af752c4862f5746f6	559
+AMT18070-A56	JF307672	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A56 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	caf22aa0c789d796503858f31bf06703	559
+AMT18070-A55	JF307671	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A55 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	b02d358d0761c804ead031ffe9b1676b	558
+AMT18070-A54	JF307670	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A54 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIB	MIC	db6ae314a344e1266329860a2f43ae47	559
+AMT18070-A53	JF307669	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A53 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIB	MIC	2fde61b7eff18c3031d6cca07650d7b1	557
+AMT18070-A51a	JF307666	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18070-A51a cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	2402ea30d2fb72a3d917a641dd3c62ae	559
+AMT18025-A36	JF307665	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18025-A36 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIB	MIC	d8743724ec9d01c48c2a81415cbd0525	559
+AMT18025-A35	JF307664	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18025-A35 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	21aab893526f1429b1135e7b7165b6b5	559
+AMT18025-A34	JF307663	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18025-A34 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIA	MIC	c3b60405a638bfc1584be42a7ff99348	559
+AMT18025-A33	JF307662	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18025-A33 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIA	MIC	daf6dfaee7c9dc5734c749fed32188aa	559
+AMT18025-A32	JF307661	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18025-A32 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIB	MIC	c4791c7d3b2832ee97888d78da7f66b6	559
+AMT18025-A29	JF307659	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18025-A29 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIB	MIC	08bd07724e93dff4de3a964638fd8498	559
+AMT18025-A26	JF307656	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18025-A26 cytochrome b6-like gene, partial sequence	petB_Syn_II|wo	MIC	08688ca9c4386f336867128344fbae77	559
+AMT18025-A25	JF307655	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18025-A25 cytochrome b6-like gene, partial sequence	petB_Syn_II|wo	MIC	7849517746111525a7d700d62df8a4b1	559
+AMT18025-A24	JF307654	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18025-A24 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIA	MIC	0e6ee53522982b8fb609a99df3add8d8	559
+AMT18025-A23	JF307653	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18025-A23 cytochrome b6-like gene, partial sequence	petB_Syn_XX|XXA	MIC	da16ecf6f3232389ec37d520be6f1ddf	559
+AMT18025-A22	JF307652	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18025-A22 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	cbdce296a6376bde9f27adec2513bf17	559
+AMT18025-A21	JF307651	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18025-A21 cytochrome b6-like gene, partial sequence	petB_Syn_EnvA|EnvAA	MIC	0fbbf3f906fffcce4ccf8bf3de8b5ee0	559
+AMT18025-A20	JF307650	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18025-A20 cytochrome b6-like gene, partial sequence	petB_Syn_II|wo	MIC	93eb146fdc7cc0f65b296116c9e98939	559
+AMT18025-A19	JF307649	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18025-A19 cytochrome b6-like gene, partial sequence	petB_Syn_III|IIIA	MIC	0b8ea2794cfc5a9df0d07780ea637586	559
+AMT18025-A18	JF307648	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18025-A18 cytochrome b6-like gene, partial sequence	petB_Syn_III|wo	MIC	743a64fb786f04ab8e552276fdd2f903	559
+AMT18012-A8	JF307647	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18012-A8 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	a3e272d22351a4facd22b2870d9ba5f5	559
+AMT18012-A7	JF307646	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18012-A7 cytochrome b6-like gene, partial sequence	petB_Syn_II|wo	MIC	e87abf375c34fc5b3ee3592c715b5f4d	559
+AMT18012-A5	JF307644	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18012-A5 cytochrome b6-like gene, partial sequence	petB_Syn_XX|XXA	MIC	5a26bb069b76be552b64b98624d7e90c	559
+AMT18012-A4	JF307643	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18012-A4 cytochrome b6-like gene, partial sequence	petB_Syn_IV|IVA	MIC	d651080f61e16ce1f1fba04ad3c81fc6	558
+AMT18012-A2	JF307642	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18012-A2 cytochrome b6-like gene, partial sequence	petB_Syn_EnvA|EnvAA	MIC	1ba9914b8556eaeddf7df36dd17f7642	559
+AMT18012-A17	JF307641	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18012-A17 cytochrome b6-like gene, partial sequence	petB_Syn_EnvB|EnvBA	MIC	698175be3d8e717e0b5bdf3edce759d7	559
+AMT18012-A16	JF307640	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18012-A16 cytochrome b6-like gene, partial sequence	petB_Syn_CRD1|CRD1A	MIC	7016157324e6babb27581ab77b47a114	558
+AMT18012-A15	JF307639	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18012-A15 cytochrome b6-like gene, partial sequence	petB_Syn_XX|XXA	MIC	f34ad49e442f0f9fdc84f52bad1c6138	559
+AMT18012-A12	JF307636	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18012-A12 cytochrome b6-like gene, partial sequence	petB_Syn_II|wo	MIC	6e9159ae987f20a6d8dd42f008255c0c	559
+AMT18012-A11	JF307635	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18012-A11 cytochrome b6-like gene, partial sequence	petB_Syn_XX|XXA	MIC	7a2b397ce305228b64a874875b8ecb32	559
+AMT18012-A10	JF307634	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18012-A10 cytochrome b6-like gene, partial sequence	petB_Syn_EnvB|EnvBA	MIC	c24acaa13a2fd0a90412e7404121a59f	559
+AMT18012-A1	JF307633	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT18012-A1 cytochrome b6-like gene, partial sequence	petB_Syn_EnvB|EnvBA	MIC	f81ed821d741aba2c9b28c3a843d79f1	559
+AMT15006-B9b	JF307632	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15006-B9b cytochrome b6-like gene, partial sequence	petB_Syn_CRD1|CRD1A	MIC	57388d00e3fd76e9be9f93d143157fd2	559
+AMT15006-B9a	JF307631	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15006-B9a cytochrome b6-like gene, partial sequence	petB_Syn_CRD1|CRD1A	MIC	c9079e18bc31f2d1b0e3bd0dc3ed2410	559
+AMT15006-B7s	JF307630	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15006-B7s cytochrome b6-like gene, partial sequence	petB_Syn_EnvB|EnvBA	MIC	51baad61100abd535f605013ec782eb0	559
+AMT15006-B22	JF307628	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15006-B22 cytochrome b6-like gene, partial sequence	petB_Syn_EnvA|EnvAA	MIC	2d20b6623f24da384d89d3cf6e32b478	559
+AMT15006-B21	JF307627	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15006-B21 cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	62fdf8c5284c1b323962333d4928de29	559
+AMT15006-B20	JF307626	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15006-B20 cytochrome b6-like gene, partial sequence	petB_Syn_IV|IVC	MIC	ee1d1b729466881b8197f7ca5f2c2032	559
+AMT15006-B19	JF307625	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15006-B19 cytochrome b6-like gene, partial sequence	petB_Syn_EnvB|EnvBB	MIC	edd37e50e84d4dc865875f2612527b51	559
+AMT15006-B18b	JF307624	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15006-B18b cytochrome b6-like gene, partial sequence	petB_Syn_IV|IVC	MIC	1f1f8b0f126e9bfbaf9b43d1040bada0	559
+AMT15006-B18a	JF307623	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15006-B18a cytochrome b6-like gene, partial sequence	petB_Syn_IV|IVA	MIC	47bdb52d947d257e134354ff107e0b1f	559
+AMT15006-B17	JF307622	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15006-B17 cytochrome b6-like gene, partial sequence	petB_Syn_EnvB|EnvBA	MIC	14ab924036f876fdedfe69aa5c22621b	559
+AMT15006-B16	JF307621	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15006-B16 cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	cbbdbc88e5d812087b9f4d234b997241	559
+AMT15006-B15	JF307620	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15006-B15 cytochrome b6-like gene, partial sequence	petB_Syn_IV|IVB	MIC	b99194987420606598435b239d1f3843	559
+AMT15006-B14	JF307619	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15006-B14 cytochrome b6-like gene, partial sequence	petB_Syn_EnvB|EnvBB	MIC	7fb01c9e3443d214944d492df69ebb7b	558
+AMT15006-B13	JF307618	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15006-B13 cytochrome b6-like gene, partial sequence	petB_Syn_IV|IVC	MIC	461ffc1ebed98b80ca42b774c7077475	559
+AMT15006-B12b	JF307617	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15006-B12b cytochrome b6-like gene, partial sequence	petB_Syn_EnvA|EnvAA	MIC	f313be755e02197303ec666138f32183	559
+AMT15006-B12a	JF307616	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15006-B12a cytochrome b6-like gene, partial sequence	petB_Syn_EnvA|EnvAA	MIC	456e3f5c4f7282284d5f892581ce0864	559
+AMT15006-B11c	JF307615	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15006-B11c cytochrome b6-like gene, partial sequence	petB_Syn_EnvB|EnvBB	MIC	5dd4260be9c0d0fb15f74ee1f22fc50a	559
+AMT15006-B11b	JF307614	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15006-B11b cytochrome b6-like gene, partial sequence	petB_Syn_EnvB|EnvBB	MIC	21c6d6089707961a65f8ccac1119a19d	559
+AMT15006-B11a	JF307613	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15006-B11a cytochrome b6-like gene, partial sequence	petB_Syn_EnvB|EnvBB	MIC	432d8a3d8140642b96af470ed497c9d0	559
+AMT15006-B10a	JF307612	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15006-B10a cytochrome b6-like gene, partial sequence	petB_Syn_EnvA|EnvAA	MIC	f203610854565227222a1a7a318298d6	559
+AMT15002-C7	JF307611	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15002-C7 cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	63de200c139e0e6d4c6b604a8cc1099c	559
+AMT15002-C6	JF307610	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15002-C6 cytochrome b6-like gene, partial sequence	petB_Syn_IV|IVA	MIC	7adeec9e1d6a892fdb7dafc5b220167a	559
+AMT15002-C5b	JF307609	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15002-C5b cytochrome b6-like gene, partial sequence	petB_Syn_IV|IVA	MIC	93d18e365400393d76355293ef5928ae	559
+AMT15002-C3	JF307607	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15002-C3 cytochrome b6-like gene, partial sequence	petB_Syn_IV|IVA	MIC	8defcd5f3c6b8bb1600704b309a8796d	559
+AMT15002-C2b	JF307606	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15002-C2b cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	12b6ea5f16b279c4c89352c11fafa5a4	559
+AMT15002-C2a	JF307605	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15002-C2a cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	19a4e1b853773f97c6e95d1426c75447	559
+AMT15002-C1d	JF307604	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15002-C1d cytochrome b6-like gene, partial sequence	petB_Syn_IV|IVA	MIC	390f41f8f5273e358fa7c6366ac56133	559
+AMT15002-C1c	JF307603	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15002-C1c cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	45e237936ee6ed2d3ebf985d874c4faf	559
+AMT15002-C1a	JF307601	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15002-C1a cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	694268d92bc4d071a5aeda77d31d6e45	559
+AMT15034-C36	JF307598	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15034-C36 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	5c4648c68b40b1ef96ff5a83191ffcfc	559
+AMT15034-C35	JF307597	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15034-C35 cytochrome b6-like gene, partial sequence	petB_Syn_II|wo	MIC	2609bb707196380534ae80c5eb41e730	559
+AMT15034-C34a	JF307595	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15034-C34a cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	417660cf10a32bfb9a76c6e2127dc3f5	559
+AMT15034-C30	JF307593	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15034-C30 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	e1336c2e7e43fe8715707f2d4050d7ea	559
+AMT15034-C27	JF307592	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15034-C27 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIB	MIC	d7c7ab49deb6ca0da26d88cb6779b6dc	559
+AMT15034-C26b	JF307591	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15034-C26b cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	30139a36852083794d8369684af5a84a	559
+AMT15034-C26a	JF307590	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15034-C26a cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	d76aecc69feeaa2d861572fd82945a6e	559
+AMT15034-C23b	JF307589	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15034-C23b cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	172856821ed5929d301b9801e0dd6e90	559
+AMT15034-C23a	JF307588	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15034-C23a cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	f0bdf70c7734c725b734ed1c63c54523	559
+AMT15034-C15s	JF307587	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15034-C15s cytochrome b6-like gene, partial sequence	petB_Syn_IV|IVB	MIC	b5922ba6384cc01cda89425be402c711	559
+AMT15034-A33	JF307586	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15034-A33 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	84e10678fef1540ac092ed5e02dcdcdb	558
+AMT15034-A32	JF307585	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15034-A32 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	bf3a8a3a058f0dbdb295897936342f0f	559
+AMT15034-A31	JF307584	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15034-A31 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	dae4dbf5339def8713cdb81bd3a46426	559
+AMT15034-A30	JF307583	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15034-A30 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	c0d2d240c04237b3e2d390f42ed0af25	559
+AMT15034-A29	JF307582	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15034-A29 cytochrome b6-like gene, partial sequence	petB_Syn_WPC1|WPC1A	MIC	cfc665f306012f5340d955d59630ecc1	559
+AMT15034-A28	JF307581	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15034-A28 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	14baefa2bdf9622e5d9e252d3b299705	559
+AMT15034-A27	JF307580	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15034-A27 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIB	MIC	d2c5c7bc773966b8a7858c88c0433702	559
+AMT15034-A26	JF307579	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15034-A26 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	af2f65f3fa48b73e60827f87db243b42	559
+AMT15034-A24	JF307577	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15034-A24 cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	72f1d10f35c06bf69a35f41357f1c14f	559
+AMT15034-A23b	JF307576	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15034-A23b cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	bedb8ce37f840bd8668e176bd24adc04	559
+AMT15034-A23a	JF307575	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15034-A23a cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	a9983e5cf4f129a64e6e70586fd9765b	559
+AMT15034-A10s	JF307574	petB	UNVERIFIED: Uncultured Synechococcus sp. clone AMT15034-A10s cytochrome b6-like gene, partial sequence	petB_Syn_II|IIA	MIC	0e793d56d432bd411c89759503450d33	559
+WH8101	JF307572	petB	Synechococcus sp. WH 8101 cytochrome b6 gene, partial cds	petB_Syn_VIII|VIIIA	MIC	b31252a60d3ba2a11abb8ff48268f07e	559
+WH8020	JF307571	petB	Synechococcus sp. WH 8020 cytochrome b6 gene, partial cds	petB_Syn_I|IA	MIC	bfa268268f3ed6fe4109511d473f4d66	559
+WH8016	JF307569	petB	Synechococcus sp. WH 8016 cytochrome b6 gene, partial cds	petB_Syn_I|IA	MIC	471e94721c67bf9e227ccd8f2ccf87ce	559
+SYN20	JF307568	petB	Synechococcus sp. SYN20 cytochrome b6 gene, partial cds	petB_Syn_I|IA	MIC	20d14c491416d314bd9a32b4b7293398	559
+RS9919	JF307566	petB	Synechococcus sp. RS9919 cytochrome b6 gene, partial cds	petB_Syn_II|IIA	MIC	8cd710223161a07bb0af21c86383810f	559
+RS9915	JF307565	petB	Synechococcus sp. RS9915 cytochrome b6 gene, partial cds	petB_Syn_III|IIIA	MIC	ed21904e2893b2645ca670a3eb280111	559
+RS9911	JF307561	petB	Synechococcus sp. RS9911 cytochrome b6 gene, partial cds	petB_Syn_II|IIA	MIC	84a243f7f0ae4c5f816192d7800914c3	559
+RS9907	JF307557	petB	Synechococcus sp. RS9907 cytochrome b6 gene, partial cds	petB_Syn_II|IIA	MIC	0b4ca3a2264044ac7daafb2448e934e6	559
+RS9904	JF307554	petB	Synechococcus sp. RS9904 cytochrome b6 gene, partial cds	petB_Syn_II|IIA	MIC	523cc1949ba8eda761cb5550440eceaa	559
+RS9902	JF307553	petB	Synechococcus sp. RS9902 cytochrome b6 gene, partial cds	petB_Syn_II|IIA	MIC	523e3c34c2fc14beeb6cbffdf10984c0	559
+RS9901	JF307552	petB	Synechococcus sp. RS9901 cytochrome b6 gene, partial cds	petB_Syn_IX|IXA	MIC	91344b63c6c55fab55af89f4ba1b8b93	559
+M16.1	JF307548	petB	Synechococcus sp. RCC791 cytochrome b6 gene, partial cds	petB_Syn_II|IIA	MIC	5ba0b9c7e625542251ab71d3722a8078	559
+NOUM97012	JF307547	petB	Synechococcus sp. RCC67 cytochrome b6 gene, partial cds	petB_Syn_VII|VIIA	MIC	59c448124dcdfd789dd1aeeb266caa50	559
+NOUM97010	JF307546	petB	Synechococcus sp. RCC66 cytochrome b6 gene, partial cds	petB_Syn_CRD1|CRD1C	MIC	31cf6f3544ae0c910409305ca9003d24	559
+PROS-M-1	JF307545	petB	Synechococcus sp. RCC528 cytochrome b6 gene, partial cds	petB_Syn_VI|VIA	MIC	43aec856640b503c1a47aa9b9beead4f	559
+PROS-8-1	JF307544	petB	Synechococcus sp. RCC527 cytochrome b6 gene, partial cds	petB_Syn_VI|VIA	MIC	317f0c5958811c926e230e24270a9132	559
+RCC525	JF307543	petB	Synechococcus sp. RCC525 cytochrome b6 gene, partial cds	petB_Syn_VI|VIA	MIC	3e6a92a0665d82e63a904d8f70479829	559
+RCC524	JF307542	petB	Synechococcus sp. RCC524 cytochrome b6 gene, partial cds	petB_Syn_I|IA	MIC	baaf5eda3558b61bbefafbc36250bdd5	559
+PROS-8-2	JF307541	petB	Synechococcus sp. RCC523 cytochrome b6 gene, partial cds	petB_Syn_VI|VIA	MIC	55aff55e0af54a3122a7898ae3f70c1f	559
+MEDNS5	JF307539	petB	Synechococcus sp. RCC42 cytochrome b6 gene, partial cds	petB_Syn_VI|VIA	MIC	efa796a4c11fc2efb0342315c31b49c8	559
+PROS-U-1	JF307538	petB	Synechococcus sp. RCC394 cytochrome b6 gene, partial cds	petB_Syn_II|IIB	MIC	e1e32dd1695c8b4441070ee14b597342	559
+PROS-5-2	JF307537	petB	Synechococcus sp. RCC374 cytochrome b6 gene, partial cds	petB_Syn_II|IIB	MIC	4c7b9209bf4be1c595add4b0f9c44a84	559
+PROS-9-1	JF307534	petB	Synechococcus sp. RCC328 cytochrome b6 gene, partial cds	petB_Syn_I|IA	MIC	b5951d587426b657a0ffa40bb13b9299	559
+PROSOPE-53-19	JF307533	petB	Synechococcus sp. RCC326 cytochrome b6 gene, partial cds	petB_Syn_VI|VIA	MIC	d6bf5f54e7c5a126ce82526b3afda744	559
+PROS-7-1	JF307531	petB	Synechococcus sp. RCC323 cytochrome b6 gene, partial cds	petB_Syn_VI|VIA	MIC	dbca7b3f73d90f403a5c019ad590315d	559
+PROS-3-1	JF307529	petB	Synechococcus sp. RCC321 cytochrome b6 gene, partial cds	petB_Syn_II|IIB	MIC	7bee7eca2d51a1383655ea471a10836b	559
+ROS8604	JF307527	petB	Synechococcus sp. RCC32 cytochrome b6 gene, partial cds	petB_Syn_I|IA	MIC	37b32d508c3f9d4e81eb1ca21085ccaf	559
+PROS-5-1	JF307526	petB	Synechococcus sp. RCC318 cytochrome b6 gene, partial cds	petB_Syn_XVI|XVIA	MIC	f511d38ae66f8d573e1f7b7ff33a9ffe	559
+PROS-7-2	JF307525	petB	Synechococcus sp. RCC317 cytochrome b6 gene, partial cds	petB_Syn_XVI|XVIA	MIC	2df96d26e2557129018f8cc86b231a9e	559
+PROS-3-2	JF307524	petB	Synechococcus sp. RCC316 cytochrome b6 gene, partial cds	petB_Syn_XVI|XVIA	MIC	f95b9b9108393f4c3d1c43376c3e94d4	559
+TAK9802	JF307523	petB	Synechococcus sp. RCC262 cytochrome b6 gene, partial cds	petB_Syn_II|IIA	MIC	18053bc6bce8f7ebaa2071bf8f6ad128	559
+BIOS-H3-2	JF307521	petB	Synechococcus sp. RCC1030 cytochrome b6 gene, partial cds	petB_Syn_CRD1|CRD1C	MIC	9ff7c8088c075dbace675b2c6fa0c550	559
+Biosope-48-B3Y	JF307518	petB	Synechococcus sp. RCC1027 cytochrome b6 gene, partial cds	petB_Syn_CRD1|CRD1B	MIC	4ef8921176abbd83e94b47d82030453c	559
+BIOS-S15-1	JF307516	petB	Synechococcus sp. RCC1023 cytochrome b6 gene, partial cds	petB_Syn_CRD1|CRD1C	MIC	535ce0af96cbf4e66ee0b67eb4201dd8	559
+BIOS-H3-1	JF307514	petB	Synechococcus sp. RCC1018 cytochrome b6 gene, partial cds	petB_Syn_CRD1|CRD1C	MIC	f5e38d5b0fb3c5638eb617a8e9d0e911	559
+Biosope-45-B5-463	JF307513	petB	Synechococcus sp. RCC1017 cytochrome b6 gene, partial cds	petB_Syn_CRD1|CRD1C	MIC	29dc0aa1bed74bebbf89a55a9276dc5e	559
+Biosope-45-B4-461	JF307512	petB	Synechococcus sp. RCC1016 cytochrome b6 gene, partial cds	petB_Syn_CRD1|CRD1C	MIC	2a5d18bef2faeb8e6520af9d75cc2a52	559
+BIOS-U3-2	JF307511	petB	Synechococcus sp. RCC1015 cytochrome b6 gene, partial cds	petB_Syn_I|IA	MIC	c1e6e848d7c74bfbb7b103f096cb9225	559
+MITS9220	JF307509	petB	Synechococcus sp. MITS9220 cytochrome b6 gene, partial cds	petB_Syn_CRD1|CRD1A	MIC	f2afff064de39f5dd14e9c94154482f2	559
+BL8	JF307506	petB	Synechococcus sp. BL8 cytochrome b6 gene, partial cds	petB_Syn_VI|VIA	MIC	989eecd4c78cd736de2086d59ad09e87	559
+BL48	JF307505	petB	Synechococcus sp. BL48 cytochrome b6 gene, partial cds	petB_Syn_VI|VIA	MIC	91ba28a5ab1f26da0d53c5b4485a289a	559
+BL164	JF307503	petB	Synechococcus sp. BL164 cytochrome b6 gene, partial cds	petB_Syn_VI|VIA	MIC	eeaa46f6a291e81134d7b220f8c1012c	559
+BL161	JF307502	petB	Synechococcus sp. BL161 cytochrome b6 gene, partial cds	petB_Syn_VI|VIA	MIC	1cafb96b1bdbcbd58b2cd5bed65b9411	559
+BL1237	JF307501	petB	Synechococcus sp. BL123-7 cytochrome b6 gene, partial cds	petB_Syn_VI|VIA	MIC	791024a370f909cfb47d65417eeeea0a	559
+ALMO3	JF307500	petB	Synechococcus sp. Almo3 cytochrome b6 gene, partial cds	petB_Syn_I|IA	MIC	95c209a472075cfd1bc72881d47f7367	559
+A15-74	JF307499	petB	Synechococcus sp. A15-74 cytochrome b6 gene, partial cds	petB_Syn_VII|VIIA	MIC	653d9a6141b91f58282a6db29603fb9e	559
+A15-72	JF307498	petB	Synechococcus sp. A15-72 cytochrome b6 gene, partial cds	petB_Syn_II|IIA	MIC	19880a3331e28eb3b9f64bb4a30b25c7	559
+A15-62	JF307497	petB	Synechococcus sp. A15-62 cytochrome b6 gene, partial cds	petB_Syn_II|IIA	MIC	001459ec42056604c95df76123f9c538	559
+A15-60	JF307495	petB	Synechococcus sp. A15-60 cytochrome b6 gene, partial cds	petB_Syn_VII|VIIA	MIC	731f0319cf8d729a90e2c85687397c92	559
+A15-38	JF307487	petB	Synechococcus sp. A15-38 cytochrome b6 gene, partial cds	petB_Syn_II|IIA	MIC	d3b7d463372489d10c137c950d5ec576	559
+A15-37	JF307486	petB	Synechococcus sp. A15-37 cytochrome b6 gene, partial cds	petB_Syn_II|IIA	MIC	3e0c0ec4382a9f07eb69cb09479fe084	559
+A15-28	JF307482	petB	Synechococcus sp. A15-28 cytochrome b6 gene, partial cds	petB_Syn_III|IIIA	MIC	fe3e3f0e645a67c1c668685429c5bf5c	559
+A15-24	JF307481	petB	Synechococcus sp. A15-24.2 cytochrome b6 gene, partial cds	petB_Syn_III|IIIA	MIC	c0b14cb6e8c81f774e8488a604609ea4	559
+A15-19	JF307478	petB	Synechococcus sp. A15-19 cytochrome b6 gene, partial cds	petB_Syn_II|IIA	MIC	59d4a6b34089be279a216e0054fb0473	559
+A15-147	JF307477	petB	Synechococcus sp. A15-147 cytochrome b6 gene, partial cds	petB_Syn_II|IIB	MIC	1641afd5368d0eb8d927c2773510607f	559
+A15-146	JF307476	petB	Synechococcus sp. A15-146 cytochrome b6 gene, partial cds	petB_Syn_II|wo	MIC	884e8e420dcb4d030fedfefb22631514	559
+A15-30	JF307473	petB	Synechococcus sp. A15-127 cytochrome b6 gene, partial cds	petB_Syn_III|IIIA	MIC	8e21c7342cd790a60f3aa5bd718d1a44	559
+A15-11	JF307472	petB	Synechococcus sp. A15-11 cytochrome b6 gene, partial cds	petB_Syn_III|IIIA	MIC	fb8320d1bb06dff0a539218c63247219	559
+PROS-5-3	JF307470	petB	Synechococcus sp. 53-4 cytochrome b6 gene, partial cds	petB_Syn_VI|VIA	MIC	8a0d6376b24b99aceb06f03aa48edd12	559
+PROS-D-1	JF307469	petB	Synechococcus sp. 157-21 cytochrome b6 gene, partial cds	petB_Syn_VI|VIA	MIC	d2299043b851172508c6448bd0063c8f	559
+scB245a-520D2	JFNR01000108	petB	Prochlorococcus sp. scB245a_520D2 contig_87, whole genome shotgun sequence	petB_Pro_HLII|HLIIA	MIC	1b16e4e505b5b0b1b7d3660fc33d5474	654
+scB241-529J11	JFLP01000046	petB	Prochlorococcus sp. scB241_529J11 contig_54, whole genome shotgun sequence	petB_Pro_HLII|HLIIA	MIC	5a951a8beee2ac8ec21afc0aa9ee3c3e	654
+W8	ALPF01000057	petB	Prochlorococcus sp. W8 clone W8 W8_3, whole genome shotgun sequence	petB_Pro_HLIII|HLIIIA	MIC	e28c7403da014b1e5891dc27ec4723ff	654
+W11	ALPI01000032	petB	Prochlorococcus sp. W11 clone W11 W11_84, whole genome shotgun sequence	petB_Pro_HLIV|HLIVA	MIC	404f4f70f418860615b96defe425ca4b	654
+MIT9515	CP000552	petB	Prochlorococcus marinus str. MIT 9515, complete genome	petB_Pro_HLI|HLIC	MIC	d0d5e55fa9c3de25a52c9c00e48631ed	654
+scB241-528O2	JFLJ01000084	petB	Prochlorococcus sp. scB241_528O2 contig_220, whole genome shotgun sequence	petB_Pro_HLII|HLIIA	MIC	fb37a6aad9b2702e7c974292426f0b91	654
+W4	ALPD01000082	petB	Prochlorococcus sp. W4 clone W4 W4_11, whole genome shotgun sequence	petB_Pro_HLIV|HLIVA	MIC	8815a7a7368f292fa1fafa90385ef01a	654
+W9	ALPG01000090	petB	Prochlorococcus sp. W9 clone W9 W9_5, whole genome shotgun sequence	petB_Pro_HLIII|HLIIIA	MIC	e904618f175bada66ffe56cca1435f2a	654
+W2	ALPB01000063	petB	Prochlorococcus sp. W2 clone W2 W2_24, whole genome shotgun sequence	petB_Pro_HLIV|HLIVA	MIC	d8ae756a6ff5cc89682d0e4cd2452172	654
+MED4	BX548174	petB	Prochlorococcus marinus MED4 complete genome	petB_Pro_HLI|HLIA	MIC	8ad88cb2b99e548f362b146e630daf73	654
+scB243-498A3	JFML01000019	petB	Prochlorococcus sp. scB243_498A3 contig_58, whole genome shotgun sequence	petB_Pro_HLII|HLIIA	MIC	b1d67ef3e09193e447c525436eeb9a2b	654
+scB245a-519O21	JFNP01000005	petB	Prochlorococcus sp. scB245a_519O21 contig_141, whole genome shotgun sequence	petB_Pro_HLII|HLIIA	MIC	b1995deef746b1c06ac26ac3c12b7174	654
+MIT9312	CP000111	petB	Prochlorococcus marinus str. MIT 9312, complete genome	petB_Pro_HLII|HLIIA	MIC	cc9b1903985ddcb16fe02ba1a429a4d9	654
+scB243-496M6	JFMF01000082	petB	Prochlorococcus sp. scB243_496M6 contig_311, whole genome shotgun sequence	petB_Pro_HLII|HLIIA	MIC	28c96bb79dc5b8c4406091e9ddd23439	654
+scB243-498B23	JFMN01000053	petB	Prochlorococcus sp. scB243_498B23 contig_217, whole genome shotgun sequence	petB_Pro_HLII|HLIIA	MIC	69187670483fe03d76a03c7b4a420a5c	654
+scB243-497N18	JFMK01000044	petB	Prochlorococcus sp. scB243_497N18 contig_36, whole genome shotgun sequence	petB_Pro_HLII|HLIIA	MIC	de41c76d32bf231bff1eb0a7693e37fd	654
+scB243-495G23	JFLU01000112	petB	Prochlorococcus sp. scB243_495G23 contig_82, whole genome shotgun sequence	petB_Pro_HLII|HLIIA	MIC	e6d01fde76b405caadb2016f01274634	654
+MIT9301	CP000576	petB	Prochlorococcus marinus str. MIT 9301, complete genome	petB_Pro_HLII|HLIIA	MIC	f3568356d7551243f67b31232b727558	654
+W7	ALPE01000035	petB	Prochlorococcus sp. W7 clone W7 W7_29, whole genome shotgun sequence	petB_Pro_HLIII|HLIIIA	MIC	b91bce13734cde2f6e67feea60d1bb90	654
+scB241-528J8	JFLE01000049	petB	Prochlorococcus sp. scB241_528J8 contig_27, whole genome shotgun sequence	petB_Pro_HLII|HLIIB	MIC	36be257efab63ff01af3717785c5433b	654
+scB245a-520K10	JFNU01000004	petB	Prochlorococcus sp. scB245a_520K10 contig_181, whole genome shotgun sequence	petB_Pro_HLII|HLIIB	MIC	f89981d9cc3cfc1413d814b708db6fd9	654
+MIT9215	CP000825	petB	Prochlorococcus marinus str. MIT 9215, complete genome	petB_Pro_HLII|HLIIA	MIC	b1fbb79333d1cc2bbe6d303e52c78e22	654
+MIT0604	CP007753	petB	Prochlorococcus sp. MIT 0604, complete genome	petB_Pro_HLII|HLIIA	MIC	e41e1146804a854f93d80b0080b11b14	654
+scB241-526B22	JFKP01000094	petB	Prochlorococcus sp. scB241_526B22 contig_136, whole genome shotgun sequence	petB_Pro_HLII|HLIIA	MIC	7c87b842e9628b6ad29f2b4e270acb68	654
+scB245a-521K15	JFNZ01000075	petB	Prochlorococcus sp. scB245a_521K15 contig_57, whole genome shotgun sequence	petB_Pro_HLII|HLIIA	MIC	eed240d89a36a84d014dccb93c48749a	654
+scB241-526D20	JFKQ01000052	petB	Prochlorococcus sp. scB241_526D20 contig_212, whole genome shotgun sequence	petB_Pro_HLII|HLIIA	MIC	9d71835fe5c67e4330b85ab7fc6d6dba	654
+scB241-529J16	JFLR01000027	petB	Prochlorococcus sp. scB241_529J16 contig_72, whole genome shotgun sequence	petB_Pro_HLII|HLIIA	MIC	b945caa614e859e15a1f63f5ea0839eb	654
+scB243-496A2	JFMC01000005	petB	Prochlorococcus sp. scB243_496A2 contig_178, whole genome shotgun sequence	petB_Pro_HLII|HLIIB	MIC	c48184802b54adbce8502813f1ffa959	654
+scB241-526N9	JFKT01000050	petB	Prochlorococcus sp. scB241_526N9 contig_105, whole genome shotgun sequence	petB_Pro_HLII|HLIIA	MIC	eed68f869ee37c8254bbb95ce93de0cd	654
+scB241-526K3	JFKR01000138	petB	Prochlorococcus sp. scB241_526K3 contig_514, whole genome shotgun sequence	petB_Pro_HLII|HLIIA	MIC	b62e22ccbf364b804dfa0c5199f26112	654
+scB245a-518I6	JFND01000017	petB	Prochlorococcus sp. scB245a_518I6 contig_192, whole genome shotgun sequence	petB_Pro_HLII|HLIIB	MIC	4b3f5cd3928f118d4186f1bc055d6f00	654
+scB245a-518A17	JFMZ01000006	petB	Prochlorococcus sp. scB245a_518A17 contig_93, whole genome shotgun sequence	petB_Pro_HLII|HLIIB	MIC	8ad015374baba9d56c08e0cdcc6255b0	654
+scB243-495D8	JFLT01000015	petB	Prochlorococcus sp. scB243_495D8 contig_45, whole genome shotgun sequence	petB_Pro_HLII|HLIIA	MIC	719ab6c2aadadbfb67fd9bc0a90aba07	654
+scB241-527E15	JFKV01000005	petB	Prochlorococcus sp. scB241_527E15 contig_55, whole genome shotgun sequence	petB_Pro_HLII|HLIIB	MIC	860cfcc985c01f4fd5c1804aab1e26ef	654
+scB241-527L22	JFLA01000002	petB	Prochlorococcus sp. scB241_527L22 contig_130, whole genome shotgun sequence	petB_Pro_HLII|HLIIA	MIC	7cf7de4d4eeb855693773d45f2ba4052	654
+scB241-528P18	JFLL01000008	petB	Prochlorococcus sp. scB241_528P18 contig_187, whole genome shotgun sequence	petB_Pro_HLII|HLIIB	MIC	26c866a0ae553132f76da60c34f5dce2	654
+scB243-498I20	JFMR01000036	petB	Prochlorococcus sp. scB243_498I20 contig_104, whole genome shotgun sequence	petB_Pro_HLII|HLIIB	MIC	f394d5b1e180c9e420bcced62185a6cd	654
+scB243-497I20	JFMI01000002	petB	Prochlorococcus sp. scB243_497I20 contig_124, whole genome shotgun sequence	petB_Pro_HLII|HLIIA	MIC	8e2241f7a25667013935c5b0b380b024	654
+scB243-495L20	JFLX01000001	petB	Prochlorococcus sp. scB243_495L20 contig_100, whole genome shotgun sequence	petB_Pro_HLII|HLIIB	MIC	3056c18b38ae5056e1b96e63aeedb9a6	654
+scB245a-518O7	JFNG01000001	petB	Prochlorococcus sp. scB245a_518O7 contig_175, whole genome shotgun sequence	petB_Pro_HLII|HLIIA	MIC	95d1a91b9cc1dfec17c79c7a33a951c5	654
+AS9601	CP000551	petB	Prochlorococcus marinus str. AS9601, complete genome	petB_Pro_HLII|HLIIA	MIC	ad50b7202bf5adf8db0d42ba80b20472	654
+SS120	AE017126	petB	Prochlorococcus marinus subsp. marinus str. CCMP1375 complete genome	petB_Pro_LLII_III|LLII-IIIA	MIC	148325d80ba70728b3b8108babb09e3b	654
+MIT9211	CP000878	petB	Prochlorococcus marinus str. MIT 9211 genome	petB_Pro_LLII_III|LLII-IIIA	MIC	2261e7a962fdc6efbda697825aaa9a00	654
+NATL2A	CP000095	petB	Prochlorococcus marinus str. NATL2A, complete genome	petB_Pro_LLI|LLIA	MIC	0ef417b4b60015ec0092395fdeae493b	654
+NATL1A	CP000553	petB	Prochlorococcus marinus str. NATL1A, complete genome	petB_Pro_LLI|LLIA	MIC	8435ba1185ba7ec1dce10478139e6415	654
+MIT0801	CP007754	petB	Prochlorococcus sp. MIT 0801, complete genome	petB_Pro_LLI|LLIA	MIC	e6f211af384cef2e89fe94f779e27ad8	654
+MIT9313	BX548175	petB	Prochlorococcus marinus MIT9313 complete genome	petB_Pro_LLIV|LLIVA	MIC	2496ea2c5e2cca08e62c92ccef2b8dba	654
+MIT9303	CP000554	petB	Prochlorococcus marinus str. MIT 9303, complete genome	petB_Pro_LLIV|LLIVA	MIC	588454cc62519adf184a56c484c746bc	654
+WH7803	CT971583	petB	Synechococcus WH7803 complete genome sequence	petB_Syn_V|VA	MIC	fef5b04d12edc61965c98f1868853330	654
+WH8102	BX548020	petB	Synechococcus sp. WH 8102 complete genome	petB_Syn_III|IIIA	MIC	5f833296609fa3e2e8611c869c242d35	654
+WH8109	CP006882	petB	Synechococcus sp. WH 8109, complete genome	petB_Syn_II|IIA	MIC	17d417f32d636e46f65ff331d239c58f	654
+WH8109	CP006882	petB	Synechococcus sp. WH 8109, complete genome	petB_Syn_II|IIA	MIC	f70a30b6a768bc429ef6f3cf96d10df4	912
+CC9605	CP000110	petB	Synechococcus sp. CC9605, complete genome	petB_Syn_II|IIA	MIC	41ca6a996f8e5e86594b20959b5070a8	654
+CC9605	CP000110	petB	Synechococcus sp. CC9605, complete genome	petB_Syn_II|IIA	MIC	c448eecb7ae386cd9e6d42c49ea43807	912
+CC9311	CP000435	petB	Synechococcus sp. CC9311, complete genome	petB_Syn_I|IA	MIC	a94bc5d816405bbe10e5f8ca657c42f1	654
+CC9902	CP000097	petB	Synechococcus sp. CC9902, complete genome	petB_Syn_IV|IVA	MIC	7611ed11d395d9ea5b7232ab16d288cd	654
+CC9902	CP000097	petB	Synechococcus sp. CC9902, complete genome	petB_Syn_IV|IVA	MIC	26677795a5b4f58332bcb5814007020f	903
+RCC307	CT978603	petB	Synechococcus sp. RCC307 genomic DNA sequence	petB_Syn_5_3|5.3A	MIC	5258f0b35ad394724cdb552ac5cc7925	654
+RCC307	CT978603	petB	Synechococcus sp. RCC307 genomic DNA sequence	petB_Syn_5_3|5.3A	MIC	c251d34b1c46c78c43e57ebd478100ad	915
+PCC6307	CP003495	petB	Cyanobium gracile PCC 6307, complete genome	petB_Syn_5_2|5.2A	MIC	4ce630e959c7bb4306f13d52aa204e51	651
+Arctic732-1b	JF307695	petB	UNVERIFIED: Uncultured Synechococcus sp. clone Arctic732-1b cytochrome b6-like gene, partial sequence	petB_Syn_I|IA	MIC	63a16dcbe43964c3e7823e18353ef3dd	558
+HNLC2	GL947595	petB	Prochlorococcus marinus bv. HNLC2 genomic scaffold scf_0001.HNLC2, whole genome shotgun sequence	petB_Pro_HLIII|HLIIIA	MIC	75a59ef515568baba0df3cfe865845e3	654
+HNLC1	GL947594	petB	Prochlorococcus marinus bv. HNLC1 genomic scaffold scf_0001.HNLC1, whole genome shotgun sequence	petB_Pro_HLIV|HLIVA	MIC	18e5b153ba65248fd07f9abf1cba7b34	654
+KORDI-49	CP006270	petB	Synechococcus sp. KORDI-49, complete genome	petB_Syn_WPC1|WPC1A	MIC	9b9cf09c1f85c87da8c4db3887044b84	654
+KORDI-49	CP006270	petB	Synechococcus sp. KORDI-49, complete genome	petB_Syn_WPC1|WPC1A	MIC	0adcaf869900d35866f382f12c55d5e7	951
+KORDI-100	CP006269	petB	Synechococcus sp. KORDI-100, complete genome	petB_Syn_UC_A|UC-AA	MIC	850fce5c7cf05f663fd06b6b8845d677	654
+KORDI-100	CP006269	petB	Synechococcus sp. KORDI-100, complete genome	petB_Syn_UC_A|UC-AA	MIC	8ae43950e592dc5641a08949d83fb302	909
+KORDI-52	CP006271	petB	Synechococcus sp. KORDI-52, complete genome	petB_Syn_II|IIA	MIC	5e7b65793526d7a48142db58c0213fa8	654
+KORDI-52	CP006271	petB	Synechococcus sp. KORDI-52, complete genome	petB_Syn_II|IIA	MIC	6239c524ff842c01c2b1806bdd6ab3d4	909
+AB280621	AB280621	petB	Chattonella marina var. ovata chromoplast petB gene for cytochrome b6, partial cds	petB_nmc	NMC	61dec8698ed7bda5fe0d7e816ab95563	592
+MBIC11017	CP000828	petB	Acaryochloris marina MBIC11017, complete genome	petB_nmc	NMC	ee1531fb36cfd70be21d36508367a4d9	645
+PCC7122	CP003659	petB	Anabaena cylindrica PCC 7122, complete genome	petB_nmc	NMC	c54e4d1c8230ce9734d27ce062921ef1	645
+GQ231541	GQ231541	petB	Aureococcus anophagefferens strain CCMP 1984 chloroplast, complete genome	petB_nmc	NMC	6a923a6e37293adac6edc85675b1c0ae	645
+GQ231542	GQ231542	petB	Aureoumbra lagunensis strain CCMP 1507 chloroplast, complete genome	petB_nmc	NMC	88fb49c22e3f8744c08de92401b75425	645
+FO082259	FO082259	petB	Bathycoccus prasinos genomic : Chloroplast	petB_nmc	NMC	e86083a0429f9c8ce761520014102518	645
+PCC6303	CP003610	petB	Calothrix sp. PCC 6303, complete genome	petB_nmc	NMC	d0ff1abdb47a12be7d808a8fbe8f2dbc	645
+UCYN-A	JPSP01000008	petB	Candidatus Atelocyanobacterium thalassa isolate SIO64986 UCYN-A2_contig_8.864055, whole genome shotgun sequence	petB_nmc	NMC	858847ffb487e0d5f961c9f941acbe33	642
+PCC6605	CP003600	petB	Chamaesiphon minutus PCC 6605, complete genome	petB_nmc	NMC	0c18c4d6c3a797670aad9cca2bf26b99	642
+FJ423446	FJ423446	petB	Chlamydomonas reinhardtii strain CC-503 cw92 mt+ chloroplast, complete genome	petB_nmc	NMC	a69198c3bf303abdbba788365f5c413d	645
+WH8501	AADV02000007	petB	Crocosphaera watsonii WH 8501 ctg356, whole genome shotgun sequence	petB_nmc	NMC	f35adca9d5d3076e6159bda3036bb6d7	642
+PCC7202	CP003940	petB	Cyanobacterium stanieri PCC 7202, complete genome	petB_nmc	NMC	9fa9feb326c6b8812e513bdb69111d96	642
+PCC7425	CP001344	petB	Cyanothece sp. PCC 7425, complete genome	petB_nmc	NMC	c5cb4d92b5658e83f52181a6b57e0198	642
+FP102296	FP102296	petB	Ectocarpus siliculosus chloroplast, complete genome	petB_nmc	NMC	6fffbc4f8c0c3f040dd63d591c1d277a	645
+AY741371	AY741371	petB	Emiliania huxleyi strain CCMP 373 chloroplast, complete genome	petB_nmc	NMC	0a69f1d2f3ce667733eb63390da3a96d	645
+AP011960	AP011960	petB	Fistulifera solaris chloroplast DNA, complete genome	petB_nmc	NMC	609712b5cd0d0a4e1e345976f721a750	645
+GU196268	GU196268	petB	Floydiella terrestris culture-collection UTEX:1709 chloroplast, complete genome	petB_nmc	NMC	1a0f0733f5a6793fdeb60071af2f7667	645
+PCC7407	CP003591	petB	Geitlerinema sp. PCC 7407, complete genome	petB_nmc	NMC	08a72e6588cdd47313cca1cb3266f5fc	645
+PCC7428	CP003646	petB	Gloeocapsa sp. PCC 7428, complete genome	petB_nmc	NMC	c6309ac8d1009ca52e3da41282c6a632	642
+AF041468	AF041468	petB	Guillardia theta complete plastid genome	petB_nmc	NMC	cc3b46623f2093039caa93466eebaaea	645
+EU168190	EU168190	petB	Heterosigma akashiwo strain NIES 293 chloroplast, complete genome	petB_nmc	NMC	29eed1b8c69e791819ea3db7e2530d38	645
+JN039300	JN039300	petB	Karlodinium veneficum chloroplast, partial genome	petB_nmc	NMC	a70035064611887cc209a4e13cfe050a	633
+PCC7375	JH993797	petB	Leptolyngbya sp. PCC 7375 genomic scaffold Lepto7375DRAFT_LPA.5, whole genome shotgun sequence	petB_nmc	NMC	254f2e1d5a07befdc8e879a9816f5f22	642
+PCC7113	CP003630	petB	Microcoleus sp. PCC 7113, complete genome	petB_nmc	NMC	61603017472c8324fc82532ae39bfaec	642
+FJ858267	FJ858267	petB	Micromonas sp. RCC299 chloroplast, complete genome	petB_nmc	NMC	9b109e42376eb7cfece6d4cb8161af6c	645
+FJ493497	FJ493497	petB	Monomastix sp. OKE-1 chloroplast, complete genome	petB_nmc	NMC	8c5da32c544aeb78c7a53ce91dd52c11	645
+PCC7524	CP003552	petB	Nostoc sp. PCC 7524, complete genome	petB_nmc	NMC	b95c28fa450849fa05187e86a4929162	645
+Z67753	Z67753	petB	Odontella sinensis complete chloroplast genome	petB_nmc	NMC	07aee9ff99f2908ff8448a5967f4ef53	645
+EU677193	EU677193	petB	Oedogonium cardiacum strain SAG 575-1b chloroplast, complete genome	petB_nmc	NMC	34209662cfd89fe828d79e51cffafc86	645
+DQ291132	DQ291132	petB	Oltmannsiellopsis viridis chloroplast, complete genome	petB_nmc	NMC	a9232f4590b68ba1d692959a40097b7a	477
+FJ968739	FJ968739	petB	Oocystis solitaria culture-collection SAG:83.80 chloroplast, partial genome	petB_nmc	NMC	3d98f811befc9f80bf4411867c536610	645
+PCC7112	CP003614	petB	Oscillatoria nigro-viridis PCC 7112, complete genome	petB_nmc	NMC	3e73786ed7e74457e7e26931dcd0a308	642
+CR954199	CR954199	petB	Ostreococcus tauri chloroplast, complete genome	petB_nmc	NMC	2639d6414e64066a11be33caeb3495d9	645
+FJ968741	FJ968741	petB	Parachlorella kessleri culture-collection SAG:211-11g chloroplast, complete genome	petB_nmc	NMC	0efaabe099aee886281b679754ceb608	645
+JN117275	JN117275	petB	Phaeocystis antarctica strain CCMP1374 plastid, complete genome	petB_nmc	NMC	68e4c1d9cc8d81b5d15398f69ca7aa25	645
+EF067920	EF067920	petB	Phaeodactylum tricornutum chloroplast, complete genome	petB_nmc	NMC	7317d030c3fb3c0ea7cf2c8536386552	645
+PCC7327	CP003590	petB	Pleurocapsa sp. PCC 7327, complete genome	petB_nmc	NMC	08cdaa54094a6e777b48eb772d4dcd7f	642
+JQ408795	JQ408795	petB	Porphyra umbilicalis plastid, partial genome	petB_nmc	NMC	aa7b72a81c2841c6bf41e628ed0c8673	645
+PCC7429	ALWB01000101	petB	Pseudanabaena biceps PCC 7429 scaffold_00101, whole genome shotgun sequence	petB_nmc	NMC	77c2ab0ea0b090dc0b1da302b093b2ed	645
+PCC7367	CP003592	petB	Pseudanabaena sp. PCC 7367, complete genome	petB_nmc	NMC	380b74476494227ebcc1d6c2632fae9c	645
+AY835431	AY835431	petB	Pseudendoclonium akinetum chloroplast, complete genome	petB_nmc	NMC	eba4d7a4dd7e8fdc3416a69dbffe6b5e	645
+FJ493498	FJ493498	petB	Pycnococcus provasolii chloroplast, complete genome	petB_nmc	NMC	774feb90f4c4e63100a5b8c9a9c2720e	645
+FJ493499	FJ493499	petB	Pyramimonas parkeae chloroplast, complete genome	petB_nmc	NMC	9014e761fa32d35a0e631bb916758e90	645
+KC517072	KC517072	petB	Pyropia yezoensis chloroplast, complete genome	petB_nmc	NMC	f9dc7f0d2a1913360fd2677f28c0d2ba	645
+EF508371	EF508371	petB	Rhodomonas salina strain CCMP1319 chloroplast, complete genome	petB_nmc	NMC	d541af6357015d505b71d4c8f33499eb	645
+PCC7116	CP003549	petB	Rivularia sp. PCC 7116, complete genome	petB_nmc	NMC	16e894c8c61895d78e24d6f8d688ba58	645
+JQ405663	JQ405663	petB	Saccharina japonica chloroplast, complete genome	petB_nmc	NMC	2d01a4c57f334501ebe6cd866a4d14cd	645
+DQ396875	DQ396875	petB	Scenedesmus obliquus strain UTEX 393 chloroplast, complete genome	petB_nmc	NMC	23a94afd72ac9fe3634baf208252bedb	645
+HQ700713	HQ700713	petB	Schizomeris leibleinii culture-collection UTEX:LB 1228 chloroplast, complete genome	petB_nmc	NMC	95be5ec5f6d350bb846155b3dde14fe6	645
+AJ132263	AJ132263	petB	Skeletonema costatum chromoplast psbC (partial), psaD, petB, petD (partial), ycf12, ycf9 and ycf47 genes	petB_nmc	NMC	0b9e0acf1ddc7bd03e779008f73ae728	645
+PCC7437	CP003653	petB	Stanieria cyanosphaera PCC 7437, complete genome	petB_nmc	NMC	5fc8d93bb1c5cd5d718334b302a42e97	642
+DQ630521	DQ630521	petB	Stigeoclonium helveticum strain UTEX 441 chloroplast, complete genome	petB_nmc	NMC	ff1a923ffc6e434b18fe93300dda15e4	645
+PCC7942	CP000100	petB	Synechococcus elongatus PCC 7942, complete genome	petB_nmc	NMC	c5f2bfd26983d4053270416f901282ec	645
+PCC6312	CP003558	petB	Synechococcus sp. PCC 6312, complete genome	petB_nmc	NMC	1de8c2872545ed5ac7a48b3ea27c0f5a	645
+PCC7502	CP003594	petB	Synechococcus sp. PCC 7502, complete genome	petB_nmc	NMC	6eb7d2eda98e3c3282eebc2f056c3ce2	645
+PCC7509	ALVU02000001	petB	Synechocystis sp. PCC 7509 SYN7509DRAFT_scaffold1.1_C, whole genome shotgun sequence	petB_nmc	NMC	0e12e15cdf560db579d2a2a17ee85149	645
+GU323224	GU323224	petB	Thalassiosira oceanica CCMP1005 chloroplast, complete genome	petB_nmc	NMC	6f7197a2624b2659b55d2b4e542357f6	645
+IMS101	NC_008312	petB	Trichodesmium erythraeum IMS101, complete genome	petB_nmc	NMC	d80193706080202673f13bf0dcfe0a42	642
+JX297813	JX297813	petB	Uncultured Pelagomonas plastid, complete genome	petB_nmc	NMC	a266d99306477f172843da91493b179b	645
+HM565909	HM565909	petB	Uncultured prymnesiophyte C19847 chloroplast sequence	petB_nmc	NMC	6e83c37cfb80ed1f6c16e68a266db70c	645
+EU912438	EU912438	petB	Vaucheria litorea chloroplast, complete genome	petB_nmc	NMC	d51e8d2f5092c6ac40bbc122d86f8450	645
+GU084820	GU084820	petB	Volvox carteri f. nagariensis strain UTEX 2908 plastid, partial genome	petB_nmc	NMC	46a4b85d4d9068d8eb81b55eafff4ea7	645
+PCC7108	AJWF01000010	petB	Anabaena sp. PCC 7108 Ana7108scaffold_2_Cont10, whole genome shotgun sequence	petB_nmc	NMC	6ecc7a7d339a37bdaac5d7ab5a02d081	645
+PCC7103	ALVJ01000022	petB	Calothrix sp. PCC 7103 Cal7103DRAFT_CPM.6_C15, whole genome shotgun sequence	petB_nmc	NMC	cc2903f77730f5fedede6b2f5db60459	645
+PCC9339	ALVS01000067	petB	Fischerella sp. PCC 9339 PCC9339DRAFT_scaffold1.1_C14, whole genome shotgun sequence	petB_nmc	NMC	225eb2013f34e59a286934d605627a16	645
+PCC7126	ANFJ01000002	petB	Fortiea contorta PCC 7126 Mic7126DRAFT_MPQ.3_C2, whole genome shotgun sequence	petB_nmc	NMC	f3222401460be213a7373a0b794f2d41	645
+PCC7105	ANFQ01000212	petB	Geitlerinema sp. PCC 7105 Gei7105DRAFT_GPC.4_C27, whole genome shotgun sequence	petB_nmc	NMC	06251aec5126ce409c40493f4424cbad	450
+PCC6308	ALVO01000008	petB	Geminocystis herdmanii PCC 6308 Syn6308scaffold_1_Cont8, whole genome shotgun sequence	petB_nmc	NMC	549d34016e25a0e478abe19c07026b15	642
+PCC73106	ALVY01000210	petB	Gloeocapsa sp. PCC 73106 scaffold_00210, whole genome shotgun sequence	petB_nmc	NMC	b2aff995c8023034c950e2827a1df638	642
+PCC6407	ALVI01000047	petB	Kamptonema formosum PCC 6407 Oscil6407scaffold_6_Cont47, whole genome shotgun sequence	petB_nmc	NMC	7655316ddad3892494856fd4b22dbfc4	642
+PCC6306	ALVM01000010	petB	Leptolyngbya boryana PCC 6306 LepboDRAFT_LPC.1_C2, whole genome shotgun sequence	petB_nmc	NMC	204b86d6177c42e48ba75a5400ac077f	645
+PCC10914	ALVW01000006	petB	Mastigocladopsis repens PCC 10914 Mas10914DRAFT_scaffold1.1_C1, whole genome shotgun sequence	petB_nmc	NMC	662adfe496abf342732b58c3723564e8	645
+AF137379	AF137379	petB	Nephroselmis olivacea chloroplast DNA, complete genome	petB_nmc	NMC	fe5a0e44bf05fc1a1875de33fbd90e55	645
+PCC7104	ALVP01000047	petB	Nodosilinea nodulosa PCC 7104 Lepto7104DRAFT_LPD.2_C47, whole genome shotgun sequence	petB_nmc	NMC	17e3c5c6ce1858040792122ec87402f1	642
+CCY9414	NZ_AAVW01000021	petB	Nodularia spumigena CCY9414 1099428179496, whole genome shotgun sequence	petB_nmc	NMC	bd8f9b07a4e3acbcbbecab9a9c292789	189
+PCC10802	ANKO01000052	petB	Oscillatoria sp. PCC 10802 Osc10802DRAFT_Contig7.7_C49, whole genome shotgun sequence	petB_nmc	NMC	df357addbf923d2c37667d050840f0ae	645
+PCC7319	ALVL01000021	petB	Pleurocapsa sp. PCC 7319 Pleur7319scaffold_7_Cont21, whole genome shotgun sequence	petB_nmc	NMC	096afd3ba500731c1f30bc40f1e4a5ac	642
+PCC9006	ANKN01000158	petB	Prochlorothrix hollandica PCC 9006 = CALU 1027 strain PCC 9006 Pro9006DRAFT_Contig10.1_C7, whole genome shotgun sequence	petB_nmc	NMC	132f563e80e103219ae5f51a405ad3c5	642
+PCC6802	ALVK01000015	petB	Pseudanabaena sp. PCC 6802 Pse6802_scaffold_5_Cont15, whole genome shotgun sequence	petB_nmc	NMC	d21c4aad1aa397165ce62abee4592983	645
+PCC7336	ALWC01000004	petB	Synechococcus sp. PCC 7336 Syn7336Cscaffold_1_Cont4, whole genome shotgun sequence	petB_nmc	NMC	09b1d2cdeb81c4bc13c5064dffb0f233	645
+PCC7305	ALVZ01000218	petB	Xenococcus sp. PCC 7305 scaffold_00218, whole genome shotgun sequence	petB_nmc	NMC	676d943b69217baff67c243b184a8fe8	642
+UTEX2349	ALWD01000029	petB	[Scytonema hofmanni] UTEX 2349 Tol9009DRAFT_TPD.8_C11, whole genome shotgun sequence	petB_nmc	NMC	f47ebff08adf149692b8c4fc3f8324b2	645
+MIC_desC_fam1_LVHT01000027.1	LVHT01000027.1	desC	Synechococcus sp. MIT S9504 MITS9504_contig000027, whole genome shotgun sequence_fam1	desC_fam1Mic	MIC	03e07f544d565a26a1fa5a8a71099e04	849
+MIC_desC_fam1_LVHT01000027.1	LVHT01000027.1	desC	Synechococcus sp. MIT S9504 MITS9504_contig000027, whole genome shotgun sequence_fam1	desC_fam1Mic	MIC	9ef070e72a2bcaa2716bf4badbda8f81	933
+MIC_desC_fam1_LVHU01000016.1	LVHU01000016.1	desC	Synechococcus sp. MIT S9508 MITS9508_contig000016, whole genome shotgun sequence_fam1	desC_fam1Mic	MIC	5ef011fcb8672bd1b1b1c8c9637a63f0	822
+MIC_desC_fam1_LVHU01000016.1	LVHU01000016.1	desC	Synechococcus sp. MIT S9508 MITS9508_contig000016, whole genome shotgun sequence_fam1	desC_fam1Mic	MIC	e31c1f890535fe19525f9a0dd310be46	864
+MIC_desC_fam1_BX569695.1	BX569695.1	desC	Synechococcus sp. WH8102 complete genome; segment 7/7_fam1	desC_fam1Mic	MIC	d2268d7cef743b8939d918242caa18dd	861
+MIC_desC_fam1_LN847356.1	LN847356.1	desC	Synechococcus sp. WH 8103 genome assembly WH8103.1, chromosome : 1_fam1	desC_fam1Mic	MIC	eff22f6b147b87eacbe6f18077bd64b4	795
+MIC_desC_fam1_AAUA01000001.1	AAUA01000001.1	desC	Synechococcus sp. RS9916 1100013017033, whole genome shotgun sequence_f1	desC_fam1Mic	MIC	3b9625dccebd238361afe8befa15043f	966
+MIC_desC_fam1_NZ_CH724168.1	NZ_CH724168.1	desC	Synechococcus sp. WH 7805 scf_1099646010156, whole genome shotgun sequence_f1	desC_fam1Mic	MIC	5a14709870cd5992beae0405e3c82c6c	912
+MIC_desC_fam1_NZ_CH724158.1	NZ_CH724158.1	desC	Synechococcus sp. RS9917 scf_1099465004208, whole genome shotgun sequence_f1	desC_fam1Mic	MIC	f22840c78ca0800b666b2020a66c7976	924
+MIC_desC_fam1_NZ_ADXL01000042.1	NZ_ADXL01000042.1	desC	Synechococcus sp. CB0101 contig08632, whole genome shotgun sequence_f1	desC_fam1Mic	MIC	ca90778c5f34f79040ebb2bf4aa01c8a	864
+MIC_desC_fam1_LVHS01000027.1	LVHS01000027.1	desC	Prochlorococcus marinus str. MIT 1342 PMIT1342_contig000027, whole genome shotgun sequence_f1	desC_fam1Mic	MIC	e30ec36ededaf1c7253f25e498182785	795
+MIC_desC_fam1_JNBA01000036.1	JNBA01000036.1	desC	Prochlorococcus sp. MIT 0701 contig00005, whole genome shotgun sequence_f1	desC_fam1Mic	MIC	c327d0b63ee52dc61d7e0bf14dcb6b95	795
+MIC_desC_fam1_JNBB01000046.1	JNBB01000046.1	desC	Prochlorococcus sp. MIT 0702 contig00002, whole genome shotgun sequence_f1	desC_fam1Mic	MIC	fcb091f458f7cfe69d1bf25257029025	786
+MIC_desC_fam1_NZ_LVHL01000012.1	NZ_LVHL01000012.1	desC	Prochlorococcus sp. MIT 1306 PMIT1306_contig000012, whole genome shotgun sequence_f1	desC_fam1Mic	MIC	6a7f8dc027c17bd4e7620157c3f29a33	921
+MIC_desC_fam1_JNAV01000006.1	JNAV01000006.1	desC	Prochlorococcus sp. MIT 0602 Contig1231, whole genome shotgun sequence_f1	desC_fam1Mic	MIC	3cf02c987824a48af5a48df196c95b71	930
+MIC_desC_fam1_JNAX01000011.1	JNAX01000011.1	desC	Prochlorococcus marinus str. PAC1 contig_7, whole genome shotgun sequence_f1	desC_fam1Mic	MIC	908fcc89c371714fb847798e3cdeb731	918
+MIC_desC_fam1_NZ_DS989904.1	NZ_DS989904.1	desC	Synechococcus sp. PCC 7335 scf_1103496006895, whole genome shotgun sequence_f1	desC_fam1Mic	MIC	1a6da7b370ec9110e20b17a51aa065a3	813
+MIC_desC_fam1_KJ947870.1	KJ947870.1	desC	Prochlorococcus marinus str. P0902-H212 contig_222 genomic sequence_f1	desC_fam1Mic	MIC	353ab46395560db45f95af05b3a6e7c7	918
+MIC_desC_fam1_ALPF01000024.1	ALPF01000024.1	desC	Prochlorococcus sp. W8 clone W8 W8_5, whole genome shotgun sequence_f1	desC_fam1Mic	MIC	b410231495bc531634dca5a42fd8bbe7	936
+MIC_desC_fam1_NZ_ADXM01000015.1	NZ_ADXM01000015.1	desC	Synechococcus sp. CB0205 contig06948, whole genome shotgun sequence_f1	desC_fam1Mic	MIC	0ee860df894f90e7d7cc742cfdc169d2	1038
+MIC_desC_fam2_NC_007513.1	NC_007513.1	desC	Synechococcus sp. CC9902, complete genome_f2	desC_fam2Mic	MIC	e52f0299d63f3ae52198bf8a8bb2a439	936
+MIC_desC_fam2_JFKS01000176.1	JFKS01000176.1	desC	Prochlorococcus sp. scB241_526N5 contig_119, whole genome shotgun sequence_f2	desC_fam2Mic	MIC	1b26ca6cded5b554a0fdbf04562365aa	936
+MIC_desC_fam2_DQ366732.1	DQ366732.1	desC	Uncultured Prochlorococcus marinus clone HOT0M-10E12 genomic sequence_f2	desC_fam2Mic	MIC	bf6dcb6be8705d71a30242345ed58a9b	939
+MIC_desC_fam2_NZ_JNAU01000003.1	NZ_JNAU01000003.1	desC	Prochlorococcus sp. MIT 0601 Contig3414, whole genome shotgun sequence_f2	desC_fam2Mic	MIC	95c3f25e1cd7ebccfbffd4a05bca8af4	939
+MIC_desC_fam2_NZ_DS022298.1	NZ_DS022298.1	desC	Synechococcus sp. BL107 scf_1099739244347, whole genome shotgun sequence_f2	desC_fam2Mic	MIC	6ca7824c90e614bc7053632bb2f7a321	936
+VIR_desC_fam1_gi|129965494|gb|AACY023740878.1|	gi|129965494|gb|AACY023740878.1|	desC	Desaturase - P-loop_NTPase Superfamily (RecA) - Marine metagenome ctg_1101668548229, whole genome shotgun sequence	desC_fam1	VIR	7ada0c4dacd2d957924edbefa1b0b536	750
+VIR_desC_fam1_gi|130161300|gb|AACY023530617.1|	gi|130161300|gb|AACY023530617.1|	desC	Desaturase - DNAPolB - Marine metagenome ctg_1101668337968, whole genome shotgun sequence	desC_fam1	VIR	3256f285e69930a33ff2242a578d6e9e	721
+VIR_desC_fam1_gi|133719145|gb|AACY020282782.1|	gi|133719145|gb|AACY020282782.1|	desC	DNA polymerase - Desaturase Marine metagenome 1096626355811, whole genome shotgun sequence	desC_fam1	VIR	a3b27ca2cbe8098d1b14761b4631c052	684
+VIR_desC_fam1_gi|771826184|emb|CENK01013647.1|	gi|771826184|emb|CENK01013647.1|	desC	Desaturase - gp45 sliding clamp - marine metagenome genome assembly TARA_018_DCM_0.22, contig TARA_018_DCM_<-0.22_scaffold48239_1, whole genome shotgun sequence	desC_fam1	VIR	30d27c678ccafd58c903fc5765778b03	753
+VIR_desC_fam1_gi|773430108|emb|CEOH01078484.1|	gi|773430108|emb|CEOH01078484.1|	desC	Desaturase - Cytitydyl transferase - marine metagenome genome assembly TARA_034_DCM_0.22, contig TARA_034_DCM_<-0.22_C3543849_1, whole genome shotgun sequence	desC_fam1	VIR	fd8a147326e453fe883d5626f82c17d1	753
+VIR_desC_fam1_gi|774798213|emb|CEOR01101594.1|	gi|774798213|emb|CEOR01101594.1|	desC	 Desaturase - marine metagenome genome assembly TARA_064_DCM_0.1-0.22, contig TARA_064_DCM_0.1-0.22_C8249927_1, whole genome shotgun sequence	desC_fam1	VIR	89e1ecf25b1b9a1b931de347acb9e987	669
+VIR_desC_fam1_gi|775961903|emb|CEQA01091698.1|	gi|775961903|emb|CEQA01091698.1|	desC	Desaturase - marine metagenome genome assembly TARA_041_DCM_0.22, contig TARA_041_DCM_<-0.22_C8145901_1, whole genome shotgun sequence	desC_fam1	VIR	3b04d6123638ffeb4c7da7158075e590	651
+VIR_desC_fam1_gi|777660913|emb|CEOU01016036.1|	gi|777660913|emb|CEOU01016036.1|	desC	Desaturase - marine metagenome genome assembly TARA_065_DCM_0.1-0.22, contig TARA_065_DCM_0.1-0.22_scaffold42313_1, whole genome shotgun sequence	desC_fam1	VIR	090e82e62f43f520793ef5e22a49548b	615
+VIR_desC_fam1_gi|793584552|emb|CESB01118136.1|	gi|793584552|emb|CESB01118136.1|	desC	Desaturase - marine metagenome genome assembly TARA_078_SRF_0.22-0.45, contig TARA_078_SRF_0.22-0.45_scaffold271613_1, whole genome shotgun sequence	desC_fam1	VIR	6e4c4e8b71d9b3252ebc65612507a8cd	678
+VIR_desC_fam1_gi|832625532|emb|CERX01056172.1|	gi|832625532|emb|CERX01056172.1|	desC	Desaturase - marine metagenome genome assembly TARA_068_DCM_0.22-0.45, contig TARA_068_DCM_0.22-0.45_scaffold136886_1, whole genome shotgun sequence	desC_fam1	VIR	e9d946b11c0092c60b6bb95a77e3639e	780
+VIR_desC_fam1_gi|843841016|emb|CEPK01102941.1|	gi|843841016|emb|CEPK01102941.1|	desC	Desaturase - marine metagenome genome assembly TARA_042_DCM_0.22-1.6, contig TARA_042_DCM_0.22-1.6_scaffold225150_1, whole genome shotgun sequence	desC_fam1	VIR	d19f29b9c450b14980a26692e746fe47	753
+VIR_desC_fam1_gi|847007529|emb|CERB01091203.1|	gi|847007529|emb|CERB01091203.1|	desC	Desaturase - marine metagenome genome assembly TARA_072_DCM_0.22-3, contig TARA_072_DCM_0.22-3_scaffold215499_1, whole genome shotgun sequence	desC_fam1	VIR	00e46b54039613e4826a9f0174c16532	753
+VIR_desC_fam1_gi|847027814|emb|CERB01080044.1|	gi|847027814|emb|CERB01080044.1|	desC	Desaturase - DNA Adenine Methyltransferase - marine metagenome genome assembly TARA_072_DCM_0.22-3, contig TARA_072_DCM_0.22-3_scaffold191860_1, whole genome shotgun sequence	desC_fam1	VIR	5035ee9a0258da5126912bde26831844	795
+VIR_desC_fam1_gi|850429797|emb|CEUB01001727.1|	gi|850429797|emb|CEUB01001727.1|	desC	Clamp loader subunit 44 - 20G-FeII oxygenase - Desaturase - Methyltransferase - putative clamp loader subunit - marine metagenome genome assembly TARA_138_DCM_0.22-3, contig TARA_138_DCM_0.22-3_scaffold3919_1, whole genome shotgun sequence	desC_fam1	VIR	e4cdade3a110a3b78810b6c8bd549bd3	783
+VIR_desC_fam1_gi|851618138|emb|CEVP01094353.1|	gi|851618138|emb|CEVP01094353.1|	desC	Desaturase - marine metagenome genome assembly TARA_150_SRF_0.22-3, contig TARA_150_SRF_0.22-3_scaffold212426_1, whole genome shotgun sequence	desC_fam1	VIR	bedb6580b0f99216d7421b9d20bc4a56	804
+VIR_desC_fam1_gi|852845234|emb|CETD01311761.1|	gi|852845234|emb|CETD01311761.1|	desC	Desaturase - marine metagenome genome assembly TARA_110_DCM_0.22-3, contig TARA_110_DCM_0.22-3_C20881479_1, whole genome shotgun sequence	desC_fam1	VIR	97cd23fc554c5c2b18da27a9269811eb	663
+VIR_desC_fam1_gi|853229942|emb|CEQN01144662.1|	gi|853229942|emb|CEQN01144662.1|	desC	Desaturase - Nucleosidase - DNAPolB- marine metagenome genome assembly TARA_078_DCM_0.22-0.45, contig TARA_078_DCM_0.22-0.45_scaffold341450_1, whole genome shotgun sequence	desC_fam1	VIR	495116259cb15227baf845d6949adfd9	780
+VIR_desC_fam1_gi|859123143|emb|CEWG01119366.1|	gi|859123143|emb|CEWG01119366.1|	desC	Desaturase - marine metagenome genome assembly TARA_102_SRF_0.22-3, contig TARA_102_SRF_0.22-3_scaffold279864_1, whole genome shotgun sequence	desC_fam1	VIR	e4e9d3b2a09bca1ed8f713f8cb89372f	753
+VIR_desC_fam1_gi|860991001|emb|CENF01039241.1|	gi|860991001|emb|CENF01039241.1|	desC	Desaturase - marine metagenome genome assembly TARA_004_DCM_0.22-1.6, contig TARA_004_DCM_0.22-1.6_scaffold102028_1, whole genome shotgun sequence	desC_fam1	VIR	4346388ad15e655db8a665a2f573d3d2	711
+VIR_desC_fam1_gi|862528212|emb|CEVZ01137634.1|	gi|862528212|emb|CEVZ01137634.1|	desC	Desaturase - marine metagenome genome assembly TARA_041_DCM_0.22-1.6, contig TARA_041_DCM_0.22-1.6_scaffold302872_1, whole genome shotgun sequence	desC_fam1	VIR	1d77c82d98dea42ac5ad8be71d9aad32	753
+VIR_desC_fam1_gi|862594912|emb|CEVZ01074418.1|	gi|862594912|emb|CEVZ01074418.1|	desC	Desaturase - 1,6-Bisphosphate Aldolase - marine metagenome genome assembly TARA_041_DCM_0.22-1.6, contig TARA_041_DCM_0.22-1.6_scaffold170513_1, whole genome shotgun sequence	desC_fam1	VIR	a55675f89cadbba6b64e760095bf66e5	753
+VIR_desC_fam1_gi|863036730|emb|CESQ01065176.1|	gi|863036730|emb|CESQ01065176.1|	desC	Desaturase - marine metagenome genome assembly TARA_100_DCM_0.22-3, contig TARA_100_DCM_0.22-3_scaffold159383_1, whole genome shotgun sequence	desC_fam1	VIR	bfc872c5f8f49fb249c490f1a32f523a	753
+VIR_desC_fam1_gi|864596364|emb|CENP01386115.1|	gi|864596364|emb|CENP01386115.1|	desC	Desaturase - marine metagenome genome assembly TARA_030_DCM_0.22-1.6, contig TARA_030_DCM_0.22-1.6_C14023603_1, whole genome shotgun sequence	desC_fam1	VIR	9e936e3a4491dd9207e2871672a85a81	687
+VIR_desC_fam1_gi|866665581|emb|CEUA01152718.1|	gi|866665581|emb|CEUA01152718.1|	desC	hyp prot phage - 20G-FeII oxygenase - Desaturase - marine metagenome genome assembly TARA_132_DCM_0.22-3, contig TARA_132_DCM_0.22-3_scaffold326750_1, whole genome shotgun sequence	desC_fam1	VIR	105f432520c02429d3b010905bc0049f	783
+VIR_desC_fam1_gi|866749685|emb|CEUA01068614.1|	gi|866749685|emb|CEUA01068614.1|	desC	Desaturase - marine metagenome genome assembly TARA_132_DCM_0.22-3, contig TARA_132_DCM_0.22-3_scaffold161083_1, whole genome shotgun sequence	desC_fam1	VIR	ccbfd7a343b62af4d297b702b797a9a7	804
+VIR_desC_fam1_gi|868276405|emb|CETI01024971.1|	gi|868276405|emb|CETI01024971.1|	desC	Hyp prot phage - Desaturase - marine metagenome genome assembly TARA_111_DCM_0.22-3, contig TARA_111_DCM_0.22-3_scaffold65303_1, whole genome shotgun sequence	desC_fam1	VIR	b9c8c288d1b4b57b95782d8a86cd48c5	792
+VIR_desC_fam1_gi|870690171|emb|CESM01053554.1|	gi|870690171|emb|CESM01053554.1|	desC	DNA Pol - Desaturase - marine metagenome genome assembly TARA_102_DCM_0.22-3, contig TARA_102_DCM_0.22-3_scaffold115630_1, whole genome shotgun sequence	desC_fam1	VIR	6d7b7625fe61342de92f21ac71e54c99	753
+VIR_desC_fam1_lcl|SAMEA2619677_37144	lcl|SAMEA2619677_37144	desC	Nucleosidase - Desaturase - /station=TARA_018 /depth=5 /filter=0-0.22	desC_fam1	VIR	a3951a1ca1b46670a24770c5fb0b0e6b	780
+VIR_desC_fam1_lcl|SAMEA2619677_50290	lcl|SAMEA2619677_50290	desC	Desaturase - gp45-  /station=TARA_018 /depth=5 /filter=0-0.22	desC_fam1	VIR	684d84ad77999bcae3a849616af00142	753
+VIR_desC_fam1_lcl|SAMEA2619686_68189	lcl|SAMEA2619686_68189	desC	Desaturase - /station=TARA_018 /depth=60 /filter=0-0.22	desC_fam1	VIR	c66613295fbee76ff90dc87029c937d4	711
+VIR_desC_fam1_lcl|SAMEA2619791_161331	lcl|SAMEA2619791_161331	desC	Desaturase - Nucleosidase /station=TARA_025 /depth=50 /filter=0-0.22	desC_fam1	VIR	c71294571d0328c7d2225ec0ebe23dc2	780
+VIR_desC_fam1_lcl|SAMEA2619923_16649	lcl|SAMEA2619923_16649	desC	Helicase - Desaturase - Nucleoside riphosphate - PurH (de novo purine byosinthesis) - /station=TARA_034 /depth=60 /filter=0-0.22	desC_fam1	VIR	6c9d1c02e42db18095aa6ea39bb5efe0	753
+VIR_desC_fam1_lcl|SAMEA2619923_16858	lcl|SAMEA2619923_16858	desC	gp44 - 20G-FeII Oxygenase - Desaturase - DNA adenine methyltransferase - /station=TARA_034 /depth=60 /filter=0-0.22	desC_fam1	VIR	916201981b9afb9838370a3b8de5e8b5	783
+VIR_desC_fam1_lcl|SAMEA2619923_17781	lcl|SAMEA2619923_17781	desC	DNA PolB - Desaturase - Cytytydil transferase - /station=TARA_034 /depth=60 /filter=0-0.22	desC_fam1	VIR	9b0243ae46ec74b5e26b403ef37477ba	753
+VIR_desC_fam1_lcl|SAMEA2619923_24981	lcl|SAMEA2619923_24981	desC	NTP=PPase - DUF3252 - DesA - Helicase - /station=TARA_034 /depth=60 /filter=0-0.22	desC_fam1	VIR	4e9041be5e95ca56656b968b4b5f77bb	747
+VIR_desC_fam1_lcl|SAMEA2619923_26874	lcl|SAMEA2619923_26874	desC	Helicase - Desaturase - NTP-PPase - /station=TARA_034 /depth=60 /filter=0-0.22	desC_fam1	VIR	f6385d1b8bdf93aa32d6f6902312d356	753
+VIR_desC_fam1_lcl|SAMEA2619923_28929	lcl|SAMEA2619923_28929	desC	DNA pol - Desaturase - RecA - /station=TARA_034 /depth=60 /filter=0-0.22	desC_fam1	VIR	8e5a43e9bf7241d3359f86f9acaab134	756
+VIR_desC_fam1_lcl|SAMEA2619923_34576	lcl|SAMEA2619923_34576	desC	gp44 - Desaturase - DNA Adenine methyltransferase - /station=TARA_034 /depth=60 /filter=0-0.22	desC_fam1	VIR	ca89607c70c365f80d1bf04edf079bb2	783
+VIR_desC_fam1_lcl|SAMEA2619923_34898	lcl|SAMEA2619923_34898	desC	DNA pol - Desaturase - /station=TARA_034 /depth=60 /filter=0-0.22	desC_fam1	VIR	6d2549678e666d19191401112096ba7a	753
+VIR_desC_fam1_lcl|SAMEA2619923_60713	lcl|SAMEA2619923_60713	desC	Helicase - Desaturase - /station=TARA_034 /depth=60 /filter=0-0.22	desC_fam1	VIR	c0bae0d5c1114e560b07b6917b508673	753
+VIR_desC_fam1_lcl|SAMEA2620227_118875	lcl|SAMEA2620227_118875	desC	Helicase - Desaturase - /station=TARA_041 /depth=60 /filter=0-0.22	desC_fam1	VIR	61ea0803d4a612fb4d2ae5a8ed2f1dff	753
+VIR_desC_fam1_lcl|SAMEA2620227_200675	lcl|SAMEA2620227_200675	desC	DNA Pol - Nucleosidase - Desaturase - RecA - /station=TARA_041 /depth=60 /filter=0-0.22	desC_fam1	VIR	a70c23dccc397c85aff1f161c844be92	753
+VIR_desC_fam1_lcl|SAMEA2620227_531277	lcl|SAMEA2620227_531277	desC	Desaturase - /station=TARA_041 /depth=60 /filter=0-0.22	desC_fam1	VIR	6e7ec73a6260250abbc62c881546c794	756
+VIR_desC_fam1_lcl|SAMEA2620273_34509	lcl|SAMEA2620273_34509	desC	DNA PolB - nucleosidase - Desaturase - RecA - /station=TARA_042 /depth=80 /filter=0-0.22	desC_fam1	VIR	f7ce902d9b2bb94f93428b7d66fadf8c	753
+VIR_desC_fam1_lcl|SAMEA2620273_76246	lcl|SAMEA2620273_76246	desC	Desaturase - RecA - /station=TARA_042 /depth=80 /filter=0-0.22	desC_fam1	VIR	6e944e14a253825d40361078aac95b28	753
+VIR_desC_fam1_lcl|SAMEA2620588_126836	lcl|SAMEA2620588_126836	desC	Desaturase - /station=TARA_052 /depth=75 /filter=0-0.22	desC_fam1	VIR	8c447672a1f1368251d4336c6394617a	753
+VIR_desC_fam1_lcl|SAMEA2620588_18441	lcl|SAMEA2620588_18441	desC	Helicase - F1,6-BP Aldolase - Desaturase - Nucleoside disphosphate - /station=TARA_052 /depth=75 /filter=0-0.22	desC_fam1	VIR	87ad33f0745ca04d65f94a09df8f7d38	753
+VIR_desC_fam1_lcl|SAMEA2620588_56461	lcl|SAMEA2620588_56461	desC	Desaturase - RecA - /station=TARA_052 /depth=75 /filter=0-0.22	desC_fam1	VIR	7e51caacc95812a2aa5ec82fcaf601c6	753
+VIR_desC_fam1_lcl|SAMEA2620812_102185	lcl|SAMEA2620812_102185	desC	Desaturase - /station=TARA_064 /depth=5 /filter=0-0.22	desC_fam1	VIR	a38bd0001d503d890861529dc0093a68	780
+VIR_desC_fam1_lcl|SAMEA2620812_35879	lcl|SAMEA2620812_35879	desC	Nucleosidase - Desaturase - /station=TARA_064 /depth=5 /filter=0-0.22	desC_fam1	VIR	b4ba41fcd103b5f3a7d32da1c406dd4a	780
+VIR_desC_fam1_lcl|SAMEA2620836_65839	lcl|SAMEA2620836_65839	desC	Nucleosidase - Desaturase - /station=TARA_064 /depth=65 /filter=0.1-0.22	desC_fam1	VIR	ce88370316cdccaa04fad12fd4ace944	780
+VIR_desC_fam1_lcl|SAMEA2620852_91257	lcl|SAMEA2620852_91257	desC	Nucleosidase - Desaturase - /station=TARA_064 /depth=65 /filter=0-0.22	desC_fam1	VIR	2adef939b15dee051c2c06f116c57434	780
+VIR_desC_fam1_lcl|SAMEA2620861_481160	lcl|SAMEA2620861_481160	desC	Desaturase - /station=TARA_065 /depth=5 /filter=0.1-0.22	desC_fam1	VIR	412896598f1e48b70b9313f2c6872423	753
+VIR_desC_fam1_lcl|SAMEA2620861_759267	lcl|SAMEA2620861_759267	desC	Desaturase - /station=TARA_065 /depth=5 /filter=0.1-0.22	desC_fam1	VIR	20b521f5b40bda1ee1774751d83146be	780
+VIR_desC_fam1_lcl|SAMEA2620879_55907	lcl|SAMEA2620879_55907	desC	DNA Pol - Phosphorilase - Desaturase - /station=TARA_065 /depth=5 /filter=0-0.22	desC_fam1	VIR	7f3365b921c53235f2662308625cb2e1	780
+VIR_desC_fam1_lcl|SAMEA2620894_109946	lcl|SAMEA2620894_109946	desC	Nucleosidase - Desaturase - /station=TARA_065 /depth=30 /filter=0.1-0.22	desC_fam1	VIR	827c53053200fd4485a41c065a51d6af	780
+VIR_desC_fam1_lcl|SAMEA2620894_129883	lcl|SAMEA2620894_129883	desC	Methyltrasnferase - Desaturase - /station=TARA_065 /depth=30 /filter=0.1-0.22	desC_fam1	VIR	a85e8c3583d00ae086d2c4ae265c2433	783
+VIR_desC_fam1_lcl|SAMEA2620894_142909	lcl|SAMEA2620894_142909	desC	Desaturase - /station=TARA_065 /depth=30 /filter=0.1-0.22	desC_fam1	VIR	90d1b4bd8e9f0449c76ce0f96882fb3b	753
+VIR_desC_fam1_lcl|SAMEA2620925_40910	lcl|SAMEA2620925_40910	desC	DNA pol - Nucleosidase - Desaturase - /station=TARA_065 /depth=30 /filter=0-0.22	desC_fam1	VIR	a3a6758fc5f1e5e99982af35faf86dcb	780
+VIR_desC_fam1_lcl|SAMEA2620947_12856	lcl|SAMEA2620947_12856	desC	Helicase - Desaturase - Nucleosidase triphosphate - hyp protein /station=TARA_066 /depth=5 /filter=0-0.22	desC_fam1	VIR	44c0d5dbd1f760d2df447bcd2384eca0	753
+VIR_desC_fam1_lcl|SAMEA2620947_3660	lcl|SAMEA2620947_3660	desC	Phosphoribosylfromylglycinamide - clamp loader small subunit - RegA- heat shock protein - DNA pol - Desaturase - RecA - /station=TARA_066 /depth=5 /filter=0-0.22	desC_fam1	VIR	6b584bee367289a7126c4a686f4c15a1	753
+VIR_desC_fam1_lcl|SAMEA2620967_117031	lcl|SAMEA2620967_117031	desC	Desaturase - /station=TARA_066 /depth=30 /filter=0-0.22	desC_fam1	VIR	85f98ff99e3636a6ef33fed020e602fb	753
+VIR_desC_fam1_lcl|SAMEA2620967_171198	lcl|SAMEA2620967_171198	desC	Desaturase - /station=TARA_066 /depth=30 /filter=0-0.22	desC_fam1	VIR	c1428a73796d4f206aa41417208894fe	780
+VIR_desC_fam1_lcl|SAMEA2621033_16500	lcl|SAMEA2621033_16500	desC	Helicase - RecA- Desaturase - /station=TARA_068 /depth=5 /filter=0-0.22	desC_fam1	VIR	7545380b8f6b9f64bbaa001bb6e801a9	780
+VIR_desC_fam1_lcl|SAMEA2621033_40764	lcl|SAMEA2621033_40764	desC	Desaturase - /station=TARA_068 /depth=5 /filter=0-0.22	desC_fam1	VIR	b084f3e8719496df5741ff792a562414	780
+VIR_desC_fam1_lcl|SAMEA2621033_57026	lcl|SAMEA2621033_57026	desC	Helicase - Desaturase - /station=TARA_068 /depth=5 /filter=0-0.22	desC_fam1	VIR	20675420a193f8f3464d3ccd13289f8c	753
+VIR_desC_fam1_lcl|SAMEA2621033_83857	lcl|SAMEA2621033_83857	desC	Desaturase  - /station=TARA_068 /depth=5 /filter=0-0.22	desC_fam1	VIR	8ecd6cd354b510099d07b8d91db3e754	753
+VIR_desC_fam1_lcl|SAMEA2621061_28678	lcl|SAMEA2621061_28678	desC	RecA - DesA - Nucleosidase - DNA PolB - /station=TARA_068 /depth=50 /filter=0-0.22	desC_fam1	VIR	f8395d51e86f148a14457e017be9d080	738
+VIR_desC_fam1_lcl|SAMEA2621061_4296	lcl|SAMEA2621061_4296	desC	Desaturase - Hyp prot x3 - gp25 lyzozyme - Baseplate J-like protein - /station=TARA_068 /depth=50 /filter=0-0.22	desC_fam1	VIR	e9839eb3fca59ebad14aad8deff62932	804
+VIR_desC_fam1_lcl|SAMEA2621085_48945	lcl|SAMEA2621085_48945	desC	Desaturase - RecA - /station=TARA_070 /depth=5 /filter=0-0.22	desC_fam1	VIR	345e800ed4faf9eada50eaa03f6be714	753
+VIR_desC_fam1_lcl|SAMEA2621085_68532	lcl|SAMEA2621085_68532	desC	Desaturase - /station=TARA_070 /depth=5 /filter=0-0.22	desC_fam1	VIR	38a6d73afb6526569fc38771185e3b96	753
+VIR_desC_fam1_lcl|SAMEA2621173_12380	lcl|SAMEA2621173_12380	desC	Cobaltochelatase - DesA - Ferredoxin dependent bilin reductase - DUF3310 - gp45 - gp44 - /station=TARA_072 /depth=100 /filter=0-0.22	desC_fam1	VIR	8482739bddac6b9a6a91e757bfa0ab2e	789
+VIR_desC_fam1_lcl|SAMEA2621173_154906	lcl|SAMEA2621173_154906	desC	Desaturase - /station=TARA_072 /depth=100 /filter=0-0.22	desC_fam1	VIR	8f173a05b7a47f3638a5491bbbddaeca	660
+VIR_desC_fam1_lcl|SAMEA2621173_35410	lcl|SAMEA2621173_35410	desC	Desaturase - hyp prot x3 - putative T4-like proximal tail fiber - /station=TARA_072 /depth=100 /filter=0-0.22	desC_fam1	VIR	2bdb672ea96647b67184a038a879ab86	759
+VIR_desC_fam1_lcl|SAMEA2621173_37541	lcl|SAMEA2621173_37541	desC	Desaturase - RfaE - DNA Pol - /station=TARA_072 /depth=100 /filter=0-0.22	desC_fam1	VIR	4388c10a02d7492b31b868a5b0892032	753
+VIR_desC_fam1_lcl|SAMEA2621173_43559	lcl|SAMEA2621173_43559	desC	Methyltransferase - DesA-20G FeII oxygenase - /station=TARA_072 /depth=100 /filter=0-0.22	desC_fam1	VIR	85bf4e3cf082b98dfb93a552263f97df	783
+VIR_desC_fam1_lcl|SAMEA2621173_62486	lcl|SAMEA2621173_62486	desC	DNA Pol - DesA - /station=TARA_072 /depth=100 /filter=0-0.22	desC_fam1	VIR	fc5b6eab4e3e499a4c85d736d174116c	753
+VIR_desC_fam1_lcl|SAMEA2621173_66505	lcl|SAMEA2621173_66505	desC	Desaturase - hyp prot - /station=TARA_072 /depth=100 /filter=0-0.22	desC_fam1	VIR	8b509a3d1e28677ecfe75358d5f56582	771
+VIR_desC_fam1_lcl|SAMEA2621173_66980	lcl|SAMEA2621173_66980	desC	Desaturase - Ferredoxin Dependent Bilin Reductase - /station=TARA_072 /depth=100 /filter=0-0.22	desC_fam1	VIR	01c36afabeab0972d1e16b964ef7003e	753
+VIR_desC_fam1_lcl|SAMEA2621173_71019	lcl|SAMEA2621173_71019	desC	Helicase - F1,6-BP Aldolase - Desaturase - /station=TARA_072 /depth=100 /filter=0-0.22	desC_fam1	VIR	13fc283d94c44589cd228e2de6d7f245	753
+VIR_desC_fam1_lcl|SAMEA2621173_79086	lcl|SAMEA2621173_79086	desC	Desaturase - DNA Adenine methyltransferase - /station=TARA_072 /depth=100 /filter=0-0.22	desC_fam1	VIR	7679e787d62474173ca04288b22574f4	789
+VIR_desC_fam1_lcl|SAMEA2621271_44969	lcl|SAMEA2621271_44969	desC	Desaturase - Nucleosidase - /station=TARA_078 /depth=5 /filter=0-0.22	desC_fam1	VIR	d1f4dea3e83a9746f34241e5b987df16	764
+VIR_desC_fam1_lcl|SAMEA2622331_105763	lcl|SAMEA2622331_105763	desC	Desaturase - DNA Pol - /station=TARA_109 /depth=5 /filter=0-0.22	desC_fam1	VIR	6efcb1de8ec6054a6d5ae236d7cab82c	715
+VIR_desC_fam1_lcl|SAMEA2622357_31897	lcl|SAMEA2622357_31897	desC	Desaturase - /station=TARA_109 /depth=30 /filter=0-0.22	desC_fam1	VIR	2b1106b4cfc4b30fb5ec97212858fc73	777
+VIR_desC_fam1_lcl|SAMEA2622656_421543	lcl|SAMEA2622656_421543	desC	Desaturase - Nucleosidase - /station=TARA_122 /depth=5 /filter=0.1-0.22	desC_fam1	VIR	35d2180119c48a4c72f3e9df371ca206	780
+VIR_desC_fam1_lcl|SAMEA2622676_5521	lcl|SAMEA2622676_5521	desC	RegA - heat shock - DNAPolB - Kinase - Desaturase - /station=TARA_122 /depth=600 /filter=0.1-0.22	desC_fam1	VIR	26cec76814df984617a9b8aff0621885	753
+VIR_desC_fam1_lcl|SAMEA2622694_114720	lcl|SAMEA2622694_114720	desC	Desaturase - /station=TARA_122 /depth=115 /filter=0.1-0.22	desC_fam1	VIR	fff4126299d3c2a08dc9ee811a45669d	753
+VIR_desC_fam1_lcl|SAMEA2622694_31731	lcl|SAMEA2622694_31731	desC	Desaturase - /station=TARA_122 /depth=115 /filter=0.1-0.22	desC_fam1	VIR	c11f45ff65fb52cdab6d5980ffe2a6cd	759
+VIR_desC_fam1_lcl|SAMEA2622694_32492	lcl|SAMEA2622694_32492	desC	gp45 - Desaturase - Nucleosidase/gp44 - /station=TARA_122 /depth=115 /filter=0.1-0.22	desC_fam1	VIR	d19ac46880450b3bda58cb4093230d64	753
+VIR_desC_fam1_lcl|SAMEA2622736_153978	lcl|SAMEA2622736_153978	desC	20G-FeII oxygenase - Desaturase - DNA Adenine Methyltransferase - /station=TARA_123 /depth=150 /filter=0.1-0.22	desC_fam1	VIR	825bb200262f298cc7a1177fe61007ff	783
+VIR_desC_fam1_lcl|SAMEA2622736_162094	lcl|SAMEA2622736_162094	desC	Desaturase - DNA Adenine Methylase - /station=TARA_123 /depth=150 /filter=0.1-0.22	desC_fam1	VIR	deacd270277b286e7bc761988460ba53	783
+VIR_desC_fam1_lcl|SAMEA2622736_715377	lcl|SAMEA2622736_715377	desC	Desaturase - /station=TARA_123 /depth=150 /filter=0.1-0.22	desC_fam1	VIR	f680bd40e3e35d156727966fb7c17a3e	685
+VIR_desC_fam1_lcl|SAMEA2622736_776055	lcl|SAMEA2622736_776055	desC	Desaturase - /station=TARA_123 /depth=150 /filter=0.1-0.22	desC_fam1	VIR	19b48e17658d05ec7b66d6a871c65554	657
+VIR_desC_fam1_lcl|SAMEA2622736_86924	lcl|SAMEA2622736_86924	desC	Desaturase - /station=TARA_123 /depth=150 /filter=0.1-0.22	desC_fam1	VIR	0378ecba9ee3cd7708f4b45f595ac2c5	600
+VIR_desC_fam1_lcl|SAMEA2622799_237665	lcl|SAMEA2622799_237665	desC	Desaturase - /station=TARA_124 /depth=120 /filter=0.1-0.22	desC_fam1	VIR	8f0f768706fbb16f5c0b3ce8c18cd332	636
+VIR_desC_fam1_lcl|SAMEA2622841_23104	lcl|SAMEA2622841_23104	desC	Helicase - DesA - NTP-PP - PurM - /station=TARA_125 /depth=140 /filter=0.1-0.22	desC_fam1	VIR	a4b63da179630d6e7d801adbe6163879	801
+VIR_desC_fam1_lcl|TARA_025_DCM_<-0.22_scaffold78969_1	lcl|TARA_025_DCM_<-0.22_scaffold78969_1	desC	Desaturase	desC_fam1	VIR	51f05e2cd316ec45115d525e3c4879ae	780
+VIR_desC_fam1_lcl|TARA_072_DCM_<-0.22_scaffold83537_1	lcl|TARA_072_DCM_<-0.22_scaffold83537_1	desC	Fructose 1,6-BP Aldolase - Desaturase 	desC_fam1	VIR	d10ff99be2ac0dc7b8ec6cfa6118f3aa	753
+VIR_desC_fam1_Tara_125/123_-_contig_1266Tara125/123_overlap	Tara_125/123_-_contig_1266Tara125/123_overlap	desC		desC_fam1	VIR	8f208f98993efeaaf32ee375552da30f	753
+VIR_desC_fam2_gi|838142419|emb|CEPW01271767.1|	gi|838142419|emb|CEPW01271767.1|	desC	Desaturase - marine metagenome genome assembly TARA_038_DCM_0.22-1.6, contig TARA_038_DCM_0.22-1.6_C23535859_1, whole genome shotgun sequence	desC_fam2	VIR	a927101f95396a9cc812ce7fdbe45045	772
+VIR_desC_fam2_lcl|SAMEA2620027_14981	lcl|SAMEA2620027_14981	desC	Hyp prot - TalC - Desaturase - /station=TARA_038 /depth=25 /filter=0-0.22	desC_fam2	VIR	cabf0c93c44c5664a98c2baf747764ab	801
+VIR_desC_fam2_lcl|SAMEA2621033_48978	lcl|SAMEA2621033_48978	desC	 Desaturase - DUF3310 - TalC - /station=TARA_068 /depth=5 /filter=0-0.22	desC_fam2	VIR	042113a643d7292148376e757286fa2f	816
+VIR_desC_fam2_lcl|SAMEA2621085_126189	lcl|SAMEA2621085_126189	desC	Desaturase - /station=TARA_070 /depth=5 /filter=0-0.22	desC_fam2	VIR	fa2eb96667c29fe16b43b47ec1d8f049	771
+VIR_desC_fam2_lcl|SAMEA2622656_241167	lcl|SAMEA2622656_241167	desC	Desaturase - /station=TARA_122 /depth=5 /filter=0.1-0.22	desC_fam2	VIR	552e5c40e28623f2feadcdf508ce4ec4	600
+VIR_desC_fam2_lcl|SAMEA2622763_654026	lcl|SAMEA2622763_654026	desC	Desaturase - /station=TARA_124 /depth=5 /filter=0.1-0.22	desC_fam2	VIR	796d65a8fc68e713fd6c6c5413694ed7	534
+VIR_desC_fam2_lcl|SAMEA2622763_767955	lcl|SAMEA2622763_767955	desC	Desaturase partial /station=TARA_124 /depth=5 /filter=0.1-0.22	desC_fam2	VIR	c349fc6c0d6baac737916bd17d30fa19	519
+VIR_desC_fam2_lcl|SAMEA2622763_806051	lcl|SAMEA2622763_806051	desC	Desaturase - /station=TARA_124 /depth=5 /filter=0.1-0.22	desC_fam2	VIR	96521dbd0316533ff37e11fd24bf45f0	435
+VIR_desC_fam2_lcl|SAMEA2622821_166219	lcl|SAMEA2622821_166219	desC	Desaturase - /station=TARA_125 /depth=5 /filter=0.1-0.22	desC_fam2	VIR	72fd1e4b5eab6ba584970f6e44092783	519
+VIR_desC_fam2_gi|780568556|emb|CEWB01124313.1|	gi|780568556|emb|CEWB01124313.1|	desC	Desaturase - DUF3310 - marine metagenome genome assembly TARA_068_SRF_0.22-3, contig TARA_068_SRF_0.22-3_C14766166_1, whole genome shotgun sequence	desC_fam2	VIR	701288354ae08608bbc8d9c69379f95f	456
+VIR_desC_fam2_lcl|SAMEA2621033_30197	lcl|SAMEA2621033_30197	desC	Desaturase - DUF3310 -Aldolase - /station=TARA_068 /depth=5 /filter=0-0.22	desC_fam2	VIR	b63486f7b1cf9518aecd1b6f9cf0c3d8	810
+VIR_desC_fam2_lcl|TARA_070_SRF_0.22-0.45_C23915643_1	lcl|TARA_070_SRF_0.22-0.45_C23915643_1	desC	Desaturase - DUF3310 - Transaldolase	desC_fam2	VIR	04425fdd62cf4c945385e609be59fe4d	810
+VIR_desC_fam2_SAMEA2621085_722	lcl|TARA_070_SRF_<-0.22_C4612118_1	desC	Desaturase - DUF680- transaldolase	desC_fam2	VIR	4b0d13636b33f4c14d1b08e8310506f8	810
+synechococcus_AANO01000001.1	AANO01000001.1	psaA	synechococcus sp. wh5701	psaA_syn	MIC	418e78a0a558c7d2d801f1f278905418	2301
+synechococcus_AANP01000005.1	AANP01000005.1	psaA	synechococcus sp. rs9917	psaA_syn	MIC	d940abee294e4412d26efef5fffd8fc4	2301
+synechococcus_AAOK01000002.1	AAOK01000002.1	psaA	synechococcus sp. wh7805	psaA_syn	MIC	de92a45752ddf1154177c8892688d5fd	2301
+synechococcus_AATZ01000002.1	AATZ01000002.1	psaA	synechococcus sp. bl107	psaA_syn	MIC	79862a855904156e1dcabd88194ebd28	2301
+synechococcus_AAUA01000004.1	AAUA01000004.1	psaA	synechococcus sp. rs9916	psaA_syn	MIC	3822ef744dbe187cadc42ac60743b896	2301
+lyngbya_AAVU01000008.1	AAVU01000008.1	psaA	lyngbya sp. pcc8106	psaA_nmc	NMC	ed47cb56306ddc8649b3e40e108db36c	2259
+prochlorococcus_ACDW01000004.1	ACDW01000004.1	psaA	prochlorococcus marinus str.mit9202	psaA_pro	MIC	46b2de0965fdcc0408b58f3d66b408ea	2280
+synechococcus_ADXL01000085.1	ADXL01000085.1	psaA	synechococcus sp. cb0101	psaA_syn	MIC	7ecaacb50a9c8af800c547866e8e1606	2301
+synechococcus_ADXM01000025.1	ADXM01000025.1	psaA	synechococcus sp. cb0205	psaA_syn	MIC	5d60e912fa8039e488796a2f37996565	1653
+prochlorococcus_AE017126.1	AE017126.1	psaA	prochlorococcus marinus subsp.	psaA_pro	MIC	c03f3a2e798f16839a08774cad3ae379	2319
+guillardia_AF041468.1	AF041468.1	psaA	guillardia theta complete	psaA_nmc	NMC	f19e5f0662511998439cf30cb2d334a1	2256
+nephroselmis_AF137379.1	AF137379.1	psaA	nephroselmis olivacea chloroplast	psaA_nmc	NMC	e0d962d610930dd4c99d3dbc711268a6	2253
+anabaena_AJWF01000011.1	AJWF01000011.1	psaA	anabaena sp. pcc7108	psaA_nmc	NMC	d1b97b51ad96c5a4e4ed502586beab7a	2256
+kamptonema_ALVI01000054.1	ALVI01000054.1	psaA	kamptonema formosum pcc6407	psaA_nmc	NMC	ba13994c33f27f2ea0d8df7cbbc69c60	2292
+calothrix_ALVJ01000037.1	ALVJ01000037.1	psaA	calothrix sp. pcc7103	psaA_nmc	NMC	cfbbeb4ba8d1ebb7993f2f043cd540c8	2256
+pseudanabaena_ALVK01000018.1	ALVK01000018.1	psaA	pseudanabaena sp. pcc6802	psaA_nmc	NMC	0c5cfc6946bd1b3fb24e242ad03645fd	2256
+pleurocapsa_ALVL01000024.1	ALVL01000024.1	psaA	pleurocapsa sp. pcc7319	psaA_nmc	NMC	6e4fa5b666e5ca3b694e2ea7034eab1f	2262
+leptolyngbya_ALVM01000010.1	ALVM01000010.1	psaA	leptolyngbya boryana pcc6306	psaA_nmc	NMC	daa3ad3999a5cb2d2e6c08bace2e2446	2253
+geminocystis_ALVO01000007.1	ALVO01000007.1	psaA	geminocystis herdmanii pcc6308	psaA_nmc	NMC	f1c7c900f3ec5331c8c068deacaed437	2250
+nodosilinea_ALVP01000018.1	ALVP01000018.1	psaA	nodosilinea nodulosa pcc7104	psaA_nmc	NMC	54635e154ed8d4c17cdd5732069faf1a	2292
+fischerella_ALVS01000067.1	ALVS01000067.1	psaA	fischerella sp. pcc9339	psaA_nmc	NMC	8a44e2fb2d44ee87b6d1096f57b37dae	2256
+synechocystis_ALVU02000001.1	ALVU02000001.1	psaA	synechocystis sp. pcc7509	psaA_nmc	NMC	6d59cb59321d63eaa55f1ea17c3e3277	2256
+leptolyngbya_ALVV02000065.1	ALVV02000065.1	psaA	leptolyngbya sp. pcc6406	psaA_nmc	NMC	71ed3f43a75f8c8fb3eca1234f0ca23d	2253
+gloeocapsa_ALVY01000149.1	ALVY01000149.1	psaA	gloeocapsa sp. pcc73106	psaA_nmc	NMC	69723847a73f115709f73f68f3518334	2253
+xenococcus_ALVZ01000190.1	ALVZ01000190.1	psaA	xenococcus sp. pcc7305	psaA_nmc	NMC	c2ca66d7df3a1971ebc6aa368d5e9189	2241
+cyanobacterium_ALWA01000028.1	ALWA01000028.1	psaA	cyanobacterium pcc7702 chl7702draft_scaffold_0.1_cont28	psaA_nmc	NMC	ac7ae6e1f428fad49c9ea8f1f86402a0	2256
+synechococcus_ALWC01000004.1	ALWC01000004.1	psaA	synechococcus sp. pcc7336	psaA_syn	MIC	1f65155e929b6e7e24a284167272abe4	2259
+[scytonema_ALWD01000107.1	ALWD01000107.1	psaA	[scytonema hofmanni] utex	psaA_nmc	NMC	fd319c8288a50306fa65631c2c717a67	2256
+fortiea_ANFJ01000002.1	ANFJ01000002.1	psaA	fortiea contorta pcc7126	psaA_nmc	NMC	d2ad6e7be3997ec6f10b1ff41d7daff7	2256
+geitlerinema_ANFQ01000232.1	ANFQ01000232.1	psaA	geitlerinema sp. pcc7105	psaA_nmc	NMC	00fe28e6b63fab6751ae9a28db8a778a	2268
+prochlorothrix_ANKN01000208.1	ANKN01000208.1	psaA	prochlorothrix hollandica pcc9006	psaA_nmc	NMC	fd7980726f0f9b41ddc301c9723a0888	2262
+oscillatoria_ANKO01000021.1	ANKO01000021.1	psaA	oscillatoria sp. pcc10802	psaA_nmc	NMC	d23b520a9311836f59dc705184fc80b2	2292
+fistulifera_AP011960.1	AP011960.1	psaA	fistulifera solaris chloroplast	psaA_nmc	NMC	84730ed0857b0ff22868b5a65bab7a27	2256
+emiliania_AY741371.1	AY741371.1	psaA	emiliania huxleyi strain	psaA_nmc	NMC	c0fc459ce695c8cac0040126ca19f85d	2256
+pseudendoclonium_AY835431.1	AY835431.1	psaA	pseudendoclonium akinetum chloroplast	psaA_nmc	NMC	73de4f1794c285cc967528d4b77d5fbc	1605
+synechococcus_AZXL01000015.1	AZXL01000015.1	psaA	synechococcus sp. cc9616	psaA_syn	MIC	233614cb80fd499617133aeb439124fe	2301
+synechococcus_BAUB01000007.1	BAUB01000007.1	psaA	synechococcus sp. nkbg15041c	psaA_syn	MIC	b1459272b7e91582ccc79bc4a5035cc9	2232
+prochlorococcus_BX548174.1	BX548174.1	psaA	prochlorococcus marinus med4	psaA_pro	MIC	8e9ca54c6680e7cb9343ee2e94cd4519	2301
+prochlorococcus_BX548175.1	BX548175.1	psaA	prochlorococcus marinus mit9313	psaA_pro	MIC	3bd84d8a263ff505d96cf159c41d6ea5	2328
+richelia_CBZS010000267.1	CBZS010000267.1	psaA	richelia intracellularis wgs	psaA_nmc	NMC	df47c710399a96b71803114c34431525	2256
+prochlorococcus_CP000095.2	CP000095.2	psaA	prochlorococcus marinus str.natl2a	psaA_pro	MIC	2c1e684d78a2c64eb305ba6768cfe232	2304
+synechococcus_CP000100.1	CP000100.1	psaA	synechococcus elongatus pcc7942	psaA_syn	MIC	3a2e14f359179e835f699c824a3440ea	2289
+synechococcus_CP000110.1	CP000110.1	psaA	synechococcus sp. cc9605	psaA_syn	MIC	72c7bb543ea4453001ec5fe3434ad0d4	2301
+prochlorococcus_CP000111.1	CP000111.1	psaA	prochlorococcus marinus str.mit9312	psaA_pro	MIC	a592688f8f216eda9e7adf5ad8e045ba	2301
+synechococcus_CP000435.1	CP000435.1	psaA	synechococcus sp. cc9311	psaA_syn	MIC	21aa7654bc217b17b48b134807c76cc8	2301
+prochlorococcus_CP000551.1	CP000551.1	psaA	prochlorococcus marinus str.as9601	psaA_pro	MIC	c3a0d39c14f6e4bd0f91267ef32d9f84	2301
+prochlorococcus_CP000552.1	CP000552.1	psaA	prochlorococcus marinus str.mit9515	psaA_pro	MIC	c138b3fbe1d5e498517a393bebf2db9d	2280
+prochlorococcus_CP000554.1	CP000554.1	psaA	prochlorococcus marinus str.mit9303	psaA_pro	MIC	d21e3257ef8b69550ac586cfb57455f6	2328
+prochlorococcus_CP000576.1	CP000576.1	psaA	prochlorococcus marinus str.mit9301	psaA_pro	MIC	7fd5d0d8bea39c3ad5fce8afeb055330	2301
+cyanothece_CP000806.1	CP000806.1	psaA	cyanothece sp. atcc	psaA_nmc	NMC	26758538369ac9832d1e04dddb208624	2250
+prochlorococcus_CP000825.1	CP000825.1	psaA	prochlorococcus marinus str.mit9215	psaA_pro	MIC	2ed9994e440869310e69bc29cdb128b1	2283
+acaryochloris_CP000828.1	CP000828.1	psaA	acaryochloris marina mbic11017	psaA_nmc	NMC	674b38be2ae6edd8bc5fdde8e1c7456e	2259
+prochlorococcus_CP000878.1	CP000878.1	psaA	prochlorococcus marinus str.mit9211	psaA_pro	MIC	862ca99270ef22e686c72ec699ae147b	2319
+cyanothece_CP001344.1	CP001344.1	psaA	cyanothece sp. pcc7425	psaA_nmc	NMC	de5d4575f2dbcc8d48e090ff336aa50f	2268
+rivularia_CP003549.1	CP003549.1	psaA	rivularia sp. pcc7116	psaA_nmc	NMC	7f300fecbfea2bb4ae338d026e1d11f3	2256
+synechococcus_CP003558.1	CP003558.1	psaA	synechococcus sp. pcc6312	psaA_syn	MIC	ad58fd4e93e43b20d6cf5215066ca24d	2265
+pleurocapsa_CP003590.1	CP003590.1	psaA	pleurocapsa sp. pcc7327	psaA_nmc	NMC	58c6118ff96cea64d62724e9fba3437b	2244
+geitlerinema_CP003591.1	CP003591.1	psaA	geitlerinema sp. pcc7407	psaA_nmc	NMC	7c0c6bb49a42d8d909bf3b347e3a9aaa	2253
+pseudanabaena_CP003592.1	CP003592.1	psaA	pseudanabaena sp. pcc7367	psaA_nmc	NMC	bf0dc9d8b0788e7c143ceb615789c2ad	2253
+synechococcus_CP003594.1	CP003594.1	psaA	synechococcus sp. pcc7502	psaA_syn	MIC	bbd907c40bf12f3e993ccd15bfa36256	2250
+chamaesiphon_CP003600.1	CP003600.1	psaA	chamaesiphon minutus pcc6605	psaA_nmc	NMC	401c7921d508b009da49355ddc5a59af	2250
+calothrix_CP003610.1	CP003610.1	psaA	calothrix sp. pcc6303	psaA_nmc	NMC	4b71cb4bfe18e57cde5050432b031057	2256
+oscillatoria_CP003614.1	CP003614.1	psaA	oscillatoria nigro-viridis pcc7112	psaA_nmc	NMC	68175b8fea9bc776e5cddb78b05820df	2292
+microcoleus_CP003630.1	CP003630.1	psaA	microcoleus sp. pcc7113	psaA_nmc	NMC	e70108d4c0b518b501595be7b3ae4265	2253
+cylindrospermum_CP003642.1	CP003642.1	psaA	cylindrospermum stagnale pcc7417	psaA_nmc	NMC	ff096e6ec2bcd445268ec000e5f8ef7a	2256
+gloeocapsa_CP003646.1	CP003646.1	psaA	gloeocapsa sp. pcc7428	psaA_nmc	NMC	988c408cf1f4af1c3aa26f2503258a19	2256
+stanieria_CP003653.1	CP003653.1	psaA	stanieria cyanosphaera pcc7437	psaA_nmc	NMC	10083f67b82644b7db75fa78178d3a51	2253
+anabaena_CP003659.1	CP003659.1	psaA	anabaena cylindrica pcc7122	psaA_nmc	NMC	34bc8a1eb62907456ef9df77d4caca5b	2256
+cyanobacterium_CP003940.1	CP003940.1	psaA	cyanobacterium stanieri pcc7202	psaA_nmc	NMC	5595aed9304c2f75a8558486c7216814	2250
+synechococcus_CP006269.1	CP006269.1	psaA	synechococcus sp. kordi-100	psaA_syn	MIC	ed98ca4a8d4a7ece8ae8bad74f0fbaf6	2301
+synechococcus_CP006270.1	CP006270.1	psaA	synechococcus sp. kordi-49	psaA_syn	MIC	2be765dfb78f2614b774c682770968a5	2301
+synechococcus_CP006271.1	CP006271.1	psaA	synechococcus sp. kordi-52	psaA_syn	MIC	f5efeca00b38afbb8404960be05a24af	2301
+prochlorococcus_CP007754.1	CP007754.1	psaA	prochlorococcus sp. mit0801	psaA_pro	MIC	3a9f008aed0f756bcd47a0bac2074ed2	2304
+ostreococcus_CR954199.2	CR954199.2	psaA	ostreococcus tauri chloroplast	psaA_nmc	NMC	5ddc989772b93b3c501b637d938ffd32	2253
+synechococcus_CT971583.1	CT971583.1	psaA	synechococcus wh7803 complete	psaA_syn	MIC	40547449525aad161c37dacc8870d3ec	2301
+synechococcus_CT978603.1	CT978603.1	psaA	synechococcus sp. rcc307	psaA_syn	MIC	46f21463a94850a29c621f38fccc102c	2301
+oltmannsiellopsis_DQ291132.1	DQ291132.1	psaA	oltmannsiellopsis viridis chloroplast	psaA_nmc	NMC	0a98e14a250f11812b5bcbce6f2dbf9c	2253
+scenedesmus_DQ396875.1	DQ396875.1	psaA	scenedesmus obliquus strain	psaA_nmc	NMC	43410f95f14fd4633de0504a10ea2a4c	2001
+stigeoclonium_DQ630521.1	DQ630521.1	psaA	stigeoclonium helveticum strain	psaA_nmc	NMC	a6f9f5141540795065baf0039b72a3b5	981
+microcoleus_DS989877.1	DS989877.1	psaA	microcoleus chthonoplastes pcc7420	psaA_nmc	NMC	123db1af0f9a263268d2761bfaf2a523	2253
+phaeodactylum_EF067920.1	EF067920.1	psaA	phaeodactylum tricornutum chloroplast	psaA_nmc	NMC	19f36ec6f991454c640f4e29ecca38d8	2256
+rhodomonas_EF508371.1	EF508371.1	psaA	rhodomonas salina strain	psaA_nmc	NMC	51cf0cfc24c9fc7893e342b17de73e94	2256
+heterosigma_EU168190.1	EU168190.1	psaA	heterosigma akashiwo strain	psaA_nmc	NMC	9c461c29ff4c7e03722fffa1ff6d11d1	2250
+oedogonium_EU677193.1	EU677193.1	psaA	oedogonium cardiacum strain	psaA_nmc	NMC	ec6ae487ee9bdda7e43e90b977b5997f	2253
+vaucheria_EU912438.1	EU912438.1	psaA	vaucheria litorea chloroplast	psaA_nmc	NMC	a5db238cfafd945e15020d92f60b4e38	2247
+chlamydomonas_FJ423446.1	FJ423446.1	psaA	chlamydomonas reinhardtii strain	psaA_nmc	NMC	dcae9ed74811b9424763d23ae1ed608a	1980
+monomastix_FJ493497.1	FJ493497.1	psaA	monomastix sp. oke-1	psaA_nmc	NMC	53dbb2db7d52ce6bbc5ea286d2fface7	2250
+pycnococcus_FJ493498.1	FJ493498.1	psaA	pycnococcus provasolii chloroplast	psaA_nmc	NMC	42fb42628da5a3922b5207e51dd3e75a	2250
+pyramimonas_FJ493499.1	FJ493499.1	psaA	pyramimonas parkeae chloroplast	psaA_nmc	NMC	efd59fdec6dbae54ace328d826ae9ade	2253
+micromonas_FJ858267.1	FJ858267.1	psaA	micromonas sp. rcc299	psaA_nmc	NMC	7aa1e6cc8fa822dd1ca1550aef9a708e	2253
+oocystis_FJ968739.1	FJ968739.1	psaA	oocystis solitaria culture-collection	psaA_nmc	NMC	cd13b48c75f94e847a62a7e5d2b8977f	2253
+parachlorella_FJ968741.1	FJ968741.1	psaA	parachlorella kessleri culture-collection	psaA_nmc	NMC	87d7a1141cde8dfe5367b16358bdbd88	2253
+ectocarpus_FP102296.1	FP102296.1	psaA	ectocarpus siliculosus chloroplast	psaA_nmc	NMC	43d7d590545a2b8ae54e8b9eafe65b79	2247
+prochlorococcus_GL947594.1	GL947594.1	psaA	prochlorococcus marinus bv.hnlc1	psaA_pro	MIC	aedbacfa8ccf9ad273b208ed10168945	2283
+prochlorococcus_GL947595.1	GL947595.1	psaA	prochlorococcus marinus bv.hnlc2	psaA_pro	MIC	fc34c2bae849628e7575e9d9ceedbbd8	2283
+aureococcus_GQ231541.1	GQ231541.1	psaA	aureococcus anophagefferens strain	psaA_nmc	NMC	05ac0b72edc92e4dd42a7987ee5e0bf5	2256
+aureoumbra_GQ231542.1	GQ231542.1	psaA	aureoumbra lagunensis strain	psaA_nmc	NMC	34555d01f9cc31deebc9c8d16f3dd506	2253
+volvox_GU084820.1	GU084820.1	psaA	volvox carteri f.	psaA_nmc	NMC	d186c5cd5ff20268dd42f34855a0909a	1560
+floydiella_GU196268.1	GU196268.1	psaA	floydiella terrestris culture-collection	psaA_nmc	NMC	985c402d2f7c284d916cde52cb67e81e	2259
+thalassiosira_GU323224.1	GU323224.1	psaA	thalassiosira oceanica ccmp1005	psaA_nmc	NMC	48527ce8875d43e1be533a15d4cb4189	2253
+uncultured_HM565909.1	HM565909.1	psaA	uncultured prymnesiophyte c19847	psaA_nmc	NMC	a5fd4ba75652886af45f2191582eda60	2256
+schizomeris_HQ700713.1	HQ700713.1	psaA	schizomeris leibleinii culture-collection	psaA_nmc	NMC	2667467ce9c5670a16bf0eaca7f65ea6	1149
+mastigocladopsis_JH992901.1	JH992901.1	psaA	mastigocladopsis repens pcc10914	psaA_nmc	NMC	ae4b348d27aec379d4a3e28e152a3b37	2256
+leptolyngbya_JH993797.1	JH993797.1	psaA	leptolyngbya sp. pcc7375	psaA_nmc	NMC	028a8bcf6af50259cb09cb8048192014	2265
+karlodinium_JN039300.1	JN039300.1	psaA	karlodinium veneficum chloroplast	psaA_nmc	NMC	07c1e73750b2998c5ee934ecc4e08e9b	2235
+phaeocystis_JN117275.2	JN117275.2	psaA	phaeocystis antarctica strain	psaA_nmc	NMC	1442f898e68ea3fdbb4bd050f30dacd0	2253
+prochlorococcus_JNAI01000004.1	JNAI01000004.1	psaA	prochlorococcus marinus str.mit9107	psaA_pro	MIC	68a09dbce31bdec0f684823f1fe9b9be	2283
+prochlorococcus_JNAL01000010.1	JNAL01000010.1	psaA	prochlorococcus marinus str.mit9201	psaA_pro	MIC	ab02623044ec80b086d71ce686c27197	2280
+prochlorococcus_JNAM01000004.1	JNAM01000004.1	psaA	prochlorococcus marinus str.mit9302	psaA_pro	MIC	277c58fa6991c2d6bed75b23c01aaab8	2301
+prochlorococcus_JNAO01000012.1	JNAO01000012.1	psaA	prochlorococcus marinus str.mit9314	psaA_pro	MIC	3aa3c944dda3d24aa0e4fd2dbd0f2675	2301
+prochlorococcus_JNAP01000009.1	JNAP01000009.1	psaA	prochlorococcus marinus str.mit9321	psaA_pro	MIC	bd716397cfda51430146a1d523534555	2301
+prochlorococcus_JNAS01000002.1	JNAS01000002.1	psaA	prochlorococcus marinus str.sb	psaA_pro	MIC	c4d6f1e07e794f0b3a15b2bdc12db6da	2301
+prochlorococcus_JNAU01000003.1	JNAU01000003.1	psaA	prochlorococcus sp. mit0601	psaA_pro	MIC	34ed75986ffeefca69431dfd37d9e9ef	2319
+prochlorococcus_JNAV01000006.1	JNAV01000006.1	psaA	prochlorococcus sp. mit0602	psaA_pro	MIC	6a04dc3ec8fd102cc710818eb1f1f051	2319
+prochlorococcus_JNBA01000020.1	JNBA01000020.1	psaA	prochlorococcus sp. mit0701	psaA_pro	MIC	efe4e29102c55215030c36e554236e9b	2328
+saccharina_JQ405663.1	JQ405663.1	psaA	saccharina japonica chloroplast	psaA_nmc	NMC	a1089e9e61a7c473c46e545d74908aba	2232
+porphyra_JQ408795.1	JQ408795.1	psaA	porphyra umbilicalis plastid	psaA_nmc	NMC	252084d9f8f448a003544dde376c0e51	2256
+uncultured_JX297813.1	JX297813.1	psaA	uncultured pelagomonas plastid	psaA_nmc	NMC	301ea4adbffbbaada718f93e6318f67d	2253
+pyropia_KC517072.1	KC517072.1	psaA	pyropia yezoensis chloroplast	psaA_nmc	NMC	57c813a1a592753d7433393873f061e6	2256
+cyanidium_NC_001840.1	NC_001840.1	psaA	cyanidium caldarium chloroplast	psaA_nmc	NMC	6125eac36022d6d9016abc78648d9f62	2238
+cyanidioschyzon_NC_004799.1	NC_004799.1	psaA	cyanidioschyzon merolae strain	psaA_nmc	NMC	65a70d19b57671f2492cc84e1033d57f	2190
+gracilaria_NC_006137.1	NC_006137.1	psaA	gracilaria tenuistipitata var.	psaA_nmc	NMC	4083b2825741740cc16d8bbc3c496cb6	2256
+trichodesmium_NC_008312.1	NC_008312.1	psaA	trichodesmium erythraeum ims101	psaA_nmc	NMC	4a4b746adbebade35c51f08b18bfaee8	2259
+bigelowiella_NC_008408.1	NC_008408.1	psaA	bigelowiella natans plastid	psaA_nmc	NMC	700d87cc584eba50765493fb28bdc006	2175
+thalassiosira_NC_008589.1	NC_008589.1	psaA	thalassiosira pseudonana chloroplast	psaA_nmc	NMC	f7aa8f74ab6aedac55fd2498b79b66c7	2253
+bryopsis_NC_013359.1	NC_013359.1	psaA	bryopsis hypnoides chloroplast	psaA_nmc	NMC	d303ab740962d0216467b337b8ed96a3	1797
+kryptoperidinium_NC_014267.1	NC_014267.1	psaA	kryptoperidinium foliaceum chloroplast	psaA_nmc	NMC	550577e6304c34e8c29c4dfef786c7b1	2256
+durinskia_NC_014287.1	NC_014287.1	psaA	durinskia baltica chloroplast	psaA_nmc	NMC	230bbedad8b1a5765444ebc8a4c048d6	2244
+chromera_NC_014340.2	NC_014340.2	psaA	chromera velia strain	psaA_nmc	NMC	2a1bb61ab2d56913fa9fcf35984388b4	1167
+coccomyxa_NC_015084.1	NC_015084.1	psaA	coccomyxa sp. c-169	psaA_nmc	NMC	b4b8d852523cfc2baf956530b0e05eae	2250
+chlorella_NC_015359.1	NC_015359.1	psaA	chlorella variabilis plastid	psaA_nmc	NMC	adad6b9ee10f59fdf7cf5fff9fc0b157	2247
+synedra_NC_016731.1	NC_016731.1	psaA	synedra acus chloroplast	psaA_nmc	NMC	fa5f4518bf14380c26aae6321e18373e	2244
+pedinomonas_NC_016733.1	NC_016733.1	psaA	pedinomonas minor chloroplast	psaA_nmc	NMC	419fc240d6775fb4bc42b4f8ae23b02a	2256
+fucus_NC_016735.1	NC_016735.1	psaA	fucus vesiculosus chloroplast	psaA_nmc	NMC	5c8a641e8d363446eb88b63dd3357530	2250
+eutreptiella_NC_017754.2	NC_017754.2	psaA	eutreptiella gymnastica plastid	psaA_nmc	NMC	06340551652e350480272b3b5b8cbcef	1797
+trebouxiophyceae_NC_018569.1	NC_018569.1	psaA	trebouxiophyceae sp. mx-az01	psaA_nmc	NMC	6f4dd8c7ca79b65359352e55066d899f	2250
+nannochloropsis_NC_020014.1	NC_020014.1	psaA	nannochloropsis gaditana chloroplast	psaA_nmc	NMC	59850b14c8d5e810bd44f88f10a78773	2223
+monomorphina_NC_020018.1	NC_020018.1	psaA	monomorphina aenigmatica strain	psaA_nmc	NMC	171f8d58d658383905f68c81b0dd6f27	2253
+pavlova_NC_020371.1	NC_020371.1	psaA	pavlova lutheri chloroplast	psaA_nmc	NMC	1f943164dfa7429165156580c490547f	2256
+gonium_NC_020438.1	NC_020438.1	psaA	gonium pectorale chloroplast	psaA_nmc	NMC	f9231f26f5412b66555281906242ff03	1995
+chondrus_NC_020795.1	NC_020795.1	psaA	chondrus crispus plastid	psaA_nmc	NMC	c9f3dd8893d12c1738bdd9af7e8fb602	2256
+calliarthron_NC_021075.1	NC_021075.1	psaA	calliarthron tuberculosum chloroplast	psaA_nmc	NMC	67abd7e667ab9f11afb5b6315e5851cc	2256
+pyropia_NC_021189.1	NC_021189.1	psaA	pyropia haitanensis voucher	psaA_nmc	NMC	8bea1b4dfffedca41a16f4244bedc6cd	2256
+grateloupia_NC_021618.1	NC_021618.1	psaA	grateloupia taiwanensis plastid	psaA_nmc	NMC	03cab5ef2aea40579e0de01f7d7358ee	2256
+nodularia_NZ_AAVW01000003.1	NZ_AAVW01000003.1	psaA	nodularia spumigena ccy9414	psaA_nmc	NMC	51a21e115877f13ccc3d3a292933718f	2256
+odontella_Z67753.1	Z67753.1	psaA	odontella sinensis complete	psaA_nmc	NMC	d8e34bc8aadb6072ba9e8f4eff738778	2253
+vpsi4_SAMEA2621085-722	SAMEA2621085_722	psaA	TARA_itai_SAMEA2621085_722_vpsi4	psaA_vpsi4	VIR	2fec41460d7b8309c50285c4898a3261	2289
+vpsi4_70SUR-107815	70SUR_107815	psaA	TARA_70SUR_107815_vpsi4	psaA_vpsi4	VIR	d24c01844b6d0b3dd4dec8bf3509dd21	207
+vpsi4_GOS-JCVI-READ-1095964115098	GOS_JCVI_READ_1095964115098	psaA	GOS_GOS_JCVI_READ_1095964115098_vpsi4	psaA_vpsi4	VIR	ef6e4369754cc4d76a2713bb4691122f	336
+vpsi4_GOS-JCVI-READ-1103242526277-+924g	GOS_JCVI_READ_1103242526277_+924g	psaA	GOS_GOS_JCVI_READ_1103242526277_+924g_vpsi4	psaA_vpsi4	VIR	2d26ce3ce722e8c9e56a5b9f22e54c82	537
+vpsi4_GOS-JCVI-READ-1103769911166	GOS_JCVI_READ_1103769911166	psaA	GOS_GOS_JCVI_READ_1103769911166_vpsi4	psaA_vpsi4	VIR	131e6338f5e4699b1b16bf3b98923502	900
+vpsi4_GOS-SCF-7180008897441	GOS_SCF_7180008897441	psaA	GOS_GOS_SCF_7180008897441_vpsi4	psaA_vpsi4	VIR	7ed29b80e06dd87a92e78e1db40e4770	915
+vpsi4_GOS-SCF-7180009234904	GOS_SCF_7180009234904	psaA	GOS_GOS_SCF_7180009234904_vpsi4	psaA_vpsi4	VIR	6797776cc799fb07f9dbf814d1e3e578	297
+vpsi4_TaraOceans-52SUR-SCF-322782	TaraOceans_52SUR_SCF_322782	psaA	TARA_TaraOceans_52SUR_SCF_322782_vpsi4	psaA_vpsi4	VIR	6327d134c7a260fc59b909721e4264c6	849
+vpsi4_TaraOceans-70SUR-C4564825	TaraOceans_70SUR_C4564825	psaA	TARA_TaraOceans_70SUR_C4564825_vpsi4	psaA_vpsi4	VIR	56eb621fb5e03488bc4c227f244eec09	897
+vpsi4_TaraOceans-70SUR-SCF-94779	TaraOceans_70SUR_SCF_94779	psaA	TARA_TaraOceans_70SUR_SCF_94779_vpsi4	psaA_vpsi4	VIR	764a5fc85d42572897cb8b96e535ab7a	801
+vpsi7_52DCM-34175	52DCM_34175	psaA	TARA_52DCM_34175_vpsi7	psaA_vpsi7	VIR	0eb8484308a929232536599e602546f9	444
+vpsi7_72DCM-14957	72DCM_14957	psaA	TARA_72DCM_14957_vpsi7	psaA_vpsi7	VIR	8ee38d11542a8929fce13efd7343c2ee	81
+vpsi7_KM359505	KM359505	psaA	P-TIM68_KM359505_vpsi7	psaA_vpsi7	VIR	dc9a35cfc2154bfedc6ce9e560914320	2235
+HTVC010P	NC_020481	MCP	MCP.HTVC010P.Podoviridae_pelagibacter.NC_020481	MCP_pelagibacterP	VIR	c925aa6c67ff4a24c7f4fa1a7cb6d45c	855
+HTVC011P	NC_020482	DNAPol	DNAPol.HTVC011P.Podoviridae_pelagibacter.NC_020482	DNAPol_pelagibacterP	VIR	20e8218a44fc6808cf29d5bbd230ab66	1770
+HTVC019P	NC_020483	DNAPol	DNAPol.HTVC019P.Podoviridae_pelagibacter.NC_020483	DNAPol_pelagibacterP	VIR	da752dcceb0bbca0f59b87a582663916	1698
+HTVC008M	NC_020484	gp20	gp20.HTVC008M.Myoviridae_pelagibacter.NC_020484	gp20_pelagibacterM	VIR	e771706658dc96941056db4396f26f7b	1524
+HTVC008M	NC_020484	gp23	gp23.HTVC008M.Myoviridae_pelagibacter.NC_020484	gp23_pelagibacterM	VIR	80587773e6936acb74be7ba801f81958	1263
+syn9	DQ149023	gp20	gp20.syn9.Myoviridae.DQ149023	gp20_Myoviridae	VIR	cfaf50658ad01ae26f83c2cd618ad03a	1602
+P-SSM2	NC006883	gp20	gp20.P-SSM2.Myoviridae.NC006883	gp20_Myoviridae	VIR	e70af4ff7173f863bc0f74a784ed0acc	1677
+P-SSM4	NC006884	gp20	gp20.P-SSM4.Myoviridae.NC006884	gp20_Myoviridae	VIR	a5bdec6e8cbe973680973cc6dd33853e	1614
+S-SM2	NC015279	gp20	gp20.S-SM2.Myoviridae.NC015279	gp20_Myoviridae	VIR	8795cc6c292b034e53a79f8e93acc96b	1668
+P-HM1	NC015280	gp20	gp20.P-HM1.Myoviridae.NC015280	gp20_Myoviridae	VIR	52f8971292dfe889447e416b70e33b20	1671
+S-ShM2	NC015281	gp20	gp20.S-ShM2.Myoviridae.NC015281	gp20_Myoviridae	VIR	52e8a0d422747d8f7368029997601f1d	1650
+S-SM1	NC015282	gp20	gp20.S-SM1.Myoviridae.NC015282	gp20_Myoviridae	VIR	8325f464dc6a367704cdfe18fec1e55e	1602
+P-RSM4	NC015283	gp20	gp20.P-RSM4.Myoviridae.NC015283	gp20_Myoviridae	VIR	1d3be9c1f60bd15328e5e448c2ca8c15	1602
+P-HM2	NC015284	gp20	gp20.P-HM2.Myoviridae.NC015284	gp20_Myoviridae	VIR	fc7493f6aa97942ea27e1564fc8b03fa	1683
+Syn33	NC015285	gp20	gp20.Syn33.Caudovirales.NC015285	gp20_Caudovirales	VIR	95fa2fdcdd8076948cd6f7374d4f3b60	1080
+Syn19	NC015286	gp20	gp20.Syn19.Myoviridae.NC015286	gp20_Myoviridae	VIR	defd1bac309f2662c209eb503a45a14e	1596
+S-SSM7	NC015287	gp20	gp20.S-SSM7.Myoviridae.NC015287	gp20_Myoviridae	VIR	17e037fd89a4def3616392d8c7949d02	1692
+Syn1	NC015288	gp20	gp20.Syn1.Caudovirales.NC015288	gp20_Caudovirales	VIR	a0b896d2ed4f65eee5e872e35ab0fc9a	1680
+S-SSM5	NC015289	gp20	gp20.S-SSM5.Myoviridae.NC015289	gp20_Myoviridae	VIR	bcf2fa3f220ed90467fdd6d30465025f	1605
+P-SSM7	NC015290	gp20	gp20.P-SSM7.Myoviridae.NC015290	gp20_Myoviridae	VIR	3d55617a8be3e3c2edd63661268873b4	1614
+S-CRM01	NC015569	gp20	gp20.S-CRM01.Myoviridae.NC015569	gp20_Myoviridae	VIR	8078ebccc64ff16b9f263fa73c3f3718	1749
+P-SSM5	HQ632825	gp20	gp20.P-SSM5.Myoviridae.HQ632825	gp20_Myoviridae	VIR	2efd155566a53637af7eba227216c71e	1677
+S-PM2	NC006820	gp20	gp20.S-PM2.Myoviridae.NC006820	gp20_Myoviridae	VIR	364d3b7ba291f46864e8f4df14ed77b8	1695
+P-TIM68	KM359505	gp20	gp20.P-TIM68.Myoviridae.KM359505	gp20_Myoviridae	VIR	083588d1812e8cd523000ad3c4593396	1659
+S-BnM1	AF016386	gp20	gp20.S-BnM1.AF016386	gp20_Myoviridae	VIR	f08739cbf8c9e032451305f7dad0282c	1635
+P-ShM1	EU715812	gp20	gp20.P-ShM1.EU715812	gp20_Myoviridae	VIR	2708a38330d3e231aeed81aec315d970	545
+P-ShM2	EU715781	gp20	gp20.P-ShM2.EU715781	gp20_Myoviridae	VIR	8c26487440786a9e9c19e16a2748d823	545
+S-RIM10	AY259253	gp20	gp20.S-RIM10.AY259253	gp20_Myoviridae	VIR	4521b9e98d335b956ef1591d119c3185	549
+S-RIM6	AY259249	gp20	gp20.S-RIM6.AY259249	gp20_Myoviridae	VIR	b47a916d5b6e14bd8553338d016ab7fd	546
+P-SSM11	EU715801	gp20	gp20.P-SSM11.EU715801	gp20_Myoviridae	VIR	8c6e30771d0f53feca05541d8253676f	545
+S-SSM4	EU715779	gp20	gp20.S-SSM4.EU715779	gp20_Myoviridae	VIR	e9c02831795ae7207c99aca5c58bf81d	545
+S-RIM3	AY259246	gp20	gp20.S-RIM3.AY259246	gp20_Myoviridae	VIR	1fc3ccaab70baccc6a519887527baff6	427
+S-RIM24	AY259267	gp20	gp20.S-RIM24.AY259267	gp20_Myoviridae	VIR	27a6462a93788f02a15ee2bac84772f4	427
+S-ShM1	EU715789	gp20	gp20.S-ShM1.EU715789	gp20_Myoviridae	VIR	8dc7f3d0e3c59ee54929d2d1210b6e6b	545
+S-RIM1	AY259244	gp20	gp20.S-RIM1.AY259244	gp20_Myoviridae	VIR	4d960882ca40e88f04f53860aefaf686	546
+syn9	DQ149023	gp23	gp23.syn9.Myoviridae.DQ149023	gp23_Myoviridae	VIR	c5025625182d784415fa6cd9ddd7b83f	594
+P-SSM2	NC006883	gp23	gp23.P-SSM2.Myoviridae.NC006883	gp23_Myoviridae	VIR	860cc22aee23ef39ee606c73aafb46a2	1413
+P-SSM4	NC006884	gp23	gp23.P-SSM4.Myoviridae.NC006884	gp23_Myoviridae	VIR	6e5afbdc068e5a0a136dbe3ec0174c4b	1389
+S-SM2	NC015279	gp23	gp23.S-SM2.Myoviridae.NC015279	gp23_Myoviridae	VIR	2f0aa39c98883bcd0d71dcdd8f97188f	1404
+P-HM1	NC015280	gp23	gp23.P-HM1.Myoviridae.NC015280	gp23_Myoviridae	VIR	671a639a55c8891ba485023864c46ee9	1368
+S-ShM2	NC015281	gp23	gp23.S-ShM2.Myoviridae.NC015281	gp23_Myoviridae	VIR	1a56b663774cb317ce824623c5f3906f	1398
+S-SM1	NC015282	gp23	gp23.S-SM1.Myoviridae.NC015282	gp23_Myoviridae	VIR	786ab005e1375592c07a5dca84eb631b	1377
+P-RSM4	NC015283	gp23	gp23.P-RSM4.Myoviridae.NC015283	gp23_Myoviridae	VIR	8ce1d57a9390a452028014d3575ce478	1398
+P-HM2	NC015284	gp23	gp23.P-HM2.Myoviridae.NC015284	gp23_Myoviridae	VIR	9c65ff4505683bb39fa49322a63520ad	1368
+Syn33	NC015285	gp23	gp23.Syn33.Caudovirales.NC015285	gp23_Caudovirales	VIR	03e12b2cffda819517f950ea6396bd66	1380
+Syn19	NC015286	gp23	gp23.Syn19.Myoviridae.NC015286	gp23_Myoviridae	VIR	426b1b942281acd44d94a8b376ac634d	1374
+S-SSM7	NC015287	gp23	gp23.S-SSM7.Myoviridae.NC015287	gp23_Myoviridae	VIR	bf0af41df88623ee39f4ae815a1eebd7	1407
+Syn1	NC015288	gp23	gp23.Syn1.Caudovirales.NC015288	gp23_Caudovirales	VIR	01fc6cc58423bf7437366317111f75bf	1407
+S-SSM5	NC015289	gp23	gp23.S-SSM5.Myoviridae.NC015289	gp23_Myoviridae	VIR	dfc17abe88ecd27e8794ad226924e3c3	1395
+P-SSM7	NC015290	gp23	gp23.P-SSM7.Myoviridae.NC015290	gp23_Myoviridae	VIR	49cd95bfbe02f1be1ba1ff2c62a07414	1389
+S-CRM01	NC015569	gp23	gp23.S-CRM01.Myoviridae.NC015569	gp23_Myoviridae	VIR	aa2e966676baecfbf514e1a5252f40e4	1446
+S-SSM4	NC020875	gp23	gp23.S-SSM4.Myoviridae.NC020875	gp23_Myoviridae	VIR	4a18c2d5962722ab8cafaa824b4b1173	1389
+S-PM2	NC006820	gp23	gp23.S-PM2.Myoviridae.NC006820	gp23_Myoviridae	VIR	aab5d68e34176c70e6db1abf5f4f037d	1407
+P-TIM68	KM359505	gp23	gp23.P-TIM68.Myoviridae.KM359505	gp23_Myoviridae	VIR	34d75606b01bff7ddb7c4807ffead287	1443
+P-TIP1	KC507068	MCP	MCP.P-TIP1.Podoviridae.KC507068	MCP_Podoviridae	VIR	8f27f367c8e592278d60d26a7cfcf824	405
+P-TIP39	KC507142	DNAPol	DNApol.P-TIP39.Podoviridae.KC507142	DNAPol_Podoviridae	VIR	ffddcff5107f57184571e271f3e278ba	528
+S-RIP2	KC010999	DNAPol	DNApol.S-RIP2.Podoviridae.KC010999	DNAPol_Podoviridae	VIR	c769c537162109d8cafb07dc3cc737a4	533
+oc24d	KC507114	DNAPol	DNApol.oc24d.Podoviridae.KC507114	DNAPol_Podoviridae	VIR	c5a444ef5e8c09164f003e98066fff93	474
+3f1	KC507107	DNAPol	DNApol.3f1.Podoviridae.KC507107	DNAPol_Podoviridae	VIR	02efa3a23065a057014050c50b93e3f2	443
+ND3	KC507102	DNAPol	DNApol.ND3.Podoviridae.KC507102	DNAPol_Podoviridae	VIR	cfcac338d3e7a727779f58ed12e19ed8	294
+S-TIP32	KC507065	MCP	MCP.S-TIP32.Podoviridae.KC507065	MCP_Podoviridae	VIR	708d5afd6f15d78d746a45034ad24f89	507
+B4-1	KC507127	DNAPol	DNApol.B4-1.Podoviridae.KC507127	DNAPol_Podoviridae	VIR	d11a9eaef30b6a7d2c2b4ce73086f7f4	537
+S-TIP31	KC507064	MCP	MCP.S-TIP31.Podoviridae.KC507064	MCP_Podoviridae	VIR	450a475be0dacedfb6ff113ce5de4e64	507
+S-TIP28	KC507147	DNAPol	DNApol.S-TIP28.Podoviridae.KC507147	DNAPol_Podoviridae	VIR	092ad32110e5a3b65186b3e721f8306c	680
+S-TIP31	KC507144	DNAPol	DNApol.S-TIP31.Podoviridae.KC507144	DNAPol_Podoviridae	VIR	0fe66ce11c3837da19dee51c9dbd587e	441
+303	KC507104	DNAPol	DNApol.303.Podoviridae.KC507104	DNAPol_Podoviridae	VIR	761c67ca18b4d275d1d143e5f23a43f6	529
+7fdp3	KC507110	DNAPol	DNApol.7fdp3.Podoviridae.KC507110	DNAPol_Podoviridae	VIR	a560e1c310f1cf3a820f69e575a1b49e	531
+P-TIP34	KC507074	MCP	MCP.P-TIP34.Podoviridae.KC507074	MCP_Podoviridae	VIR	707ffc7e9b7b28c4ec31c356415a076a	383
+oc30	KC507116	DNAPol	DNApol.oc30.Podoviridae.KC507116	DNAPol_Podoviridae	VIR	3e12b33f531c69ab12b1e8662cd934f9	545
+P-SSP3	KC507081	MCP	MCP.P-SSP3.Podoviridae.KC507081	MCP_Podoviridae	VIR	51551b277474a4f843786dc8a415b91e	420
+S-TIP45	KC507133	DNAPol	DNApol.S-TIP45.Podoviridae.KC507133	DNAPol_Podoviridae	VIR	15e328cca2546c83b92059f5012a4e5f	532
+E3-1	KC507129	DNAPol	DNApol.E3-1.Podoviridae.KC507129	DNAPol_Podoviridae	VIR	6dd600f1bd140a6b93fd144fb5a195fb	537
+S-RIP4	KC011000	DNAPol	DNApol.S-RIP4.Podoviridae.KC011000	DNAPol_Podoviridae	VIR	fb8a7e1262844bba9c90bed09516577a	539
+P-TIP42	KC507139	DNAPol	DNApol.P-TIP42.Podoviridae.KC507139	DNAPol_Podoviridae	VIR	0a82437507ac248e0312e59c1ad529d2	480
+P-RSP1	KC507136	DNAPol	DNApol.P-RSP1.Podoviridae.KC507136	DNAPol_Podoviridae	VIR	8337b6c3debc045977eb9ad8d499d5af	480
+P-SSP6	KC507082	MCP	MCP.P-SSP6.Podoviridae.KC507082	MCP_Podoviridae	VIR	e0511602113cedd756681105d4d9c238	408
+S-TIP30	KC507143	DNAPol	DNApol.S-TIP30.Podoviridae.KC507143	DNAPol_Podoviridae	VIR	6754ac521dab4e586a52ffef39e70693	397
+S-TIP28	KC507075	MCP	MCP.S-TIP28.Podoviridae.KC507075	MCP_Podoviridae	VIR	15e313aebf5e415ae2079a630d7fcf88	456
+P-TIP38	KC507062	MCP	MCP.P-TIP38.Podoviridae.KC507062	MCP_Podoviridae	VIR	ce1d5d28df0d1163ebb4eb6e56a1175c	387
+oc6b	KC507112	DNAPol	DNApol.oc6b.Podoviridae.KC507112	DNAPol_Podoviridae	VIR	17fe433e35ece61b654f944502e47df0	527
+11f5	KC507109	DNAPol	DNApol.11f5.Podoviridae.KC507109	DNAPol_Podoviridae	VIR	6d23354e9ed6c3a21aeef4b143822cc5	494
+P-TIP44	KC507140	DNAPol	DNApol.P-TIP44.Podoviridae.KC507140	DNAPol_Podoviridae	VIR	b20b2cc5359542af366fd03433921d27	540
+P-RSP1	KC507067	MCP	MCP.P-RSP1.Podoviridae.KC507067	MCP_Podoviridae	VIR	b74fc088a380094475dcb791be553602	381
+oc41	KC507117	DNAPol	DNApol.oc41.Podoviridae.KC507117	DNAPol_Podoviridae	VIR	cd652c0671fb1478c43d056a65c7ce86	524
+10G	KC507119	DNAPol	DNApol.10G.Podoviridae.KC507119	DNAPol_Podoviridae	VIR	8d144950bc556876d9ecd409753379c9	438
+F5-1	KC507130	DNAPol	DNApol.F5-1.Podoviridae.KC507130	DNAPol_Podoviridae	VIR	28451ae0f6d45772822def98d819aaf9	519
+7E	KC507108	DNAPol	DNApol.7E.Podoviridae.KC507108	DNAPol_Podoviridae	VIR	e18098a577e5edf3c8c3684fb003c464	530
+P-SSP5b	KC507080	MCP	MCP.P-SSP5b.Podoviridae.KC507080	MCP_Podoviridae	VIR	047bf7476c2a2951769a1fa958df4f93	438
+S-RIP4	KC011003	MCP	MCP.S-RIP4.Podoviridae.KC011003	MCP_Podoviridae	VIR	aa1ae2000137d4b060e31cd7fb5c445b	451
+Sep4-2	KC507131	DNAPol	DNApol.Sep4-2.Podoviridae.KC507131	DNAPol_Podoviridae	VIR	9805fb670ea3a4a428af6ee6de33f5a0	441
+P-TIP43	KC507072	MCP	MCP.P-TIP43.Podoviridae.KC507072	MCP_Podoviridae	VIR	b57412486b55651875a926032a0e694f	435
+S-TIP41	KC507137	DNAPol	DNApol.S-TIP41.Podoviridae.KC507137	DNAPol_Podoviridae	VIR	5a8960c9b9783468ba954eb0f33f9f27	446
+P-SSP2	KC507085	MCP	MCP.P-SSP2.Podoviridae.KC507085	MCP_Podoviridae	VIR	0c8354f9a456f507a19bc711369e588b	381
+P-GSP1	KC507083	MCP	MCP.P-GSP1.Podoviridae.KC507083	MCP_Podoviridae	VIR	3da8fa977139ff6091ad316460315cc6	324
+P-SSP3	KC507152	DNAPol	DNApol.P-SSP3.Podoviridae.KC507152	DNAPol_Podoviridae	VIR	caf8aacbbe4ebacea723eca7894a1dfe	534
+S-RIP2	KC011002	MCP	MCP.S-RIP2.Podoviridae.KC011002	MCP_Podoviridae	VIR	fb75872489d89fa041b8ac0825d2f5cc	448
+P-SSP5b	KC507149	DNAPol	DNApol.P-SSP5b.Podoviridae.KC507149	DNAPol_Podoviridae	VIR	db3ffc7bd2d7ab5a72d7d02c11a2dddb	537
+S-TIP45	KC507061	MCP	MCP.S-TIP45.Podoviridae.KC507061	MCP_Podoviridae	VIR	baae7448a9f0c1b93b25b7ff2b6add4d	606
+P-SSP2	KC507151	DNAPol	DNApol.P-SSP2.Podoviridae.KC507151	DNAPol_Podoviridae	VIR	8acf65f47c28f28e84fc6a4c44e46a26	535
+5en	KC507121	DNAPol	DNApol.5en.Podoviridae.KC507121	DNAPol_Podoviridae	VIR	bf16596838ad6c51fbe258cab9531ca4	537
+S-TIP37	KC507154	DNAPol	DNApol.S-TIP37.Podoviridae.KC507154	DNAPol_Podoviridae	VIR	2894dea222891d4fb59f8d490bf85e76	528
+S-TIP33	KC507066	MCP	MCP.S-TIP33.Podoviridae.KC507066	MCP_Podoviridae	VIR	a279cf00ab90bc35048840423b736ef1	507
+P-TIP34	KC507135	DNAPol	DNApol.P-TIP34.Podoviridae.KC507135	DNAPol_Podoviridae	VIR	7df5e3bf4c841094bf6454a8281a3a8b	280
+P-TIP42	KC507070	MCP	MCP.P-TIP42.Podoviridae.KC507070	MCP_Podoviridae	VIR	d087c9f95da0bee550ab80fe4f781e22	423
+S-TIP41	KC507078	MCP	MCP.S-TIP41.Podoviridae.KC507078	MCP_Podoviridae	VIR	0390f3bbc200399565fdcab4643743b5	417
+B6-2	KC507128	DNAPol	DNApol.B6-2.Podoviridae.KC507128	DNAPol_Podoviridae	VIR	9cf33b11ac152ff89f25f3a43164f465	534
+4dn	KC507120	DNAPol	DNApol.4dn.Podoviridae.KC507120	DNAPol_Podoviridae	VIR	503ac6943dcacd455b40b05d4b62f858	438
+P-SSP6	KC507153	DNAPol	DNApol.P-SSP6.Podoviridae.KC507153	DNAPol_Podoviridae	VIR	d28e195c6217224564c5456d57cfdeb6	537
+oc6d	KC507113	DNAPol	DNApol.oc6d.Podoviridae.KC507113	DNAPol_Podoviridae	VIR	b7d733b8c7591322fe5dc519d7774ea6	527
+S-TIP67	KC507138	DNAPol	DNApol.S-TIP67.Podoviridae.KC507138	DNAPol_Podoviridae	VIR	d1d7fbbdbffd5748422915f7c1d5e1b5	543
+P-SP1	KC507076	MCP	MCP.P-SP1.Podoviridae.KC507076	MCP_Podoviridae	VIR	82ec131a5e676ccc2ae3d26512b4fa4d	932
+P-SP1	KC507148	DNAPol	DNApol.P-SP1.Podoviridae.KC507148	DNAPol_Podoviridae	VIR	146ff7733ccffc168e8cb110328f7928	516
+S-TIP33	KC507146	DNAPol	DNApol.S-TIP33.Podoviridae.KC507146	DNAPol_Podoviridae	VIR	6bd0087202542f7c24bd896e47ff2829	476
+9f	KC507123	DNAPol	DNApol.9f.Podoviridae.KC507123	DNAPol_Podoviridae	VIR	a5fdc3cbe1c52847256a4e6680e0e17b	537
+B8-2	KC507125	DNAPol	DNApol.B8-2.Podoviridae.KC507125	DNAPol_Podoviridae	VIR	e4e3edd55b143025e71612aff6e4660a	534
+B2-1	KC507126	DNAPol	DNApol.B2-1.Podoviridae.KC507126	DNAPol_Podoviridae	VIR	695778898c261d703b13430371b62727	562
+oc6	KC507132	DNAPol	DNApol.oc6.Podoviridae.KC507132	DNAPol_Podoviridae	VIR	70ec9dcc99b33b2af30aa5f29a7ee808	443
+oc24e	KC507115	DNAPol	DNApol.oc24e.Podoviridae.KC507115	DNAPol_Podoviridae	VIR	93fc794be52c5930e5b485d502d8e366	444
+B4-4	KC507124	DNAPol	DNApol.B4-4.Podoviridae.KC507124	DNAPol_Podoviridae	VIR	5fc1144d2212acab0e4cdbf5ad0a8bf1	537
+c8b4	KC507105	DNAPol	DNApol.c8b4.Podoviridae.KC507105	DNAPol_Podoviridae	VIR	8e174dea13cbbc6e58d5e194a97145ad	537
+oc3d	KC507111	DNAPol	DNApol.oc3d.Podoviridae.KC507111	DNAPol_Podoviridae	VIR	d6e15cb417864ce80b754a6aba3d02f1	520
+S-RIP1	KC011001	MCP	MCP.S-RIP1.Podoviridae.KC011001	MCP_Podoviridae	VIR	93ea5bc9d9e8183046f120b456ec0caf	451
+S-TIP67	KC507079	MCP	MCP.S-TIP67.Podoviridae.KC507079	MCP_Podoviridae	VIR	6a73f942e9ca71cdb730ffd0267c04a2	429
+S-TIP30	KC507063	MCP	MCP.S-TIP30.Podoviridae.KC507063	MCP_Podoviridae	VIR	e07caba30bce4436dd3ea274d5b37e8c	578
+P-TIP39	KC507073	MCP	MCP.P-TIP39.Podoviridae.KC507073	MCP_Podoviridae	VIR	b1d4e85ebabb43b09557774dbd05c0fb	429
+P-GSP1	KC507150	DNAPol	DNApol.P-GSP1.Podoviridae.KC507150	DNAPol_Podoviridae	VIR	edfaf9ab505b16f322d5fed0b7c4bfca	510
+oc43	KC507118	DNAPol	DNApol.oc43.Podoviridae.KC507118	DNAPol_Podoviridae	VIR	d01a7acec716b0976ef75f00305b363c	524
+S-TIP46	KC507134	DNAPol	DNApol.S-TIP46.Podoviridae.KC507134	DNAPol_Podoviridae	VIR	f4c7981a5347fb6d37d684a9acde868e	477
+S-TIP37	KC507084	MCP	MCP.S-TIP37.Podoviridae.KC507084	MCP_Podoviridae	VIR	770e834069078467f7ea8a949df03a33	447
+S-RIP1	KC010998	DNAPol	DNApol.S-RIP1.Podoviridae.KC010998	DNAPol_Podoviridae	VIR	6885628301763c46e5834ceb8ad80d83	540
+S-TIP46	KC507077	MCP	MCP.S-TIP46.Podoviridae.KC507077	MCP_Podoviridae	VIR	f5ea867a47498c1b7e256fb7e1ad45d3	447
+5d	KC507122	DNAPol	DNApol.5d.Podoviridae.KC507122	DNAPol_Podoviridae	VIR	115a68eb70d180ace6ef73708fa6a717	531
+9515-10a	372217712	DNAPol	DNApol.9515-10a.Podoviridae.372217712	DNAPol_Podoviridae	VIR	eef3a5fae33a119bab00b42d28b26d70	1793
+P-GSP1	472343459	DNAPol	DNApol.P-GSP1.Podoviridae.472343459	DNAPol_Podoviridae	VIR	507a320ffd8cdf377437db558c68c17a	1733
+MED4-213	472340220	gp20	gp20.MED4-213.Myoviridae.472340220	gp20_Myoviridae	VIR	761478bbd22ea08f990fd30312b3b992	1683
+P-SSP2	372217655	MCP	MCP.P-SSP2.Podoviridae.372217655	MCP_Podoviridae	VIR	7ef6ddc9898e790ee2d67e31f1f22a1d	1314
+S-CAM8	514050763	gp20	gp20.S-CAM8.Myoviridae.514050763	gp20_Myoviridae	VIR	ccb45f5f3668684f24507e5b8ef95306	1608
+S-CBM2	HQ633061	gp23	gp23.S-CBM2.Myoviridae.HQ633061	gp23_Myoviridae	VIR	708f6edade9a64805b44c3ddf2af22fc	1365
+P-SSP10	472339117	MCP	MCP.P-SSP10.Podoviridae.472339117	MCP_Podoviridae	VIR	67b759f227fada0bd5950414c00319a3	1152
+P-RSM1	481019198	gp23	gp23.P-RSM1.Myoviridae.481019198	gp23_Myoviridae	VIR	f19b8253b5b9ec9230f7558f8e73130d	1380
+KBS-P-1A	472342816	DNAPol	DNApol.KBS-P-1A.Podoviridae.472342816	DNAPol_Podoviridae	VIR	21b44c5f05b3eaa8e682168d470cca39	1751
+NATL1A-7	372217768	DNAPol	DNApol.NATL1A-7.Podoviridae.372217768	DNAPol_Podoviridae	VIR	b95278aa4dd508a64657f70e7d2af72d	1628
+NATL2A-133	372217834	MCP	MCP.NATL2A-133.Podoviridae.372217834	MCP_Podoviridae	VIR	d5dabf6ca7f8dd0fe4811db43074d16a	1152
+P-SSP2	372217655	DNAPol	DNApol.P-SSP2.Podoviridae.372217655	DNAPol_Podoviridae	VIR	8dc76e34b2e5df8b93cb01848db24be0	1763
+S-CBP4	HM559717	MCP	MCP.S-CBP4.Podoviridae.HM559717	MCP_Podoviridae	VIR	2f233dd30c7a64e2bcfd98455bc3b113	1020
+S-IOM18	514051046	gp20	gp20.S-IOM18.Myoviridae.514051046	gp20_Myoviridae	VIR	b0292026e8869611814f31fc1c59257c	1608
+S-SSM6b	HQ316603	gp23	gp23.S-SSM6b.Myoviridae.HQ316603	gp23_Myoviridae	VIR	58f80b0d12405df34a4ebd5b05538da7	1389
+S-CBP3	HQ633062	MCP	MCP.S-CBP3.Podoviridae.HQ633062	MCP_Podoviridae	VIR	bfd7f5e331bd2c81d3058c5ff8e95626	1017
+9515-10a	372217712	MCP	MCP.9515-10a.Podoviridae.372217712	MCP_Podoviridae	VIR	d1d18905d2b35c37433c0a773308a16e	1152
+P-RSM3	HQ634176	gp23	gp23.P-RSM3.Myoviridae.HQ634176	gp23_Myoviridae	VIR	52defe627deef5bb3dc62c597074f7ab	1389
+P-SSP7	388483859	DNAPol	DNApol.P-SSP7.Podoviridae.388483859	DNAPol_Podoviridae	VIR	d12eda95677afb77d31dfb819c284dbf	1272
+S-RIM8	460042674	gp23	gp23.S-RIM8.Myoviridae.460042674	gp23_Myoviridae	VIR	f8314d076b58afc25f0f80282d5d36cd	1389
+S-RIM2	HQ317290	gp20	gp20.S-RIM2.Myoviridae.HQ317290	gp20_Myoviridae	VIR	853892e747eb5d0c7c0a4cc69c0fda14	1605
+P-RSM3	HQ634176	gp20	gp20.P-RSM3.Myoviridae.HQ634176	gp20_Myoviridae	VIR	6a0090b72e1a08f05f5ab57b5adac54a	1614
+P-SSP7	388483859	MCP	MCP.P-SSP7.Podoviridae.388483859	MCP_Podoviridae	VIR	934d635b93af69a715a9147e0f86ee6f	1128
+S-RIP1	472342931	MCP	MCP.S-RIP1.Podoviridae.472342931	MCP_Podoviridae	VIR	e72f592b0726f7ed04edf7654b70874b	489
+S-SSM6b	HQ316603	gp20	gp20.S-SSM6b.Myoviridae.HQ316603	gp20_Myoviridae	VIR	99bd64e9b07710e9818a629d03951a19	1617
+Syn30	481019412	gp20	gp20.Syn30.Myoviridae.481019412	gp20_Myoviridae	VIR	7e9c8f430feac81555a7090247e24690	1602
+S-RIM2	HQ317290	gp23	gp23.S-RIM2.Myoviridae.HQ317290	gp23_Myoviridae	VIR	573e3cd79470eb03f0e7a54d9f5c508b	1380
+P-SSP3	472343184	DNAPol	DNApol.P-SSP3.Podoviridae.472343184	DNAPol_Podoviridae	VIR	7a2191124b33c124d5ad0c6877d6551c	1763
+P-RSM1	481019198	gp20	gp20.P-RSM1.Myoviridae.481019198	gp20_Myoviridae	VIR	7f66e0c3aa2d3d514c364f4ecfba406a	1602
+S-RIP2	472339613	MCP	MCP.S-RIP2.Podoviridae.472339613	MCP_Podoviridae	VIR	9743aabcb91430b72cba3ecbf41a6b10	1146
+KBS-P-1A	472342816	MCP	MCP.KBS-P-1A.Podoviridae.472342816	MCP_Podoviridae	VIR	afc9a0bca898094ccbe77f8745852333	1146
+S-RIM8	460042674	gp20	gp20.S-RIM8.Myoviridae.460042674	gp20_Myoviridae	VIR	f138454221141feb809d9e13b4b990d2	1602
+KBS-M-1A	JF974293	gp23	gp23.KBS-M-1A.Myoviridae.JF974293	gp23_Myoviridae	VIR	5ad5b2dd7fcd8dc3142a44b9f5aa8cd1	1389
+S-SSM2	JF974292	gp20	gp20.S-SSM2.Myoviridae.JF974292	gp20_Myoviridae	VIR	1cae2105dbb083e414c6702ba4be119f	1650
+S-SKS1	472340845	gp20	gp20.S-SKS1.Myoviridae.472340845	gp20_Myoviridae	VIR	e5c6e8b3150c1f2de59d14df449ab20b	1656
+metaG-MbCM1	418487144	gp20	gp20.metaG-MbCM1.Myoviridae.418487144	gp20_Myoviridae	VIR	ff7a1dfd53b67cd559e6a9138052f69f	1593
+S-SSM2	JF974292	gp23	gp23.S-SSM2.Myoviridae.JF974292	gp23_Myoviridae	VIR	3c3498417c89a5e6b955f820993ec36b	1398
+NATL1A-7	372217768	MCP	MCP.NATL1A-7.Podoviridae.372217768	MCP_Podoviridae	VIR	01165e40d497ec85425db4f5681f2803	1017
+S-CBM2	HQ633061	gp20	gp20.S-CBM2.Myoviridae.HQ633061	gp20_Myoviridae	VIR	0e9628324183e3ba1f4647ded39bb063	1649
+S-CBP3	HQ633062	DNAPol	DNApol.S-CBP3.Podoviridae.HQ633062	DNAPol_Podoviridae	VIR	68df4392be1fd8cada9495d23553d8ba	1748
+MED4-213	472340220	gp23	gp23.MED4-213.Myoviridae.472340220	gp23_Myoviridae	VIR	aee0003b9a401a41a7a60cd69a8200b5	1368
+S-SSM6a	HQ317391	gp20	gp20.S-SSM6a.Myoviridae.HQ317391	gp20_Myoviridae	VIR	691e73045b6a396f38c847912dd29025	1692
+Syn10	HQ634191	gp20	gp20.Syn10.Myoviridae.HQ634191	gp20_Myoviridae	VIR	7d9520660a352da3b59979493fb1a684	1602
+P-GSP1	472343459	MCP	MCP.P-GSP1.Podoviridae.472343459	MCP_Podoviridae	VIR	b41043644671ad0dfee811679a45e518	1155
+S-CAM1	472339381	gp20	gp20.S-CAM1.Myoviridae.472339381	gp20_Myoviridae	VIR	371829a57ea6c9ff1b1dfbdfdab7304b	1698
+NATL2A-133	372217834	DNAPol	DNApol.NATL2A-133.Podoviridae.372217834	DNAPol_Podoviridae	VIR	b4901054f3b78d2342d11091cc547518	1791
+S-MbCM6	418487384	gp20	gp20.S-MbCM6.Myoviridae.418487384	gp20_Myoviridae	VIR	c157b5f700593e8f099fddf96347bc7a	1605
+Syn30	481019412	gp23	gp23.Syn30.Myoviridae.481019412	gp23_Myoviridae	VIR	9eb9b060a06e0af487e345d1ae5c7126	1377
+S-IOM18	514051046	gp23	gp23.S-IOM18.Myoviridae.514051046	gp23_Myoviridae	VIR	ecf04c588d24047f70730a599aeb08b4	1386
+P-SSM3	514231256	gp20	gp20.P-SSM3.Myoviridae.514231256	gp20_Myoviridae	VIR	f8f57083e4f2e918362a15c225ef575c	1614
+KBS-M-1A	JF974293	gp20	gp20.KBS-M-1A.Myoviridae.JF974293	gp20_Myoviridae	VIR	6f63a543f55e963fafa3966cc8b8f457	1602
+S-SKS1	472340845	gp23	gp23.S-SKS1.Myoviridae.472340845	gp23_Myoviridae	VIR	f653b5c915d8865361cec047a5d91812	1356
+S-RIP2	472339613	DNAPol	DNApol.S-RIP2.Podoviridae.472339613	DNAPol_Podoviridae	VIR	4d2caf366559b2c886eb90c880ee9787	1751
+Syn2	HQ634190	gp20	gp20.Syn2.Myoviridae.HQ634190	gp20_Myoviridae	VIR	3d15370c382afe9264db1005ccfd5bcf	1596
+S-CAM8	514050763	gp23	gp23.S-CAM8.Myoviridae.514050763	gp23_Myoviridae	VIR	b28ec0929fe4b8617e3984b5990c7336	1386
+P-RSM6	472341521	gp23	gp23.P-RSM6.Myoviridae.472341521	gp23_Myoviridae	VIR	22be308d9d7e8016786b56f0c2f6d8ab	1347
+P-SSP3	472343184	MCP	MCP.P-SSP3.Podoviridae.472343184	MCP_Podoviridae	VIR	260e486d079252a3e8d763ce108f7aea	1314
+S-RIP1	472342931	DNAPol	DNApol.S-RIP1.Podoviridae.472342931	DNAPol_Podoviridae	VIR	e3766ed262d085136be0404b81038444	1770
+S-SSM6a	HQ317391	gp23	gp23.S-SSM6a.Myoviridae.HQ317391	gp23_Myoviridae	VIR	ffe0027f5571634ec1e26b004da749ca	1407
+S-CAM1	472339381	gp23	gp23.S-CAM1.Myoviridae.472339381	gp23_Myoviridae	VIR	416f18e93e35649c27149c405309c6fc	1407
+P-RSM6	472341521	gp20	gp20.P-RSM6.Myoviridae.472341521	gp20_Myoviridae	VIR	bac02143b01caab51da77debccabb526	1623
+metaG-MbCM1	418487144	gp23	gp23.metaG-MbCM1.Myoviridae.418487144	gp23_Myoviridae	VIR	3bf05fffe3cb91b5835499fb11b22207	1380
+P-SSP10	472339117	DNAPol	DNApol.P-SSP10.Podoviridae.472339117	DNAPol_Podoviridae	VIR	f1fb5c63e31cb8099a9b88f5549f6c98	1805
+P-SSM3	514231256	gp23	gp23.P-SSM3.Myoviridae.514231256	gp23_Myoviridae	VIR	62b289b5f184c37ec0fc4daff01e5c94	1389
+S-CBP4	HM559717	DNAPol	DNApol.S-CBP4.Podoviridae.HM559717	DNAPol_Podoviridae	VIR	c51dfddbb5769186fdd2787436cf1dc6	1748
+S-MbCM6	418487384	gp23	gp23.S-MbCM6.Myoviridae.418487384	gp23_Myoviridae	VIR	a522f1b6ec0703652de9a1b1718ea636	543
